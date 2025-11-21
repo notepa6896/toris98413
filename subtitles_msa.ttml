@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt ttp:contentProfiles="http://www.w3.org/ns/ttml/profile/imsc1.1/text" xmlns="http://www.w3.org/ns/ttml" xmlns:nttm="http://www.netflix.com/ns/ttml#metadata" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xml="http://www.w3.org/XML/1998/namespace" ttp:tickRate="10000000" ttp:timeBase="media" xml:lang="id">
+<head>
+<metadata nttm:isSmpte608="true" nttm:schemaVersion="0" nttm:textType="SUBS" nttm:uuid="010995d0-e439-46d2-80ab-6a0a79d0a8c6"/>
+<styling>
+<initial tts:backgroundColor="transparent" tts:color="white" tts:displayAlign="after" tts:extent="80.000% 80.000%" tts:opacity="1.000" tts:origin="10.000% 10.000%" tts:showBackground="whenActive" tts:textAlign="center" tts:textOutline="black 0.300rh" tts:writingMode="lrtb"/>
+<style xml:id="style0" tts:fontStyle="normal" tts:fontWeight="normal"/>
+<style xml:id="style1" tts:fontStyle="italic" tts:fontWeight="normal"/>
+</styling>
+<layout>
+<region xml:id="region0" tts:displayAlign="after" tts:extent="80.000% 40.000%" tts:origin="10.000% 50.000%"/>
+<region xml:id="region1" tts:displayAlign="before" tts:extent="80.000% 40.000%" tts:origin="10.000% 10.000%"/>
+</layout>
+</head>
+<body>
+<div>
+<p xml:id="subtitle1" begin="256666666t" end="311250000t" region="region0" style="style0">Aku berlindung kepada Allah<br/>dari setan yang terkutuk.</p>
+<p xml:id="subtitle2" begin="312083333t" end="351666666t" region="region0" style="style0">Dengan menyebut nama Allah<br/>Yang Maha Pengasih lagi Maha Penyayang.</p>
+<p xml:id="subtitle3" begin="566250000t" end="588333333t" region="region1" style="style0">Nanti obatnya diminum ya, Bu.</p>
+<p xml:id="subtitle4" begin="594583333t" end="619583333t" region="region1" style="style0">Obat dokter tidak akan bikin<br/>aku sembuh, Pak.</p>
+<p xml:id="subtitle5" begin="660833333t" end="671250000t" region="region1" style="style0">Dingin, Pak.</p>
+<p xml:id="subtitle6" begin="680000000t" end="688750000t" region="region1" style="style0">Dingin, aku tidak kuat.</p>
+<p xml:id="subtitle7" begin="689583333t" end="710000000t" region="region1" style="style0">- Bu.<br/>- Bu?</p>
+<p xml:id="subtitle8" begin="710833333t" end="721250000t" region="region1" style="style0">Bu.</p>
+<p xml:id="subtitle9" begin="722083333t" end="732916666t" region="region1" style="style0">Pakai minyak kayu putih ya, Bu.</p>
+<p xml:id="subtitle10" begin="733750000t" end="745416666t" region="region1" style="style0">Bu?</p>
+<p xml:id="subtitle11" begin="755416666t" end="783750000t" region="region1" style="style0">Aku tidak bisa kayak gini terus, Pak,<br/>tiap malam.</p>
+<p xml:id="subtitle12" begin="784583333t" end="801250000t" region="region1" style="style0">Ini pasti dikerjai orang.</p>
+<p xml:id="subtitle13" begin="802083333t" end="815416666t" region="region1" style="style0">Kenapa, Bu?</p>
+<p xml:id="subtitle14" begin="888750000t" end="903750000t" region="region1" style="style0">Bu!</p>
+<p xml:id="subtitle15" begin="904583333t" end="916666666t" region="region1" style="style0">Sudah.</p>
+<p xml:id="subtitle16" begin="928333333t" end="949583333t" region="region0" style="style0">Bu, sadar! Bu?</p>
+<p xml:id="subtitle17" begin="968333333t" end="980833333t" region="region0" style="style0">Bu!</p>
+<p xml:id="subtitle18" begin="1016250000t" end="1034583333t" region="region0" style="style0">Bu!</p>
+<p xml:id="subtitle19" begin="1035416666t" end="1059166666t" region="region0" style="style0">Bu. <span style="style1">Astagfirullahaladzim.</span></p>
+<p xml:id="subtitle20" begin="1060000000t" end="1071250000t" region="region0" style="style0">Bu.</p>
+<p xml:id="subtitle21" begin="1086250000t" end="1102500000t" region="region0" style="style0">Bu?</p>
+<p xml:id="subtitle22" begin="1124166666t" end="1147083333t" region="region0" style="style0">Bu?</p>
+<p xml:id="subtitle23" begin="1153333333t" end="1175000000t" region="region0" style="style0">Bu! Bu, jangan!</p>
+<p xml:id="subtitle24" begin="1175833333t" end="1201666666t" region="region0" style="style0">- Ibu!<br/>- Ibu!</p>
+<p xml:id="subtitle25" begin="1207916666t" end="1223750000t" region="region0" style="style0">Bu, jangan.</p>
+<p xml:id="subtitle26" begin="1230416666t" end="1240833333t" region="region0" style="style0">Bu!</p>
+<p xml:id="subtitle27" begin="1255000000t" end="1282083333t" region="region0" style="style0">- Bu!<br/>- Bu…</p>
+<p xml:id="subtitle28" begin="1299166666t" end="1314166666t" region="region0" style="style0">- Sakit!<br/>- Bu!</p>
+<p xml:id="subtitle29" begin="1315000000t" end="1328333333t" region="region0" style="style0">- Bu!<br/>- Ibu, sakit!</p>
+<p xml:id="subtitle30" begin="1329166666t" end="1343333333t" region="region0" style="style0">- Ibu, sakit!<br/>- Lepaskan, Bu!</p>
+<p xml:id="subtitle31" begin="1344166666t" end="1359166666t" region="region0" style="style0">Ibu sakit, lepaskan!</p>
+<p xml:id="subtitle32" begin="1413333333t" end="1424583333t" region="region0" style="style0">Ayo, Yul, masuk.</p>
+<p xml:id="subtitle33" begin="1492916666t" end="1506250000t" region="region0" style="style0">Yuli.</p>
+<p xml:id="subtitle34" begin="1507083333t" end="1518333333t" region="region0" style="style0">Yuli tunggu sini, ya?</p>
+<p xml:id="subtitle35" begin="1519166666t" end="1554166666t" region="region0" style="style0">Bapak akan kembali setelah urus Ibu. Ya?</p>
+<p xml:id="subtitle36" begin="1617500000t" end="1630000000t" region="region0" style="style0">- Ya Allah, Bu. Bu?<br/>- Sakit, Pak.</p>
+<p xml:id="subtitle37" begin="1630833333t" end="1667083333t" region="region0" style="style0">- Sakit.<br/>- Sakit, Pak!</p>
+<p xml:id="subtitle38" begin="1667916666t" end="1683333333t" region="region0" style="style0">Jangan!</p>
+<p xml:id="subtitle39" begin="1684166666t" end="1706250000t" region="region0" style="style0">Lebih baik aku mati, Pak!</p>
+<p xml:id="subtitle40" begin="1707083333t" end="1728333333t" region="region0" style="style0">- Istigfar, Bu!<br/>- Tolong. Sakit, Pak.</p>
+<p xml:id="subtitle41" begin="1729166666t" end="1753333333t" region="region0" style="style0">Bu, kenapa? Jangan, Bu!</p>
+<p xml:id="subtitle42" begin="1754166666t" end="1766250000t" region="region0" style="style0">Ibu!</p>
+<p xml:id="subtitle43" begin="1873750000t" end="1892083333t" region="region0" style="style0">Bapak?</p>
+<p xml:id="subtitle44" begin="1892916666t" end="1914166666t" region="region0" style="style0">Bapak? Ibu?</p>
+<p xml:id="subtitle45" begin="1975833333t" end="1985833333t" region="region0" style="style0">Bapak?</p>
+<p xml:id="subtitle46" begin="2347083333t" end="2358750000t" region="region0" style="style0">Dik?</p>
+<p xml:id="subtitle47" begin="2359583333t" end="2387500000t" region="region0" style="style0">Dik, bangun.</p>
+<p xml:id="subtitle48" begin="2394583333t" end="2407083333t" region="region0" style="style0">Awas.</p>
+<p xml:id="subtitle49" begin="2407916666t" end="2421666666t" region="region0" style="style0">Awas, hati-hati.</p>
+<p xml:id="subtitle50" begin="2437083333t" end="2450416666t" region="region0" style="style0">Yuk.</p>
+<p xml:id="subtitle51" begin="2535416666t" end="2558750000t" region="region0" style="style0">Bapak? Ibu?</p>
+<p xml:id="subtitle52" begin="2585833333t" end="2594583333t" region="region0" style="style0">Ibu?</p>
+<p xml:id="subtitle53" begin="2602083333t" end="2619583333t" region="region0" style="style0">Ibu!</p>
+<p xml:id="subtitle54" begin="2620416666t" end="2648750000t" region="region0" style="style0">- Maaf, Ibu tidak boleh masuk.<br/>- Itu suamiku, Pak.</p>
+<p xml:id="subtitle55" begin="2649583333t" end="2680833333t" region="region0" style="style0">Ibu! Bapak!</p>
+<p xml:id="subtitle56" begin="2681666666t" end="2704583333t" region="region0" style="style0">- Pak!<br/>- Bapak!</p>
+<p xml:id="subtitle57" begin="2705416666t" end="2721250000t" region="region0" style="style0">- Tenang ya.<br/>- Ibu.</p>
+<p xml:id="subtitle58" begin="2722083333t" end="2740000000t" region="region0" style="style0">Bapak.</p>
+<p xml:id="subtitle59" begin="2740833333t" end="2762083333t" region="region0" style="style0">Sudah, sabar.</p>
+<p xml:id="subtitle60" begin="2762916666t" end="2777916666t" region="region0" style="style0">Ibu.</p>
+<p xml:id="subtitle61" begin="2915000000t" end="2943750000t" region="region0" style="style0">Dasar kau anak selingkuhan.</p>
+<p xml:id="subtitle62" begin="3256250000t" end="3277083333t" region="region0" style="style0">Ini masakan baru jadi, Yul?</p>
+<p xml:id="subtitle63" begin="3277916666t" end="3310416666t" region="region0" style="style0">Sudah jam segini lo.<br/>Dari tadi melakukan saja?</p>
+<p xml:id="subtitle64" begin="3311250000t" end="3325833333t" region="region0" style="style0">Nasinya, Yuli!</p>
+<p xml:id="subtitle65" begin="3336666666t" end="3350833333t" region="region0" style="style0">Ya, Teh, sebentar.</p>
+<p xml:id="subtitle66" begin="3390833333t" end="3410416666t" region="region0" style="style0">- Ke mana, Ka?<br/>- Ke surau.</p>
+<p xml:id="subtitle67" begin="3418750000t" end="3430416666t" region="region0" style="style0">Duluan ya, Pak.</p>
+<p xml:id="subtitle68" begin="3448750000t" end="3474166666t" region="region0" style="style0">Untuk apa mengaji setiap hari?<br/>Oma lagi sakit lo.</p>
+<p xml:id="subtitle69" begin="3475000000t" end="3490000000t" region="region0" style="style0">Tidak mau di rumah saja?</p>
+<p xml:id="subtitle70" begin="3490833333t" end="3518750000t" region="region0" style="style0">Tapi Tika sudah janji sama Abuya.</p>
+<p xml:id="subtitle71" begin="3519583333t" end="3543333333t" region="region0" style="style0">Yuli? Tika bantu.</p>
+<p xml:id="subtitle72" begin="3575833333t" end="3587916666t" region="region0" style="style0">Ibu?</p>
+<p xml:id="subtitle73" begin="3593750000t" end="3604583333t" region="region0" style="style0">Bu.</p>
+<p xml:id="subtitle74" begin="3605416666t" end="3631250000t" region="region0" style="style0">Yuli, kau belum membuat sambal ya?</p>
+<p xml:id="subtitle75" begin="3632083333t" end="3648750000t" region="region0" style="style0">Ya, setelah ini, Teh.</p>
+<p xml:id="subtitle76" begin="3649583333t" end="3671666666t" region="region0" style="style0">Aa Rudi tidak bisa makan<br/>kalau tidak ada sambalnya.</p>
+<p xml:id="subtitle77" begin="3672500000t" end="3683333333t" region="region0" style="style0">Masih panas.</p>
+<p xml:id="subtitle78" begin="3690833333t" end="3702916666t" region="region0" style="style0">Adik kok belum mandi?</p>
+<p xml:id="subtitle79" begin="3765833333t" end="3778750000t" region="region0" style="style0">Masih panas, bego!</p>
+<p xml:id="subtitle80" begin="3790000000t" end="3798750000t" region="region0" style="style0">Maaf, Bu.</p>
+<p xml:id="subtitle81" begin="3806250000t" end="3817083333t" region="region0" style="style0">Tika?</p>
+<p xml:id="subtitle82" begin="3817916666t" end="3828750000t" region="region0" style="style0">Hati-hati.</p>
+<p xml:id="subtitle83" begin="3845000000t" end="3874166666t" region="region0" style="style0">Yah, Bi. Oma tidak suka.</p>
+<p xml:id="subtitle84" begin="3883750000t" end="3899166666t" region="region0" style="style0">Minum dulu, Bu.</p>
+<p xml:id="subtitle85" begin="3937500000t" end="3965833333t" region="region0" style="style0">Oma, Tika duluan ya.</p>
+<p xml:id="subtitle86" begin="3966666666t" end="3983750000t" region="region0" style="style0">Adik, jaga Oma ya.</p>
+<p xml:id="subtitle87" begin="3984583333t" end="4015416666t" region="region0" style="style0">Dean, kau belum ganti baju dari tadi?</p>
+<p xml:id="subtitle88" begin="4016250000t" end="4042083333t" region="region0" style="style0">Cium sini coba. Anak Ibu sini, cium.</p>
+<p xml:id="subtitle89" begin="4042916666t" end="4071666666t" region="region0" style="style0">Bau perengus. Sudah, sana.</p>
+<p xml:id="subtitle90" begin="4072500000t" end="4082916666t" region="region0" style="style0">Tika!</p>
+<p xml:id="subtitle91" begin="4083750000t" end="4095833333t" region="region0" style="style0">Yuk.</p>
+<p xml:id="subtitle92" begin="4096666666t" end="4119583333t" region="region0" style="style0">- Sudah lama menunggu?<br/>- Tidak, baru aja.</p>
+<p xml:id="subtitle93" begin="4120416666t" end="4136250000t" region="region0" style="style0">- Baru?<br/>- Ya.</p>
+<p xml:id="subtitle94" begin="4175000000t" end="4258333333t" region="region0" style="style0">Dengan menyebut nama Allah<br/>Yang Maha Pengasih lagi Maha Penyayang.</p>
+<p xml:id="subtitle95" begin="4366666666t" end="4398750000t" region="region0" style="style0">Di dalam Al-Qur'an surat Al-Muthafiffin,</p>
+<p xml:id="subtitle96" begin="4399583333t" end="4422916666t" region="region0" style="style0">Allah SWT berfirman,</p>
+<p xml:id="subtitle97" begin="4423750000t" end="4491666666t" region="region0" style="style0"><span style="style1">&quot;Kalla inna kitabal-fujjari lafi sijjin.&quot;</span></p>
+<p xml:id="subtitle98" begin="4492500000t" end="4545416666t" region="region0" style="style0">Bahwa setiap perbuatan durhaka<br/>dicatatkan di dalam <span style="style1">sijjin.</span></p>
+<p xml:id="subtitle99" begin="4552916666t" end="4577083333t" region="region0" style="style0"><span style="style1">Wa ma adraka ma sijjin.</span></p>
+<p xml:id="subtitle100" begin="4577916666t" end="4591666666t" region="region0" style="style0">Apakah itu <span style="style1">sijjin?</span></p>
+<p xml:id="subtitle101" begin="4592500000t" end="4608750000t" region="region0" style="style0">Ya, selanjutnya dikatakan,</p>
+<p xml:id="subtitle102" begin="4609583333t" end="4628333333t" region="region0" style="style0"><span style="style1">&quot;Kitabum marqum.&quot;</span></p>
+<p xml:id="subtitle103" begin="4629166666t" end="4687500000t" region="region0" style="style0">Kitab yang mencatat<br/>setiap perbuatan durhaka kita.</p>
+<p xml:id="subtitle104" begin="4688333333t" end="4733750000t" region="region0" style="style0">Tapi kalau untuk amal saleh,<br/>perbuatan baik kita,</p>
+<p xml:id="subtitle105" begin="4734583333t" end="4753333333t" region="region0" style="style0">akan dicatatkan oleh malaikat</p>
+<p xml:id="subtitle106" begin="4754166666t" end="4789583333t" region="region0" style="style0">di dalam kitab yang namanya<br/>adalah <span style="style1">illiyyin.</span></p>
+<p xml:id="subtitle107" begin="4795833333t" end="4809166666t" region="region0" style="style0">Lihat itu.</p>
+<p xml:id="subtitle108" begin="4810000000t" end="4824583333t" region="region0" style="style0">Rumahnya sudah lama kosong.</p>
+<p xml:id="subtitle109" begin="4831666666t" end="4852083333t" region="region0" style="style0">Ya juga. Itu gelap banget.</p>
+<p xml:id="subtitle110" begin="4857500000t" end="4874583333t" region="region0" style="style0">Apa? Bekas apa?</p>
+<p xml:id="subtitle111" begin="4890416666t" end="4917916666t" region="region0" style="style0">- Hantu!<br/><span style="style1">- Astagfirullahaladzim.</span></p>
+<p xml:id="subtitle112" begin="5021250000t" end="5040000000t" region="region0" style="style0">Roh-roh yang ada di sini,</p>
+<p xml:id="subtitle113" begin="5053333333t" end="5072916666t" region="region0" style="style0">di sini ada sajen.</p>
+<p xml:id="subtitle114" begin="5088750000t" end="5112083333t" region="region0" style="style0">Hadir dan beri tahu aku.</p>
+<p xml:id="subtitle115" begin="5166666666t" end="5184583333t" region="region0" style="style0">Hadir dan beri tahu aku.</p>
+<p xml:id="subtitle116" begin="5204166666t" end="5220416666t" region="region0" style="style0">Hadir dan beri tahu aku.</p>
+<p xml:id="subtitle117" begin="5235833333t" end="5256250000t" region="region0" style="style0">Hadir dan beri tahu aku.</p>
+<p xml:id="subtitle118" begin="5558333333t" end="5567916666t" region="region0" style="style0">Asalamualaikum.</p>
+<p xml:id="subtitle119" begin="5577500000t" end="5602916666t" region="region0" style="style0">Adik, Teteh sudah bilang,<br/>jangan main gituan.</p>
+<p xml:id="subtitle120" begin="5611250000t" end="5633750000t" region="region0" style="style0">Kata teman Dean, kalau kita pakai ini,</p>
+<p xml:id="subtitle121" begin="5634583333t" end="5650833333t" region="region0" style="style0">kita bisa bicara<br/>sama orang yang sudah mati, Kak.</p>
+<p xml:id="subtitle122" begin="5651666666t" end="5681666666t" region="region0" style="style0">Mana ada orang yang sudah mati<br/>bisa diajak bicara?</p>
+<p xml:id="subtitle123" begin="5691250000t" end="5709583333t" region="region0" style="style0">Oma kenapa?</p>
+<p xml:id="subtitle124" begin="5718333333t" end="5744583333t" region="region0" style="style0">Aduh. Tika tambahkan bantalnya ya?</p>
+<p xml:id="subtitle125" begin="5752916666t" end="5772083333t" region="region0" style="style0">Lehernya angkat dulu.</p>
+<p xml:id="subtitle126" begin="5792500000t" end="5812916666t" region="region0" style="style0">Bi Yuli mau coba bicara<br/>sama orang mati juga?</p>
+<p xml:id="subtitle127" begin="5869166666t" end="5885833333t" region="region0" style="style0">Dulu mau.</p>
+<p xml:id="subtitle128" begin="5895000000t" end="5927083333t" region="region0" style="style0">Tiap kangen sama Almarhum Bapak dan Ibu.</p>
+<p xml:id="subtitle129" begin="5950000000t" end="5963750000t" region="region0" style="style0">Oma?</p>
+<p xml:id="subtitle130" begin="5971250000t" end="5980000000t" region="region0" style="style0">Kenapa?</p>
+<p xml:id="subtitle131" begin="5980833333t" end="6022916666t" region="region0" style="style0">Bi, tolong ambil oksigen. Oma kenapa?</p>
+<p xml:id="subtitle132" begin="6023750000t" end="6037500000t" region="region0" style="style0">- Bi Yuli, titip ya?<br/>- Ya.</p>
+<p xml:id="subtitle133" begin="6038333333t" end="6051666666t" region="region0" style="style0">- Tika panggil Ibu dulu.<br/>- Ya.</p>
+<p xml:id="subtitle134" begin="6052500000t" end="6064583333t" region="region0" style="style0">Kak Tika, cepat!</p>
+<p xml:id="subtitle135" begin="6148750000t" end="6183333333t" region="region0" style="style0">Bapak dan ibumu layak mati!</p>
+<p xml:id="subtitle136" begin="6227500000t" end="6238750000t" region="region0" style="style0">Bu?</p>
+<p xml:id="subtitle137" begin="6239583333t" end="6261250000t" region="region0" style="style0">Ibu? Kak, bantu.</p>
+<p xml:id="subtitle138" begin="6262083333t" end="6284166666t" region="region0" style="style0">- Bangunkan.<br/>- Bangunkan saja.</p>
+<p xml:id="subtitle139" begin="6285000000t" end="6296250000t" region="region0" style="style0">- Inhaler.<br/>- Inhaler?</p>
+<p xml:id="subtitle140" begin="6297083333t" end="6315833333t" region="region0" style="style0">Inhaler atau obat saja?</p>
+<p xml:id="subtitle141" begin="6359583333t" end="6372083333t" region="region0" style="style0">- Oma.<br/>- Bu?</p>
+<p xml:id="subtitle142" begin="6372916666t" end="6387500000t" region="region0" style="style0">Bu?</p>
+<p xml:id="subtitle143" begin="6388333333t" end="6404583333t" region="region0" style="style0">- Oma?<br/>- Bu? Ibu.</p>
+<p xml:id="subtitle144" begin="6405416666t" end="6427916666t" region="region0" style="style0">Ibu kenapa?</p>
+<p xml:id="subtitle145" begin="6428750000t" end="6439583333t" region="region0" style="style0">Oma…</p>
+<p xml:id="subtitle146" begin="6464583333t" end="6478750000t" region="region0" style="style0">Ya ampun.</p>
+<p xml:id="subtitle147" begin="6479583333t" end="6492500000t" region="region0" style="style0">Ibu…</p>
+<p xml:id="subtitle148" begin="6507083333t" end="6516250000t" region="region0" style="style0">Oma?</p>
+<p xml:id="subtitle149" begin="6555416666t" end="6564166666t" region="region0" style="style0">Bangun, Bu.</p>
+<p xml:id="subtitle150" begin="6574166666t" end="6595000000t" region="region0" style="style0">- Bu?<br/>- Bu, sudah tidak ada.</p>
+<p xml:id="subtitle151" begin="6602916666t" end="6617916666t" region="region0" style="style0">Oma…</p>
+<p xml:id="subtitle152" begin="6618750000t" end="6635416666t" region="region0" style="style0">- Bu.<br/>- Oma.</p>
+<p xml:id="subtitle153" begin="6636250000t" end="6666250000t" region="region0" style="style0">- Oma.<br/>- Bu, bangun.</p>
+<p xml:id="subtitle154" begin="6667083333t" end="6681666666t" region="region0" style="style0">Oma.</p>
+<p xml:id="subtitle155" begin="6691250000t" end="6701666666t" region="region0" style="style0">- Ibu.<br/>- Oma.</p>
+<p xml:id="subtitle156" begin="6702500000t" end="6740000000t" region="region0" style="style0">- Oma. Oma!<br/>- Ibu…</p>
+<p xml:id="subtitle157" begin="6767500000t" end="6786666666t" region="region0" style="style0">Asalamualaikum.</p>
+<p xml:id="subtitle158" begin="6798333333t" end="6834166666t" region="region0" style="style0">Tika, turut berduka cita ya.</p>
+<p xml:id="subtitle159" begin="6835000000t" end="6855000000t" region="region0" style="style0"><span style="style1">Innalillahi wa inna ilaihi rajiun,</span><br/>sabar ya.</p>
+<p xml:id="subtitle160" begin="6855833333t" end="6875833333t" region="region0" style="style0">- Asalamualaikum.<br/>- Alaikum salam.</p>
+<p xml:id="subtitle161" begin="7134166666t" end="7164166666t" region="region0" style="style0">Yang bukan muhrim, silakan keluar dulu.</p>
+<p xml:id="subtitle162" begin="7275416666t" end="7292083333t" region="region0" style="style0">Sedang apa kau di sini?</p>
+<p xml:id="subtitle163" begin="7322500000t" end="7333750000t" region="region0" style="style0">Sana, keluar.</p>
+<p xml:id="subtitle164" begin="7347916666t" end="7365833333t" region="region0" style="style0">Siapkan kafan buat Ibu.</p>
+<p xml:id="subtitle165" begin="7533750000t" end="7567083333t" region="region0" style="style0">Sebelum kita salatkan<br/>dan kuburkan bersama,</p>
+<p xml:id="subtitle166" begin="7567916666t" end="7588333333t" region="region0" style="style0">siapa yang ingin mencium, silakan,</p>
+<p xml:id="subtitle167" begin="7589166666t" end="7608333333t" region="region0" style="style0">tapi jangan sampai kena air mata, ya?</p>
+<p xml:id="subtitle168" begin="8017083333t" end="8032916666t" region="region0" style="style0">Goblok!</p>
+<p xml:id="subtitle169" begin="8033750000t" end="8053333333t" region="region0" style="style0">Makan tidak?</p>
+<p xml:id="subtitle170" begin="8054166666t" end="8079166666t" region="region0" style="style0">Makan!</p>
+<p xml:id="subtitle171" begin="8080000000t" end="8099583333t" region="region0" style="style0">- Goblok!<br/>- Ampun, Bu!</p>
+<p xml:id="subtitle172" begin="8100416666t" end="8117916666t" region="region0" style="style0">Sudah dikasih makan,<br/>dasar anak selingkuhan!</p>
+<p xml:id="subtitle173" begin="8129583333t" end="8149583333t" region="region0" style="style0"><span style="style1">Makan!</span></p>
+<p xml:id="subtitle174" begin="8150416666t" end="8162083333t" region="region0" style="style0"><span style="style1">Bu.</span></p>
+<p xml:id="subtitle175" begin="8162916666t" end="8184166666t" region="region0" style="style0"><span style="style1">- Ini!</span><br/><span style="style1">- Tidak mau, Bu, ampun!</span></p>
+<p xml:id="subtitle176" begin="8211250000t" end="8227916666t" region="region0" style="style0">Ampun, Bu.</p>
+<p xml:id="subtitle177" begin="8242083333t" end="8255833333t" region="region0" style="style0">Ampun apaan?</p>
+<p xml:id="subtitle178" begin="8294166666t" end="8311250000t" region="region0" style="style0">Ibu sudah mati.</p>
+<p xml:id="subtitle179" begin="8312083333t" end="8320833333t" region="region0" style="style0">Ibu sudah mati.</p>
+<p xml:id="subtitle180" begin="8321666666t" end="8341666666t" region="region0" style="style0">Mati kau!</p>
+<p xml:id="subtitle181" begin="8392500000t" end="8403333333t" region="region0" style="style0">Yuli!</p>
+<p xml:id="subtitle182" begin="8404166666t" end="8418750000t" region="region0" style="style0">Yuli!</p>
+<p xml:id="subtitle183" begin="8419583333t" end="8435833333t" region="region0" style="style0"><span style="style1">Astagfirullahaladzim.</span></p>
+<p xml:id="subtitle184" begin="8436666666t" end="8456250000t" region="region0" style="style0">Kau senang ya Ibu meninggal?</p>
+<p xml:id="subtitle185" begin="8463750000t" end="8490833333t" region="region0" style="style0">Sudah bagus dari kecil Ibu mengurusmu.</p>
+<p xml:id="subtitle186" begin="8491666666t" end="8517083333t" region="region0" style="style0">Sekarang di depan Ibu,<br/>kau malah bertingkah.</p>
+<p xml:id="subtitle187" begin="8517916666t" end="8542916666t" region="region0" style="style0">Tidak tahu di untung kau, Yul.</p>
+<p xml:id="subtitle188" begin="8543750000t" end="8558750000t" region="region0" style="style0">Dasar anak selingkuhan!</p>
+<p xml:id="subtitle189" begin="8559583333t" end="8577083333t" region="region0" style="style0">Bu Laras. Sabar, Bu.</p>
+<p xml:id="subtitle190" begin="8577916666t" end="8600000000t" region="region0" style="style0">Tidak boleh kita seperti itu<br/>di depan jenazah.</p>
+<p xml:id="subtitle191" begin="8620416666t" end="8631666666t" region="region0" style="style0">- Pegangi Ibu.<br/>- Ya.</p>
+<p xml:id="subtitle192" begin="8632500000t" end="8647500000t" region="region0" style="style0">- Aduh.<br/>- Bu…</p>
+<p xml:id="subtitle193" begin="8648333333t" end="8667083333t" region="region0" style="style0">Bu, ayo.</p>
+<p xml:id="subtitle194" begin="8835833333t" end="8878333333t" region="region0" style="style0">Bu, Bapak kok tidak pulang-pulang?</p>
+<p xml:id="subtitle195" begin="8886666666t" end="8897500000t" region="region0" style="style0">Masuk yuk.</p>
+<p xml:id="subtitle196" begin="8898333333t" end="8932916666t" region="region0" style="style0">Tidak mau. Laras mau tunggu Bapak.</p>
+<p xml:id="subtitle197" begin="8933750000t" end="8949583333t" region="region0" style="style0">Bapak ke mana, Bu?</p>
+<p xml:id="subtitle198" begin="9432083333t" end="9450416666t" region="region0" style="style0">Si Yuli itu anak selingkuhan.</p>
+<p xml:id="subtitle199" begin="9451250000t" end="9485000000t" region="region0" style="style0">Lihat itu.<br/>Mukanya saja beda sama Bu Laras.</p>
+<p xml:id="subtitle200" begin="9485833333t" end="9517500000t" region="region0" style="style0">Ya, Bu, beda banget mukanya.</p>
+<p xml:id="subtitle201" begin="9530000000t" end="9549166666t" region="region0" style="style0">Aa Rudi, bukan di sana.</p>
+<p xml:id="subtitle202" begin="9556666666t" end="9578333333t" region="region0" style="style0">Bukan di sana tempatnya.</p>
+<p xml:id="subtitle203" begin="9588750000t" end="9605416666t" region="region0" style="style0">Bukan di sana tempatnya.</p>
+<p xml:id="subtitle204" begin="9606250000t" end="9626666666t" region="region0" style="style0">Kau sudah dua bulan tidak pintar-pintar.</p>
+<p xml:id="subtitle205" begin="9627500000t" end="9642916666t" region="region0" style="style0">Sudah, di sana.</p>
+<p xml:id="subtitle206" begin="9643750000t" end="9673333333t" region="region0" style="style0">Lihat, sudah ditaruh di sana semuanya.</p>
+<p xml:id="subtitle207" begin="9674166666t" end="9708333333t" region="region0" style="style0">- Tapi katanya di atas.<br/>- Tidak, di sini.</p>
+<p xml:id="subtitle208" begin="9709166666t" end="9727916666t" region="region0" style="style0">- Ya.<br/>- Bagaimana ini?</p>
+<p xml:id="subtitle209" begin="9746666666t" end="9759583333t" region="region0" style="style0">- Sini, Mas?<br/>- Ya.</p>
+<p xml:id="subtitle210" begin="9775000000t" end="9792500000t" region="region0" style="style0">Ini.</p>
+<p xml:id="subtitle211" begin="9793333333t" end="9815833333t" region="region0" style="style0">- Terima kasih Pak.<br/>- Ya, sama-sama.</p>
+<p xml:id="subtitle212" begin="9837500000t" end="9847083333t" region="region0" style="style0">Hei.</p>
+<p xml:id="subtitle213" begin="9852500000t" end="9865000000t" region="region0" style="style0">Jangan atuh.</p>
+<p xml:id="subtitle214" begin="9865833333t" end="9897083333t" region="region0" style="style0">Semuanya harus dikumpulkan,<br/>kasih ke Teteh.</p>
+<p xml:id="subtitle215" begin="9897916666t" end="9911250000t" region="region0" style="style0">Yuli?</p>
+<p xml:id="subtitle216" begin="9927083333t" end="9938750000t" region="region0" style="style0">Apa ini?</p>
+<p xml:id="subtitle217" begin="9951250000t" end="9978750000t" region="region0" style="style0">Memangnya masih kurang ya<br/>yang dikasih Ibu kepadamu?</p>
+<p xml:id="subtitle218" begin="9979583333t" end="10010416666t" region="region0" style="style0">- Bukan, barusan si Yono…<br/>- Kau ini jadi orang…</p>
+<p xml:id="subtitle219" begin="10011250000t" end="10027916666t" region="region0" style="style0">Kau selalu merasa kurang.</p>
+<p xml:id="subtitle220" begin="10028750000t" end="10057500000t" region="region0" style="style0">- Mau dikasih ke Teteh.<br/>- Ini kenapa kau dapat dari Yono?</p>
+<p xml:id="subtitle221" begin="10064166666t" end="10077500000t" region="region0" style="style0">Apa yang kau lakukan dengan Yono?</p>
+<p xml:id="subtitle222" begin="10078333333t" end="10092083333t" region="region0" style="style0">Tidak ada apa-apa, Teh.</p>
+<p xml:id="subtitle223" begin="10092916666t" end="10115416666t" region="region0" style="style0">- Apa yang kau lakukan dengan Yono?<br/>- Tidak ada, ini…</p>
+<p xml:id="subtitle224" begin="10116250000t" end="10144583333t" region="region0" style="style0">Dasar perempuan murahan ya!<br/>Sama saja kayak ibumu!</p>
+<p xml:id="subtitle225" begin="10209166666t" end="10228333333t" region="region0" style="style0">Apa? Kenapa maju?</p>
+<p xml:id="subtitle226" begin="10229166666t" end="10250000000t" region="region0" style="style0">Berani kau sekarang sama aku, ya?</p>
+<p xml:id="subtitle227" begin="10250833333t" end="10266250000t" region="region0" style="style0">Jangan mentang-mentang<br/>sekarang Ibu sudah tidak ada,</p>
+<p xml:id="subtitle228" begin="10267083333t" end="10287500000t" region="region0" style="style0">lalu kau berani sama aku.<br/>Mau melawan, ya?</p>
+<p xml:id="subtitle229" begin="10295833333t" end="10322500000t" region="region0" style="style0">Sudah, biarkan saja, Aa,<br/>biar semua orang tahu dia siapa.</p>
+<p xml:id="subtitle230" begin="10323333333t" end="10339583333t" region="region0" style="style0">Sudah. Ya?</p>
+<p xml:id="subtitle231" begin="10340416666t" end="10355000000t" region="region0" style="style0">Sudah, kau ke sana.</p>
+<p xml:id="subtitle232" begin="10363750000t" end="10378333333t" region="region0" style="style0">Mari, Bu.</p>
+<p xml:id="subtitle233" begin="10379166666t" end="10398750000t" region="region0" style="style0">- Mencari apa?<br/>- Gula.</p>
+<p xml:id="subtitle234" begin="10399583333t" end="10415416666t" region="region0" style="style0">Gula?</p>
+<p xml:id="subtitle235" begin="10416250000t" end="10428750000t" region="region0" style="style0">Aa Rudi!</p>
+<p xml:id="subtitle236" begin="10429583333t" end="10452083333t" region="region0" style="style0">Sebentar ya.</p>
+<p xml:id="subtitle237" begin="10535416666t" end="10548750000t" region="region0" style="style0">Makan dulu, Yul.</p>
+<p xml:id="subtitle238" begin="10615833333t" end="10626250000t" region="region0" style="style0">Yon.</p>
+<p xml:id="subtitle239" begin="10648333333t" end="10662500000t" region="region0" style="style0">Tolong aku, Yon.</p>
+<p xml:id="subtitle240" begin="10925833333t" end="10938333333t" region="region0" style="style0">Kau tunggu di sini.</p>
+<p xml:id="subtitle241" begin="10939166666t" end="10955833333t" region="region0" style="style0">Aku sendiri saja.</p>
+<p xml:id="subtitle242" begin="11191666666t" end="11206666666t" region="region0" style="style0">Permisi.</p>
+<p xml:id="subtitle243" begin="11207500000t" end="11227500000t" region="region0" style="style0">Aba?</p>
+<p xml:id="subtitle244" begin="11318333333t" end="11329166666t" region="region0" style="style0">Neng Yuli?</p>
+<p xml:id="subtitle245" begin="11335416666t" end="11349583333t" region="region0" style="style0">Masuk.</p>
+<p xml:id="subtitle246" begin="11486666666t" end="11505833333t" region="region0" style="style0">Aku ingin keluarga ini hancur,</p>
+<p xml:id="subtitle247" begin="11514166666t" end="11534583333t" region="region0" style="style0">seperti mereka menghancurkan hidupku.</p>
+<p xml:id="subtitle248" begin="11545000000t" end="11571666666t" region="region0" style="style0">Yang kemarin sudah mati?</p>
+<p xml:id="subtitle249" begin="11603750000t" end="11642083333t" region="region0" style="style0">Kau mau mereka buta, cacat,</p>
+<p xml:id="subtitle250" begin="11654583333t" end="11668333333t" region="region0" style="style0">atau mati?</p>
+<p xml:id="subtitle251" begin="11669166666t" end="11682916666t" region="region0" style="style0">Aku ingin…</p>
+<p xml:id="subtitle252" begin="11723333333t" end="11740416666t" region="region0" style="style0">Semuanya mati.</p>
+<p xml:id="subtitle253" begin="11751250000t" end="11776666666t" region="region0" style="style0">Kau sudah siap dengan risikonya?</p>
+<p xml:id="subtitle254" begin="12078750000t" end="12108750000t" region="region0" style="style0">Mataku di alam semesta.</p>
+<p xml:id="subtitle255" begin="12109583333t" end="12147083333t" region="region0" style="style0">Batinku di alam gaib.</p>
+<p xml:id="subtitle256" begin="12147916666t" end="12197916666t" region="region0" style="style0">Aku mohon maaf kepada semua makhluk.</p>
+<p xml:id="subtitle257" begin="12198750000t" end="12246250000t" region="region0" style="style0">Aku mohon petunjuk yang ada di sana.</p>
+<p xml:id="subtitle258" begin="12425833333t" end="12467083333t" region="region0" style="style0">Ada satu santet yang bisa<br/>mewujudkan keinginanmu.</p>
+<p xml:id="subtitle259" begin="12467916666t" end="12500000000t" region="region0" style="style0">Santet itu sangat berbahaya dan mematikan.</p>
+<p xml:id="subtitle260" begin="12500833333t" end="12536250000t" region="region0" style="style0">Santet itu butuh mayat yang segar</p>
+<p xml:id="subtitle261" begin="12537083333t" end="12552916666t" region="region0" style="style0">dan belum 40 hari.</p>
+<p xml:id="subtitle262" begin="12560000000t" end="12571250000t" region="region0" style="style0">Kalau…</p>
+<p xml:id="subtitle263" begin="12585000000t" end="12621666666t" region="region0" style="style0">jenazahnya masih satu keluarga,<br/>bagaimana, Ba?</p>
+<p xml:id="subtitle264" begin="12633333333t" end="12643750000t" region="region0" style="style0">Itu lebih baik.</p>
+<p xml:id="subtitle265" begin="13462916666t" end="13486250000t" region="region0" style="style0">- Sebentar.<br/>- Satu, dua, tiga.</p>
+<p xml:id="subtitle266" begin="13508333333t" end="13525833333t" region="region0" style="style0">- Lagi.<br/>- Dua, tiga.</p>
+<p xml:id="subtitle267" begin="13554583333t" end="13585416666t" region="region0" style="style0">- Ayo.<br/>- Dua, tiga.</p>
+<p xml:id="subtitle268" begin="13895833333t" end="13911666666t" region="region0" style="style0">Ayo cepat.</p>
+<p xml:id="subtitle269" begin="14019583333t" end="14035000000t" region="region0" style="style0">Yon, ayo.</p>
+<p xml:id="subtitle270" begin="14093750000t" end="14113333333t" region="region0" style="style0">Sebentar.</p>
+<p xml:id="subtitle271" begin="14114166666t" end="14132083333t" region="region0" style="style0">Satu, dua, tiga.</p>
+<p xml:id="subtitle272" begin="14343333333t" end="14369166666t" region="region0" style="style0">- Tunggu di luar aja.<br/>- Ya, siap.</p>
+<p xml:id="subtitle273" begin="15659583333t" end="15676666666t" region="region0" style="style0">Darah bertemu darah.</p>
+<p xml:id="subtitle274" begin="15677500000t" end="15697500000t" region="region0" style="style0">Darah bertemu darah.</p>
+<p xml:id="subtitle275" begin="15698333333t" end="15712083333t" region="region0" style="style0">Kulit bertemu kulit.</p>
+<p xml:id="subtitle276" begin="15712916666t" end="15730833333t" region="region0" style="style0">Kulit bertemu kulit.</p>
+<p xml:id="subtitle277" begin="15731666666t" end="15747916666t" region="region0" style="style0">Daging bertemu daging.</p>
+<p xml:id="subtitle278" begin="15748750000t" end="15765416666t" region="region0" style="style0">Daging bertemu daging.</p>
+<p xml:id="subtitle279" begin="15766250000t" end="15785416666t" region="region0" style="style0">Sungsang terhalang oleh sungsang.</p>
+<p xml:id="subtitle280" begin="15786250000t" end="15810000000t" region="region0" style="style0">Sungsang terhalang oleh sungsang.</p>
+<p xml:id="subtitle281" begin="15810833333t" end="15824583333t" region="region0" style="style0">Langit hitam, bumi hitam.</p>
+<p xml:id="subtitle282" begin="15825416666t" end="15850833333t" region="region0" style="style0">Langit hitam, bumi hitam.</p>
+<p xml:id="subtitle283" begin="15851666666t" end="15890833333t" region="region0" style="style0">Aku dikendalikan oleh nenek moyangku.</p>
+<p xml:id="subtitle284" begin="15917083333t" end="15927083333t" region="region0" style="style0">Aku dikendalikan…</p>
+<p xml:id="subtitle285" begin="16025416666t" end="16047916666t" region="region0" style="style0">Aku dikendalikan oleh nenek moyangku.</p>
+<p xml:id="subtitle286" begin="16058333333t" end="16092083333t" region="region0" style="style0">Semua orang hancur di hadapanku.</p>
+<p xml:id="subtitle287" begin="16112083333t" end="16143750000t" region="region0" style="style0">Hancur, hancur, hancur.</p>
+<p xml:id="subtitle288" begin="16150833333t" end="16185833333t" region="region0" style="style0">Aku meminta kepada Ratu Santet<br/>di gunung tinggi.</p>
+<p xml:id="subtitle289" begin="16192083333t" end="16215416666t" region="region0" style="style0">Aku tahu Ratu selalu menginginkan sesuatu.</p>
+<p xml:id="subtitle290" begin="16222083333t" end="16242500000t" region="region0" style="style0">Aku bawakan sesajen kesukaan Ratu.</p>
+<p xml:id="subtitle291" begin="16243333333t" end="16255000000t" region="region0" style="style0">Terimalah perintahku</p>
+<p xml:id="subtitle292" begin="16255833333t" end="16280416666t" region="region0" style="style0">untuk menghancurkan semua orang ini.</p>
+<p xml:id="subtitle293" begin="16535000000t" end="16568750000t" region="region0" style="style0">Kematian mereka semua ada di tanganmu.</p>
+<p xml:id="subtitle294" begin="16617500000t" end="16662916666t" region="region0" style="style0">Kau harus menyelesaikannya<br/>sebelum mayat ini membusuk.</p>
+<p xml:id="subtitle295" begin="16675833333t" end="16711666666t" region="region0" style="style0">Kau harus melakukan ritual ini<br/>sampai selesai.</p>
+<p xml:id="subtitle296" begin="16712500000t" end="16724166666t" region="region0" style="style0">Kalau tidak,</p>
+<p xml:id="subtitle297" begin="16725000000t" end="16751250000t" region="region0" style="style0">semua santet itu akan berbalik kepadamu.</p>
+<p xml:id="subtitle298" begin="16784166666t" end="16840416666t" region="region0" style="style0">Jin sangat menyukai orang-orang<br/>yang berdosa dan sesat.</p>
+<p xml:id="subtitle299" begin="16856250000t" end="16904166666t" region="region0" style="style0">Kau pastikan mereka itu pendosa<br/>dan pantas mati.</p>
+<p xml:id="subtitle300" begin="16985000000t" end="17013750000t" region="region0" style="style0">Allahu Akbar.</p>
+<p xml:id="subtitle301" begin="17024166666t" end="17049166666t" region="region0" style="style0">Allahu Akbar.</p>
+<p xml:id="subtitle302" begin="17237916666t" end="17260416666t" region="region0" style="style0">Allahu Akbar.</p>
+<p xml:id="subtitle303" begin="17301250000t" end="17318333333t" region="region0" style="style0">Allahu Akbar.</p>
+<p xml:id="subtitle304" begin="17373750000t" end="17396666666t" region="region0" style="style0">Allahu Akbar.</p>
+<p xml:id="subtitle305" begin="17444583333t" end="17463333333t" region="region0" style="style0">Allahu Akbar.</p>
+<p xml:id="subtitle306" begin="18801250000t" end="18815416666t" region="region0" style="style0">Kenapa kau, Tik?</p>
+<p xml:id="subtitle307" begin="18826666666t" end="18845000000t" region="region0" style="style0">Tadi ada Oma, Bi, di sana.</p>
+<p xml:id="subtitle308" begin="18851666666t" end="18872916666t" region="region0" style="style0">Di kasur, Bi. Tadi sungguh ada!</p>
+<p xml:id="subtitle309" begin="18878333333t" end="18899166666t" region="region0" style="style0">Perasaanmu saja.</p>
+<p xml:id="subtitle310" begin="18900000000t" end="18921250000t" region="region0" style="style0">Sudah, sana tidur. Sudah malam.</p>
+<p xml:id="subtitle311" begin="19051250000t" end="19076666666t" region="region0" style="style0">Kenapa tidak hati-hati, Kak?</p>
+<p xml:id="subtitle312" begin="19090000000t" end="19113750000t" region="region0" style="style0">Tapi Tika sungguh merasa<br/>ada yang tidak beres, Bu.</p>
+<p xml:id="subtitle313" begin="19114583333t" end="19143750000t" region="region0" style="style0">Masa tidak ada apa-apa,<br/>foto bisa jatuh sendiri?</p>
+<p xml:id="subtitle314" begin="19144583333t" end="19155416666t" region="region0" style="style0">Aneh, 'kan?</p>
+<p xml:id="subtitle315" begin="19162083333t" end="19180833333t" region="region0" style="style0">Jangan-jangan itu Oma?</p>
+<p xml:id="subtitle316" begin="19194166666t" end="19223750000t" region="region0" style="style0">Kemarin, Dean coba bicara sama Oma.</p>
+<p xml:id="subtitle317" begin="19224583333t" end="19240000000t" region="region0" style="style0">Lalu, Oma menjawab.</p>
+<p xml:id="subtitle318" begin="19247500000t" end="19260416666t" region="region0" style="style0">Kata Oma,</p>
+<p xml:id="subtitle319" begin="19267083333t" end="19279166666t" region="region0" style="style0">&quot;Sakit.&quot;</p>
+<p xml:id="subtitle320" begin="19280000000t" end="19294583333t" region="region0" style="style0">Hei!</p>
+<p xml:id="subtitle321" begin="19295416666t" end="19315833333t" region="region0" style="style0">Sudah, jangan bicara seperti itu.</p>
+<p xml:id="subtitle322" begin="19316666666t" end="19334166666t" region="region0" style="style0">Kau juga kenapa masih main gituan?</p>
+<p xml:id="subtitle323" begin="19335000000t" end="19349583333t" region="region0" style="style0">Dean serius.</p>
+<p xml:id="subtitle324" begin="19350416666t" end="19372916666t" region="region0" style="style0">Kalo Oma sungguh kesakitan, bagaimana?</p>
+<p xml:id="subtitle325" begin="19401666666t" end="19442500000t" region="region0" style="style0">Bu, nanti malam,<br/>kita jadi tiga harian untuk Oma?</p>
+<p xml:id="subtitle326" begin="19469166666t" end="19491666666t" region="region0" style="style0">Tahlilan itu buat apa, Kak?</p>
+<p xml:id="subtitle327" begin="19498333333t" end="19528750000t" region="region0" style="style0">Kau sendiri yang bilang<br/>Oma sudah meninggal.</p>
+<p xml:id="subtitle328" begin="19529583333t" end="19552916666t" region="region0" style="style0">Justru seharusnya kita yang didoakan, Kak.</p>
+<p xml:id="subtitle329" begin="19563333333t" end="19575000000t" region="region0" style="style0">Biar ikhlas.</p>
+<p xml:id="subtitle330" begin="19575833333t" end="19615000000t" region="region0" style="style0">Ya, tapi mengirim doa buat Oma<br/>juga tidak ada salahnya, 'kan, Bu?</p>
+<p xml:id="subtitle331" begin="19615833333t" end="19648333333t" region="region0" style="style0">Biar Oma juga tenang di sana. Ya?</p>
+<p xml:id="subtitle332" begin="19663333333t" end="19680833333t" region="region0" style="style0">Kau atur sajalah ya?</p>
+<p xml:id="subtitle333" begin="19733750000t" end="19747500000t" region="region0" style="style0">Yuli.</p>
+<p xml:id="subtitle334" begin="19777500000t" end="19807083333t" region="region0" style="style0">Aku memanggilmu dari tadi,<br/>tapi kau baru muncul.</p>
+<p xml:id="subtitle335" begin="19807916666t" end="19818333333t" region="region0" style="style0">Lihat itu.</p>
+<p xml:id="subtitle336" begin="19819166666t" end="19845416666t" region="region0" style="style0">Masa harus aku sendiri<br/>yang bereskan itu semua?</p>
+<p xml:id="subtitle337" begin="19865833333t" end="19892916666t" region="region0" style="style0">Nanti buat tiga hariannya Oma,<br/>kalau kau butuh apa-apa,</p>
+<p xml:id="subtitle338" begin="19899583333t" end="19911250000t" region="region0" style="style0">suruh Bi Yuli saja.</p>
+<p xml:id="subtitle339" begin="19912083333t" end="19923333333t" region="region0" style="style0">Biar dia yang mengurus.</p>
+<p xml:id="subtitle340" begin="19924166666t" end="19935000000t" region="region0" style="style0">Ya.</p>
+<p xml:id="subtitle341" begin="19935833333t" end="19949583333t" region="region0" style="style0">Aku tidak bisa hari ini.</p>
+<p xml:id="subtitle342" begin="19950416666t" end="19964166666t" region="region0" style="style0">Mau ke mana kau?</p>
+<p xml:id="subtitle343" begin="19973750000t" end="19998333333t" region="region0" style="style0">- Tidak ke toko?<br/>- Ada urusan.</p>
+<p xml:id="subtitle344" begin="19999166666t" end="20012916666t" region="region0" style="style0">Ada apa denganmu, Yul?</p>
+<p xml:id="subtitle345" begin="20013750000t" end="20034166666t" region="region0" style="style0">Kau kerja tidak mau,</p>
+<p xml:id="subtitle346" begin="20035000000t" end="20051250000t" region="region0" style="style0">mengurus tahlilan tidak mau.</p>
+<p xml:id="subtitle347" begin="20052083333t" end="20087083333t" region="region0" style="style0">Benar-benar melunjak sejak Ibu tiada.</p>
+<p xml:id="subtitle348" begin="20096250000t" end="20108333333t" region="region0" style="style0">Yuli.</p>
+<p xml:id="subtitle349" begin="20117916666t" end="20142916666t" region="region0" style="style0">- Malah pergi lagi, hei.<br/>- Bu, sudah.</p>
+<p xml:id="subtitle350" begin="20143750000t" end="20174166666t" region="region0" style="style0">Sudah, nanti biar Tika saja yang belikan.</p>
+<p xml:id="subtitle351" begin="20175000000t" end="20189166666t" region="region0" style="style0">Sekalian ke surau.</p>
+<p xml:id="subtitle352" begin="20209166666t" end="20225000000t" region="region0" style="style0">Duluan ya, Aa.</p>
+<p xml:id="subtitle353" begin="20241250000t" end="20252500000t" region="region0" style="style0">Hati-hati.</p>
+<p xml:id="subtitle354" begin="20253333333t" end="20263750000t" region="region0" style="style0">Tasmu, Dik.</p>
+<p xml:id="subtitle355" begin="20275833333t" end="20287916666t" region="region0" style="style0">Semalam,</p>
+<p xml:id="subtitle356" begin="20296250000t" end="20321666666t" region="region0" style="style0">aku merasa ada yang tidak beres, Abuya.</p>
+<p xml:id="subtitle357" begin="20329166666t" end="20359166666t" region="region0" style="style0">Aku merasa ada sesuatu yang berusaha masuk<br/>ke dalam rumahku.</p>
+<p xml:id="subtitle358" begin="20365416666t" end="20385416666t" region="region0" style="style0">Terus aku juga dengar suara Oma.</p>
+<p xml:id="subtitle359" begin="20399166666t" end="20413750000t" region="region0" style="style0">Tapi apa mungkin ya, Abuya,</p>
+<p xml:id="subtitle360" begin="20414583333t" end="20446250000t" region="region0" style="style0">kalau arwah yang baru meninggal itu<br/>bisa datang ke orang terdekatnya</p>
+<p xml:id="subtitle361" begin="20447083333t" end="20457083333t" region="region0" style="style0">sebelum 40 hari?</p>
+<p xml:id="subtitle362" begin="20483333333t" end="20537916666t" region="region0" style="style0">Islam itu tidak mengenal<br/>konsep arwah gentayangan.</p>
+<p xml:id="subtitle363" begin="20549166666t" end="20595416666t" region="region0" style="style0">Manusia, begitu dia wafat,<br/>masuk di dalam kubur,</p>
+<p xml:id="subtitle364" begin="20596250000t" end="20625000000t" region="region0" style="style0">dia sudah sibuk menjawab<br/>pertanyaan dari malaikat.</p>
+<p xml:id="subtitle365" begin="20635000000t" end="20667083333t" region="region0" style="style0">Untuk mempertanggungjawabkan<br/>semua amal perbuatan</p>
+<p xml:id="subtitle366" begin="20667916666t" end="20683750000t" region="region0" style="style0">yang dilakukan dia di dunia.</p>
+<p xml:id="subtitle367" begin="20694583333t" end="20757500000t" region="region0" style="style0">Jadi, kalau Tika melihat ada sosok</p>
+<p xml:id="subtitle368" begin="20766250000t" end="20812083333t" region="region0" style="style0">yang mirip dengan orang yang Tika kenal<br/>yang sudah meninggal,</p>
+<p xml:id="subtitle369" begin="20812916666t" end="20835416666t" region="region0" style="style0">itu sudah pasti kerjaannya jin.</p>
+<p xml:id="subtitle370" begin="20836250000t" end="20867083333t" region="region0" style="style0"><span style="style1">Ya-Sin.</span></p>
+<p xml:id="subtitle371" begin="20867916666t" end="20898750000t" region="region0" style="style0">Demi Al-Qur'an yang penuh hikmah,</p>
+<p xml:id="subtitle372" begin="20899583333t" end="20933333333t" region="region0" style="style0">sungguh engkau, Muhammad,<br/>adalah salah seorang dari rasul-rasul,</p>
+<p xml:id="subtitle373" begin="20934166666t" end="20968750000t" region="region0" style="style0">yang berada di atas jalan yang lurus,</p>
+<p xml:id="subtitle374" begin="20969583333t" end="21007083333t" region="region0" style="style0">sebagai wahyu yang diturunkan oleh Allah<br/>Yang Mahaperkasa, Maha Penyayang,</p>
+<p xml:id="subtitle375" begin="21007916666t" end="21038333333t" region="region0" style="style0">agar engkau memberi peringatan<br/>kepada suatu kaum</p>
+<p xml:id="subtitle376" begin="21039166666t" end="21072500000t" region="region0" style="style0">yang nenek moyangnya belum pernah diberi<br/>peringatan, karena itu mereka lalai.</p>
+<p xml:id="subtitle377" begin="21073333333t" end="21112916666t" region="region0" style="style0">Sungguh, pasti berlaku hukuman<br/>terhadap kebanyakan mereka,</p>
+<p xml:id="subtitle378" begin="21113750000t" end="21142916666t" region="region0" style="style0">karena mereka tidak beriman.</p>
+<p xml:id="subtitle379" begin="21336250000t" end="21348333333t" region="region0" style="style0">Bapak?</p>
+<p xml:id="subtitle380" begin="21355000000t" end="21365833333t" region="region0" style="style0">Ibu?</p>
+<p xml:id="subtitle381" begin="21380000000t" end="21390000000t" region="region0" style="style0">Dean?</p>
+<p xml:id="subtitle382" begin="21613750000t" end="21626250000t" region="region0" style="style0">Bu…</p>
+<p xml:id="subtitle383" begin="21675416666t" end="21687083333t" region="region0" style="style0">Oma…</p>
+<p xml:id="subtitle384" begin="21703333333t" end="21715833333t" region="region0" style="style0">Dean kangen.</p>
+<p xml:id="subtitle385" begin="21728333333t" end="21743333333t" region="region0" style="style0">Oma masih di sini, 'kan?</p>
+<p xml:id="subtitle386" begin="21857500000t" end="21881666666t" region="region0" style="style0">Darah bertemu darah.</p>
+<p xml:id="subtitle387" begin="21896250000t" end="21919166666t" region="region0" style="style0">Kulit bertemu kulit.</p>
+<p xml:id="subtitle388" begin="21920000000t" end="21940416666t" region="region0" style="style0">Daging bertemu daging.</p>
+<p xml:id="subtitle389" begin="21941250000t" end="21964583333t" region="region0" style="style0">Sungsang terhalang oleh sungsang.</p>
+<p xml:id="subtitle390" begin="21965416666t" end="21995416666t" region="region0" style="style0">Langit hitam, bumi hitam.</p>
+<p xml:id="subtitle391" begin="22077500000t" end="22130000000t" region="region0" style="style0">Aku dikendalikan oleh nenek moyangku.</p>
+<p xml:id="subtitle392" begin="22130833333t" end="22187083333t" region="region0" style="style0">Semua orang hancur di hadapanku.</p>
+<p xml:id="subtitle393" begin="22244583333t" end="22262916666t" region="region0" style="style0">Hancur.</p>
+<p xml:id="subtitle394" begin="22269166666t" end="22288750000t" region="region0" style="style0">Hancur.</p>
+<p xml:id="subtitle395" begin="22301666666t" end="22317083333t" region="region0" style="style0">Hancur.</p>
+<p xml:id="subtitle396" begin="22355416666t" end="22395000000t" region="region0" style="style0">Aku meminta kepada Ratu Santet<br/>di gunung tinggi.</p>
+<p xml:id="subtitle397" begin="22424166666t" end="22468750000t" region="region0" style="style0">Aku tahu Ratu selalu menginginkan sesuatu.</p>
+<p xml:id="subtitle398" begin="22469583333t" end="22492916666t" region="region0" style="style0">Aku bawakan sesajen kesukaan Ratu.</p>
+<p xml:id="subtitle399" begin="22493750000t" end="22520416666t" region="region0" style="style0">Terimalah perintahku</p>
+<p xml:id="subtitle400" begin="22521250000t" end="22555416666t" region="region0" style="style0">untuk menghancurkan semua orang ini.</p>
+<p xml:id="subtitle401" begin="22670833333t" end="22687916666t" region="region0" style="style0">Oma mau bilang apa lagi sama Dean?</p>
+<p xml:id="subtitle402" begin="22768333333t" end="22781666666t" region="region0" style="style0">I…</p>
+<p xml:id="subtitle403" begin="22815000000t" end="22829583333t" region="region0" style="style0">K…</p>
+<p xml:id="subtitle404" begin="22846666666t" end="22859583333t" region="region0" style="style0">U…</p>
+<p xml:id="subtitle405" begin="22897083333t" end="22913333333t" region="region0" style="style0">T…</p>
+<p xml:id="subtitle406" begin="22951250000t" end="22965000000t" region="region0" style="style0">O…</p>
+<p xml:id="subtitle407" begin="22990833333t" end="23000833333t" region="region0" style="style0">A…</p>
+<p xml:id="subtitle408" begin="23026666666t" end="23037916666t" region="region0" style="style0">A…</p>
+<p xml:id="subtitle409" begin="23038750000t" end="23055416666t" region="region0" style="style0">Ikut Oma?</p>
+<p xml:id="subtitle410" begin="23142916666t" end="23171250000t" region="region0" style="style0">- Terima kasih, Pak.<br/>- Terima kasih.</p>
+<p xml:id="subtitle411" begin="23176666666t" end="23192916666t" region="region0" style="style0">Terima kasih, Bu.</p>
+<p xml:id="subtitle412" begin="23330000000t" end="23338750000t" region="region0" style="style0">Kak Tika!</p>
+<p xml:id="subtitle413" begin="23339583333t" end="23365416666t" region="region0" style="style0">Ibu! Bapak! Tolong!</p>
+<p xml:id="subtitle414" begin="23467083333t" end="23476250000t" region="region0" style="style0">Dean?</p>
+<p xml:id="subtitle415" begin="23575000000t" end="23589583333t" region="region0" style="style0">Dean?</p>
+<p xml:id="subtitle416" begin="23621250000t" end="23632500000t" region="region0" style="style0">Dean?</p>
+<p xml:id="subtitle417" begin="23710833333t" end="23728333333t" region="region0" style="style0">Kak Tika! Ibu!</p>
+<p xml:id="subtitle418" begin="23729166666t" end="23745000000t" region="region0" style="style0">Bapak! Tolong!</p>
+<p xml:id="subtitle419" begin="23745833333t" end="23756250000t" region="region0" style="style0">Dean?</p>
+<p xml:id="subtitle420" begin="23986666666t" end="24015833333t" region="region0" style="style0">Ibu! Bapak!</p>
+<p xml:id="subtitle421" begin="24027916666t" end="24042083333t" region="region0" style="style0">Ada apa?</p>
+<p xml:id="subtitle422" begin="24050000000t" end="24066666666t" region="region0" style="style0">Dean?</p>
+<p xml:id="subtitle423" begin="24067500000t" end="24089166666t" region="region0" style="style0">- Dean!<br/>- Dean?</p>
+<p xml:id="subtitle424" begin="24090000000t" end="24105416666t" region="region0" style="style0">Tika, kenapa adikmu?</p>
+<p xml:id="subtitle425" begin="24106250000t" end="24125833333t" region="region0" style="style0">Kenapa?</p>
+<p xml:id="subtitle426" begin="24126666666t" end="24152500000t" region="region0" style="style0">- Dean?<br/>- Dean!</p>
+<p xml:id="subtitle427" begin="24153333333t" end="24182916666t" region="region0" style="style0">Astagfirullah.</p>
+<p xml:id="subtitle428" begin="24281250000t" end="24295000000t" region="region0" style="style0">Terima kasih.</p>
+<p xml:id="subtitle429" begin="24605416666t" end="24637500000t" region="region0" style="style0">Ini semua bukan gara-gara ke dukun itu,<br/>bukan, Yul?</p>
+<p xml:id="subtitle430" begin="24647916666t" end="24672500000t" region="region0" style="style0">Keponakanmu meninggal bukan karena hal<br/>yang kita lakukan waktu itu, 'kan?</p>
+<p xml:id="subtitle431" begin="24673333333t" end="24691666666t" region="region0" style="style0">Dia bukan keponakanku.</p>
+<p xml:id="subtitle432" begin="24692500000t" end="24731666666t" region="region0" style="style0">Aku membantumu karena aku tahu<br/>kau dijahati orang.</p>
+<p xml:id="subtitle433" begin="24744583333t" end="24759166666t" region="region0" style="style0">Tapi tidak kayak gini juga, Yul.</p>
+<p xml:id="subtitle434" begin="24765416666t" end="24781250000t" region="region0" style="style0">Sudah gila kau, Yul.</p>
+<p xml:id="subtitle435" begin="24788750000t" end="24808333333t" region="region0" style="style0">Kau ikut semuanya dari awal.</p>
+<p xml:id="subtitle436" begin="24823750000t" end="24836666666t" region="region0" style="style0">Berarti kau terlibat.</p>
+<p xml:id="subtitle437" begin="24860000000t" end="24889583333t" region="region0" style="style0">Dan balasan yang mereka terima<br/>sekarang adalah karma.</p>
+<p xml:id="subtitle438" begin="24906250000t" end="24917916666t" region="region0" style="style0">Bukan karena aku.</p>
+<p xml:id="subtitle439" begin="24960416666t" end="24983333333t" region="region0" style="style0">Semuanya salah aku, Abuya.</p>
+<p xml:id="subtitle440" begin="25005833333t" end="25032500000t" region="region0" style="style0">Aku seharusnya bisa lebih menasihati Dean.</p>
+<p xml:id="subtitle441" begin="25033333333t" end="25059166666t" region="region0" style="style0">Seharusnya aku ambil saja papannya.</p>
+<p xml:id="subtitle442" begin="25060000000t" end="25085416666t" region="region0" style="style0">Seharusnya aku langsung cek kamarnya<br/>untuk tahlilan.</p>
+<p xml:id="subtitle443" begin="25086250000t" end="25099583333t" region="region0" style="style0">Istigfar, Tika.</p>
+<p xml:id="subtitle444" begin="25115833333t" end="25162916666t" region="region0" style="style0"><span style="style1">Astagfirullahaladzim.</span></p>
+<p xml:id="subtitle445" begin="25163750000t" end="25194166666t" region="region0" style="style0">Astagfirullah.</p>
+<p xml:id="subtitle446" begin="25220416666t" end="25256250000t" region="region0" style="style0">Aku merasa ada sesuatu yang jahat<br/>sama keluargaku.</p>
+<p xml:id="subtitle447" begin="25262916666t" end="25282916666t" region="region0" style="style0">Tapi aku tidak mengerti itu apa.</p>
+<p xml:id="subtitle448" begin="25283750000t" end="25307916666t" region="region0" style="style0">Aku harus bagaimana, Abuya?</p>
+<p xml:id="subtitle449" begin="25314583333t" end="25348333333t" region="region0" style="style0">Rasulullah saw pernah disihir</p>
+<p xml:id="subtitle450" begin="25355833333t" end="25405000000t" region="region0" style="style0">oleh seorang perempuan<br/>menggunakan buhul yang diikat.</p>
+<p xml:id="subtitle451" begin="25419166666t" end="25450000000t" region="region0" style="style0">Lalu, buhul tersebut<br/>disimpan di bawah batu.</p>
+<p xml:id="subtitle452" begin="25450833333t" end="25471666666t" region="region0" style="style0">Di dasar sumur Dzarwan.</p>
+<p xml:id="subtitle453" begin="25472500000t" end="25517083333t" region="region0" style="style0">Lalu, Rasulullah memerintahkan sahabat<br/>untuk datang melihat sumur tersebut.</p>
+<p xml:id="subtitle454" begin="25517916666t" end="25544166666t" region="region0" style="style0">Dan bertepatan dengan itu…</p>
+<p xml:id="subtitle455" begin="25560416666t" end="25600416666t" region="region0" style="style0">turunlah wahyu Al-Mu'awwidzatain.</p>
+<p xml:id="subtitle456" begin="25601250000t" end="25639583333t" region="region0" style="style0">Yaitu surah Al-Falaq dan An-Naas.</p>
+<p xml:id="subtitle457" begin="25640416666t" end="25667916666t" region="region0" style="style0">Saat itu dibacakan oleh Rasulullah.</p>
+<p xml:id="subtitle458" begin="25668750000t" end="25701666666t" region="region0" style="style0">Lalu, tali yang mengikat buhul tersebut,</p>
+<p xml:id="subtitle459" begin="25709166666t" end="25735833333t" region="region0" style="style0">sebelas tali itu, putus satu demi satu.</p>
+<p xml:id="subtitle460" begin="25762500000t" end="25785000000t" region="region0" style="style0">Nanti malam kau salat tahajud.</p>
+<p xml:id="subtitle461" begin="25804166666t" end="25830416666t" region="region0" style="style0"><span style="style1">Ambil wudu, salat,</span></p>
+<p xml:id="subtitle462" begin="25840000000t" end="25857083333t" region="region0" style="style0">mohon ampun kepada Allah.</p>
+<p xml:id="subtitle463" begin="25857916666t" end="25912083333t" region="region0" style="style0">Aku niat salat sunah Tahajud dua rakaat<br/>karena Allah ta'ala.</p>
+<p xml:id="subtitle464" begin="25928750000t" end="25962083333t" region="region0" style="style0">Allahu Akbar.</p>
+<p xml:id="subtitle465" begin="25962916666t" end="25992500000t" region="region0" style="style0">Lalu, setelah itu, kirim doa.</p>
+<p xml:id="subtitle466" begin="25993333333t" end="26015833333t" region="region0" style="style0">Minta perlindungan kepada Allah.</p>
+<p xml:id="subtitle467" begin="26036666666t" end="26055000000t" region="region0" style="style0">Ya Allah.</p>
+<p xml:id="subtitle468" begin="26085416666t" end="26112500000t" region="region0" style="style0">Lindungilah kedua orang tua hamba,</p>
+<p xml:id="subtitle469" begin="26137500000t" end="26169583333t" region="region0" style="style0">Rudianto dan Larasati,</p>
+<p xml:id="subtitle470" begin="26170416666t" end="26200416666t" region="region0" style="style0">dari segala mara bahaya dan tipu daya.</p>
+<p xml:id="subtitle471" begin="26227500000t" end="26260416666t" region="region0" style="style0">Amin.</p>
+<p xml:id="subtitle472" begin="26422083333t" end="26432500000t" region="region0" style="style0">Neng.</p>
+<p xml:id="subtitle473" begin="26439583333t" end="26450000000t" region="region0" style="style0">Tunggu.</p>
+<p xml:id="subtitle474" begin="26460000000t" end="26469583333t" region="region0" style="style0">Neng.</p>
+<p xml:id="subtitle475" begin="26478333333t" end="26488750000t" region="region0" style="style0">Laras.</p>
+<p xml:id="subtitle476" begin="26511250000t" end="26527500000t" region="region0" style="style0">Kau mau ke mana?</p>
+<p xml:id="subtitle477" begin="26528333333t" end="26540416666t" region="region0" style="style0">Toko.</p>
+<p xml:id="subtitle478" begin="26546666666t" end="26556666666t" region="region0" style="style0">Toko?</p>
+<p xml:id="subtitle479" begin="26577083333t" end="26593750000t" region="region0" style="style0">Kau punya perasaan tidak?</p>
+<p xml:id="subtitle480" begin="26606250000t" end="26622083333t" region="region0" style="style0">Anak kita baru meninggal.</p>
+<p xml:id="subtitle481" begin="26632083333t" end="26655833333t" region="region0" style="style0">- Kau mau kerja?<br/>- Lalu, aku harus apa?</p>
+<p xml:id="subtitle482" begin="26704583333t" end="26727083333t" region="region0" style="style0">Anakku habis meninggal.</p>
+<p xml:id="subtitle483" begin="26727916666t" end="26740833333t" region="region0" style="style0">Ibu aku juga.</p>
+<p xml:id="subtitle484" begin="26741666666t" end="26759583333t" region="region0" style="style0">Lalu, aku harus apa, Aa?</p>
+<p xml:id="subtitle485" begin="26786666666t" end="26807916666t" region="region0" style="style0">Yah, jadi seperti ibunya, Laras.</p>
+<p xml:id="subtitle486" begin="26820833333t" end="26836666666t" region="region0" style="style0">Belum satu hari lo.</p>
+<p xml:id="subtitle487" begin="26837500000t" end="26851250000t" region="region0" style="style0">Tidak ada yang jaga, Aa.</p>
+<p xml:id="subtitle488" begin="26852083333t" end="26874583333t" region="region0" style="style0">- Suruh aja Yono.<br/>- Tidak bisa atuh.</p>
+<p xml:id="subtitle489" begin="26935416666t" end="26955416666t" region="region0" style="style0">Berkali-kali sudah dibilangin ya.</p>
+<p xml:id="subtitle490" begin="26956250000t" end="26980000000t" region="region0" style="style0">Kalau menaruh sesuatu,<br/>hati-hati, Aa Rudi.</p>
+<p xml:id="subtitle491" begin="26980833333t" end="27000000000t" region="region0" style="style0">Ini jadinya kejadian.</p>
+<p xml:id="subtitle492" begin="27000833333t" end="27020833333t" region="region0" style="style0">Sayang itu pecah.</p>
+<p xml:id="subtitle493" begin="27042916666t" end="27069583333t" region="region0" style="style0">- Kenapa itu? Sini, diobati.<br/>- Tidak usah.</p>
+<p xml:id="subtitle494" begin="27070416666t" end="27086666666t" region="region0" style="style0">Ya sudah kalau tidak mau ditolong.</p>
+<p xml:id="subtitle495" begin="27218333333t" end="27238750000t" region="region0" style="style0">Biarkan saja.</p>
+<p xml:id="subtitle496" begin="27239583333t" end="27263750000t" region="region0" style="style0">Diperban dulu biar bisa lanjut kerja.</p>
+<p xml:id="subtitle497" begin="27415000000t" end="27426250000t" region="region0" style="style0">Terima kasih, Yul.</p>
+<p xml:id="subtitle498" begin="27456250000t" end="27470000000t" region="region0" style="style0">Ditinggal saja.</p>
+<p xml:id="subtitle499" begin="27477916666t" end="27492916666t" region="region0" style="style0">Nanti aku yang bereskan.</p>
+<p xml:id="subtitle500" begin="27687916666t" end="27705416666t" region="region0" style="style0">Apalagi ini?</p>
+<p xml:id="subtitle501" begin="27706250000t" end="27745000000t" region="region0" style="style0">- Ini, Teh.<br/>- Astaga, Yuli.</p>
+<p xml:id="subtitle502" begin="27745833333t" end="27773333333t" region="region0" style="style0">Kau bekerja tidak pernah benar.</p>
+<p xml:id="subtitle503" begin="27774166666t" end="27803333333t" region="region0" style="style0">Dari dulu kerjaannya<br/>cuma bisa menyusahkan hidupku saja.</p>
+<p xml:id="subtitle504" begin="27804166666t" end="27815416666t" region="region0" style="style0">- Gara-gara kau…<br/>- Sudah, Ras!</p>
+<p xml:id="subtitle505" begin="27834583333t" end="27856250000t" region="region0" style="style0">Kok kau malah belain dia?</p>
+<p xml:id="subtitle506" begin="27870416666t" end="27894166666t" region="region0" style="style0">Ini juga seharusnya kerjaanmu.</p>
+<p xml:id="subtitle507" begin="27902916666t" end="27918750000t" region="region0" style="style0">Kau yang keterlaluan.</p>
+<p xml:id="subtitle508" begin="27919583333t" end="27943333333t" region="region0" style="style0">Bisa ya sekarang<br/>kau bicara kayak gitu sama aku?</p>
+<p xml:id="subtitle509" begin="27944166666t" end="27960416666t" region="region0" style="style0">Diguna-guna ya kau sama dia?</p>
+<p xml:id="subtitle510" begin="27961250000t" end="27977916666t" region="region0" style="style0">Aku cuma bicara jujur, Ras.</p>
+<p xml:id="subtitle511" begin="27978750000t" end="27996666666t" region="region0" style="style0">Dari dulu Yuli tidak pernah melawan.</p>
+<p xml:id="subtitle512" begin="27997500000t" end="28012500000t" region="region0" style="style0">Kalian jadiin dia kayak pembantu.</p>
+<p xml:id="subtitle513" begin="28013333333t" end="28030833333t" region="region0" style="style0">Padahal dia keluargamu, 'kan?</p>
+<p xml:id="subtitle514" begin="28031666666t" end="28044583333t" region="region0" style="style0">Dia bukan keluarga aku.</p>
+<p xml:id="subtitle515" begin="28045416666t" end="28061250000t" region="region0" style="style0">Kalo gitu, berhenti suruh-suruh.</p>
+<p xml:id="subtitle516" begin="28062083333t" end="28087083333t" region="region0" style="style0">Kau cuma bisanya merintah orang.</p>
+<p xml:id="subtitle517" begin="28087916666t" end="28110416666t" region="region0" style="style0">Bahkan kau menikahiku karena itu, 'kan?</p>
+<p xml:id="subtitle518" begin="28131666666t" end="28142500000t" region="region0" style="style0">Karena aku lebih miskin.</p>
+<p xml:id="subtitle519" begin="28158750000t" end="28169583333t" region="region0" style="style0">Bodoh.</p>
+<p xml:id="subtitle520" begin="28170416666t" end="28189583333t" region="region0" style="style0">Bisa kau suruh-suruh.</p>
+<p xml:id="subtitle521" begin="28195833333t" end="28212083333t" region="region0" style="style0">&quot;Aa, itu angkat.</p>
+<p xml:id="subtitle522" begin="28212916666t" end="28236250000t" region="region0" style="style0">Mengapa ditaruh di sana?</p>
+<p xml:id="subtitle523" begin="28237083333t" end="28250000000t" region="region0" style="style0">Kok tidak pintar-pintar?&quot;</p>
+<p xml:id="subtitle524" begin="28259166666t" end="28273333333t" region="region0" style="style0">Aku tidak begitu.</p>
+<p xml:id="subtitle525" begin="28295416666t" end="28311666666t" region="region0" style="style0">Rudianto, kau tega sama aku!</p>
+<p xml:id="subtitle526" begin="28312500000t" end="28327916666t" region="region0" style="style0">Anak aku baru meninggal!</p>
+<p xml:id="subtitle527" begin="28366666666t" end="28380833333t" region="region0" style="style0">Anak kita, Ras.</p>
+<p xml:id="subtitle528" begin="28391666666t" end="28412500000t" region="region0" style="style0">Bukan cuma kau yang merasa kehilangan.</p>
+<p xml:id="subtitle529" begin="28824583333t" end="28836250000t" region="region0" style="style0">Aku…</p>
+<p xml:id="subtitle530" begin="28853333333t" end="28867083333t" region="region0" style="style0">Sabar ya, Aa.</p>
+<p xml:id="subtitle531" begin="28949583333t" end="28964583333t" region="region0" style="style0">Aku mengerti.</p>
+<p xml:id="subtitle532" begin="28965416666t" end="28984166666t" region="region0" style="style0">Dia tidak pernah mengerti.</p>
+<p xml:id="subtitle533" begin="29658750000t" end="29681250000t" region="region0" style="style0"><span style="style1">Nomor yang Anda tuju sedang…</span></p>
+<p xml:id="subtitle534" begin="29807500000t" end="29823750000t" region="region0" style="style0">Mau tutup sekarang, Bu?</p>
+<p xml:id="subtitle535" begin="29824583333t" end="29837500000t" region="region0" style="style0">Antar aku pulang ke rumah.</p>
+<p xml:id="subtitle536" begin="29971666666t" end="29985000000t" region="region0" style="style0">Aa.</p>
+<p xml:id="subtitle537" begin="29995416666t" end="30021666666t" region="region0" style="style0">Kalau Aa Rudi bisa memilih…</p>
+<p xml:id="subtitle538" begin="30041250000t" end="30058333333t" region="region0" style="style0">Mau tidak sama aku terus?</p>
+<p xml:id="subtitle539" begin="30077500000t" end="30100000000t" region="region0" style="style0">Tinggalkan saja atuh Teh Laras, Aa.</p>
+<p xml:id="subtitle540" begin="30129583333t" end="30153333333t" region="region0" style="style0">Kalau Aa Rudi memilihku…</p>
+<p xml:id="subtitle541" begin="30167083333t" end="30206250000t" region="region0" style="style0">kita akan bisa hidup bahagia berdua.</p>
+<p xml:id="subtitle542" begin="30207083333t" end="30221250000t" region="region0" style="style0">Selamanya.</p>
+<p xml:id="subtitle543" begin="30292083333t" end="30306250000t" region="region0" style="style0">Aku tidak bisa, Yul.</p>
+<p xml:id="subtitle544" begin="30333750000t" end="30350000000t" region="region0" style="style0">Aku masih punya keluarga.</p>
+<p xml:id="subtitle545" begin="30475833333t" end="30525416666t" region="region0" style="style0">Kau pikir Teh Laras mau menerimamu lagi<br/>kalau dia tahu soal ini?</p>
+<p xml:id="subtitle546" begin="30544166666t" end="30555833333t" region="region0" style="style0">Kau yang goda aku.</p>
+<p xml:id="subtitle547" begin="30562916666t" end="30574166666t" region="region0" style="style0">Ternyata Laras benar.</p>
+<p xml:id="subtitle548" begin="30580416666t" end="30593333333t" region="region0" style="style0">Kau seperti ibumu.</p>
+<p xml:id="subtitle549" begin="30599583333t" end="30617500000t" region="region0" style="style0">Berengsek kau, Rudi.</p>
+<p xml:id="subtitle550" begin="30627500000t" end="30658750000t" region="region0" style="style0">Jangan pernah bawa-bawa ibuku.<br/>Ibuku tidak seperti itu.</p>
+<p xml:id="subtitle551" begin="30684583333t" end="30699166666t" region="region0" style="style0">Gila kau, Yul.</p>
+<p xml:id="subtitle552" begin="30825416666t" end="30834583333t" region="region0" style="style0">Tika.</p>
+<p xml:id="subtitle553" begin="30841666666t" end="30852500000t" region="region0" style="style0">Tolong jangan bilang Ibu ya.</p>
+<p xml:id="subtitle554" begin="30865833333t" end="30883333333t" region="region0" style="style0">Biar Bapak yang jelaskan.</p>
+<p xml:id="subtitle555" begin="31514166666t" end="31560833333t" region="region0" style="style0">Tidak ada tuhan selain Allah,<br/>satu-satunya, tiada sekutu bagi-Nya.</p>
+<p xml:id="subtitle556" begin="31561666666t" end="31579166666t" region="region0" style="style0">Milik-Nya segala kerajaan dan pujian.</p>
+<p xml:id="subtitle557" begin="31580000000t" end="31627500000t" region="region0" style="style0">Dia yang menghidupkan dan mematikan,<br/>dan Dia Maha Kuasa atas segala sesuatu.</p>
+<p xml:id="subtitle558" begin="31628333333t" end="31643750000t" region="region0" style="style0">Tidak ada…</p>
+<p xml:id="subtitle559" begin="31760416666t" end="31784166666t" region="region0" style="style0">Tidak ada tuhan selain Allah,</p>
+<p xml:id="subtitle560" begin="31812083333t" end="31836250000t" region="region0" style="style0">satu-satunya, tiada sekutu bagi-Nya.</p>
+<p xml:id="subtitle561" begin="31849166666t" end="31879166666t" region="region0" style="style0">Milik-Nya segala kerajaan dan pujian.</p>
+<p xml:id="subtitle562" begin="31887083333t" end="31928750000t" region="region0" style="style0">Dia yang menghidupkan dan mematikan,<br/>dan Dia Maha Kuasa atas segala sesuatu.</p>
+<p xml:id="subtitle563" begin="32160000000t" end="32181666666t" region="region0" style="style0">Darah bertemu darah.</p>
+<p xml:id="subtitle564" begin="32182500000t" end="32204583333t" region="region0" style="style0">Kulit bertemu kulit.</p>
+<p xml:id="subtitle565" begin="32205416666t" end="32222083333t" region="region0" style="style0">Daging bertemu daging.</p>
+<p xml:id="subtitle566" begin="32222916666t" end="32242500000t" region="region0" style="style0">Tidak ada tuhan selain Allah.</p>
+<p xml:id="subtitle567" begin="32243333333t" end="32266250000t" region="region0" style="style0">Tidak ada tuhan selain Allah.</p>
+<p xml:id="subtitle568" begin="32267083333t" end="32283750000t" region="region0" style="style0">Tidak ada tuhan selain Allah.</p>
+<p xml:id="subtitle569" begin="32284583333t" end="32307083333t" region="region0" style="style0">Sungsang terhalang oleh sungsang.</p>
+<p xml:id="subtitle570" begin="32307916666t" end="32335833333t" region="region0" style="style0">Langit hitam, bumi hitam.</p>
+<p xml:id="subtitle571" begin="32336666666t" end="32369166666t" region="region0" style="style0">Aku dikendalikan oleh nenek moyangku.</p>
+<p xml:id="subtitle572" begin="32375416666t" end="32412916666t" region="region0" style="style0">Semua orang hancur di hadapanku.</p>
+<p xml:id="subtitle573" begin="32474166666t" end="32507916666t" region="region0" style="style0">Hancur, hancur, hancur.</p>
+<p xml:id="subtitle574" begin="32508750000t" end="32529583333t" region="region0" style="style0">Tidak ada tuhan selain Allah.</p>
+<p xml:id="subtitle575" begin="32530416666t" end="32554583333t" region="region0" style="style0">Tidak ada tuhan selain Allah.</p>
+<p xml:id="subtitle576" begin="32555416666t" end="32571666666t" region="region0" style="style0">Tidak ada tuhan selain Allah.</p>
+<p xml:id="subtitle577" begin="32577500000t" end="32598333333t" region="region0" style="style0">Tidak ada tuhan selain Allah.</p>
+<p xml:id="subtitle578" begin="32599166666t" end="32620833333t" region="region0" style="style0">Tidak ada tuhan selain Allah.</p>
+<p xml:id="subtitle579" begin="32621666666t" end="32641666666t" region="region0" style="style0">Tidak ada tuhan selain Allah.</p>
+<p xml:id="subtitle580" begin="32642500000t" end="32685000000t" region="region0" style="style0">Aku meminta kepada Ratu Santet<br/>di gunung tinggi.</p>
+<p xml:id="subtitle581" begin="32722916666t" end="32760833333t" region="region0" style="style0">Aku tahu Ratu selalu menginginkan sesuatu.</p>
+<p xml:id="subtitle582" begin="32797083333t" end="32841666666t" region="region0" style="style0">Aku bawakan sesajen kesukaan Ratu.</p>
+<p xml:id="subtitle583" begin="32842500000t" end="32862500000t" region="region0" style="style0"><span style="style1">Astagfirullahaladzim.</span></p>
+<p xml:id="subtitle584" begin="32868750000t" end="32900416666t" region="region0" style="style0">Tidak ada tuhan selain Allah,<br/>satu-satunya, tiada sekutu bagi-Nya.</p>
+<p xml:id="subtitle585" begin="32901250000t" end="32939583333t" region="region0" style="style0">Terimalah perintahku untuk menghancurkan…</p>
+<p xml:id="subtitle586" begin="32940416666t" end="32952500000t" region="region0" style="style0">Milik-Nya segala kerajaan dan pujian.</p>
+<p xml:id="subtitle587" begin="32953333333t" end="32978750000t" region="region0" style="style0">Dia yang menghidupkan dan mematikan,<br/>dan Dia Maha Kuasa atas segala sesuatu.</p>
+<p xml:id="subtitle588" begin="32979583333t" end="32995000000t" region="region0" style="style0">…semua orang ini.</p>
+<p xml:id="subtitle589" begin="33419166666t" end="33439166666t" region="region0" style="style0">Tika…</p>
+<p xml:id="subtitle590" begin="34727083333t" end="34736666666t" region="region0" style="style0">Aa?</p>
+<p xml:id="subtitle591" begin="34765416666t" end="34784583333t" region="region0" style="style0">Tika! Tolong!</p>
+<p xml:id="subtitle592" begin="34785416666t" end="34807083333t" region="region0" style="style0">Tolong, Tika!</p>
+<p xml:id="subtitle593" begin="34807916666t" end="34822916666t" region="region0" style="style0">Tolong!</p>
+<p xml:id="subtitle594" begin="34823750000t" end="34839166666t" region="region0" style="style0">Tolong!</p>
+<p xml:id="subtitle595" begin="34840000000t" end="34865000000t" region="region0" style="style0">- Aa?<br/>- Tolong!</p>
+<p xml:id="subtitle596" begin="34865833333t" end="34894583333t" region="region0" style="style0">Tolong. Tika!</p>
+<p xml:id="subtitle597" begin="34895416666t" end="34915000000t" region="region0" style="style0">Laras!</p>
+<p xml:id="subtitle598" begin="35125833333t" end="35152083333t" region="region0" style="style0">Salat jenazah ini akan ada empat takbir,</p>
+<p xml:id="subtitle599" begin="35152916666t" end="35191250000t" region="region0" style="style0">lalu masing-masing takbir<br/>tidak ada ruku dan sujud.</p>
+<p xml:id="subtitle600" begin="35192083333t" end="35219583333t" region="region0" style="style0">Diakhiri dengan salam, ya?</p>
+<p xml:id="subtitle601" begin="35220416666t" end="35232916666t" region="region0" style="style0">Kita mulai.</p>
+<p xml:id="subtitle602" begin="35255833333t" end="35325416666t" region="region0" style="style0">Aku niat salat jenazah atas mayat ini,<br/>empat takbir…</p>
+<p xml:id="subtitle603" begin="35326250000t" end="35366250000t" region="region0" style="style0">Allahu Akbar.</p>
+<p xml:id="subtitle604" begin="35367083333t" end="35395833333t" region="region0" style="style0">Allahu Akbar.</p>
+<p xml:id="subtitle605" begin="35484583333t" end="35511666666t" region="region0" style="style0">Allahu Akbar.</p>
+<p xml:id="subtitle606" begin="35512500000t" end="35539166666t" region="region0" style="style0">Allahu Akbar.</p>
+<p xml:id="subtitle607" begin="35573750000t" end="35596250000t" region="region0" style="style0">Allahu Akbar.</p>
+<p xml:id="subtitle608" begin="35655000000t" end="35679166666t" region="region0" style="style0">Allahu Akbar.</p>
+<p xml:id="subtitle609" begin="35706666666t" end="35759583333t" region="region0" style="style0">Ya Allah, ampunilah dia, rahmatilah dia,<br/>sejahterakanlah dia, dan maafkanlah dia.</p>
+<p xml:id="subtitle610" begin="35789583333t" end="35818750000t" region="region0" style="style0">Allahu Akbar.</p>
+<p xml:id="subtitle611" begin="35819583333t" end="35860000000t" region="region0" style="style0">Allahu Akbar.</p>
+<p xml:id="subtitle612" begin="35935000000t" end="35973333333t" region="region0" style="style0"><span style="style1">Assalamualaikum warahmatullah.</span></p>
+<p xml:id="subtitle613" begin="35974166666t" end="36014166666t" region="region0" style="style0"><span style="style1">Assalamualaikum warahmatullah.</span></p>
+<p xml:id="subtitle614" begin="36122916666t" end="36146666666t" region="region0" style="style0"><span style="style1">Assalamualaikum warahmatullah.</span></p>
+<p xml:id="subtitle615" begin="36147500000t" end="36166666666t" region="region0" style="style0"><span style="style1">Assalamualaikum…</span></p>
+<p xml:id="subtitle616" begin="36368750000t" end="36384166666t" region="region0" style="style0"><span style="style1">Astagfirullahaladzim.</span></p>
+<p xml:id="subtitle617" begin="36385000000t" end="36398333333t" region="region0" style="style0">Tika?</p>
+<p xml:id="subtitle618" begin="36417083333t" end="36437916666t" region="region0" style="style0">Tolong ambilkan minum.</p>
+<p xml:id="subtitle619" begin="36438750000t" end="36457083333t" region="region0" style="style0">Ambilkan minum ayo.</p>
+<p xml:id="subtitle620" begin="36457916666t" end="36476250000t" region="region0" style="style0">Astagfirullah…</p>
+<p xml:id="subtitle621" begin="36477083333t" end="36507916666t" region="region0" style="style0"><span style="style1">Astagfirullahaladzim,</span> Tika.</p>
+<p xml:id="subtitle622" begin="36508750000t" end="36520000000t" region="region0" style="style0">Istigfar, Tika.</p>
+<p xml:id="subtitle623" begin="36520833333t" end="36547500000t" region="region0" style="style0"><span style="style1">Astagfirullahaladzim.</span></p>
+<p xml:id="subtitle624" begin="36562083333t" end="36574166666t" region="region0" style="style0">Allah…</p>
+<p xml:id="subtitle625" begin="36575000000t" end="36595000000t" region="region0" style="style0">Tika, ayo.</p>
+<p xml:id="subtitle626" begin="36814166666t" end="36826666666t" region="region0" style="style0">Tika…</p>
+<p xml:id="subtitle627" begin="36827500000t" end="36839583333t" region="region0" style="style0">Bu.</p>
+<p xml:id="subtitle628" begin="36849166666t" end="36868750000t" region="region0" style="style0">Ini tidak mungkin kebetulan, Bu.</p>
+<p xml:id="subtitle629" begin="36869583333t" end="36900416666t" region="region0" style="style0">Bapak, Dean, Oma.</p>
+<p xml:id="subtitle630" begin="36901250000t" end="36925000000t" region="region0" style="style0">- Abuya juga bilang ke Tika…<br/>- Sudah.</p>
+<p xml:id="subtitle631" begin="36939166666t" end="36955416666t" region="region0" style="style0">Cukup.</p>
+<p xml:id="subtitle632" begin="36956250000t" end="36983750000t" region="region0" style="style0">Tidak usah bicarakan<br/>hal-hal yang tidak masuk akal.</p>
+<p xml:id="subtitle633" begin="37016666666t" end="37030000000t" region="region0" style="style0">Sudah.</p>
+<p xml:id="subtitle634" begin="37030833333t" end="37057500000t" region="region0" style="style0">Tapi kita dijahati sama orang, Bu.</p>
+<p xml:id="subtitle635" begin="37063750000t" end="37084166666t" region="region0" style="style0">Kita harus melakukan sesuatu.</p>
+<p xml:id="subtitle636" begin="37085000000t" end="37100416666t" region="region0" style="style0">Tika mohon.</p>
+<p xml:id="subtitle637" begin="37107916666t" end="37140416666t" region="region0" style="style0">Sekali ini saja percaya sama Tika ya, Bu?</p>
+<p xml:id="subtitle638" begin="37151250000t" end="37166250000t" region="region0" style="style0">Tika…</p>
+<p xml:id="subtitle639" begin="37177500000t" end="37210416666t" region="region0" style="style0">Tika tidak mau merasakan<br/>kehilangan lagi, Bu.</p>
+<p xml:id="subtitle640" begin="37252500000t" end="37279583333t" region="region0" style="style0">Tika tinggal cuma punya Ibu.</p>
+<p xml:id="subtitle641" begin="37280416666t" end="37310833333t" region="region0" style="style0">Tika tidak punya siapa-siapa lagi.</p>
+<p xml:id="subtitle642" begin="37325833333t" end="37349583333t" region="region0" style="style0">Tika takut.</p>
+<p xml:id="subtitle643" begin="37425000000t" end="37437083333t" region="region0" style="style0">Memang…</p>
+<p xml:id="subtitle644" begin="37450416666t" end="37475833333t" region="region0" style="style0">kalau kita mengaku beriman,</p>
+<p xml:id="subtitle645" begin="37476666666t" end="37499583333t" region="region0" style="style0">pasti Allah akan uji keimanan kita.</p>
+<p xml:id="subtitle646" begin="37505833333t" end="37535833333t" region="region0" style="style0">Dengan perasaan takut,<br/>perasaan khawatir…</p>
+<p xml:id="subtitle647" begin="37536666666t" end="37568333333t" region="region0" style="style0">&quot;Kami pasti akan mengujimu<br/>dengan sedikit ketakutan dan kelaparan,</p>
+<p xml:id="subtitle648" begin="37569166666t" end="37606250000t" region="region0" style="style0">kekurangan harta, jiwa, dan buah-buahan.&quot;</p>
+<p xml:id="subtitle649" begin="37607083333t" end="37635000000t" region="region0" style="style0">Bahkan Allah akan uji kita<br/>dengan kekurangan harta.</p>
+<p xml:id="subtitle650" begin="37635833333t" end="37670416666t" region="region0" style="style0">Allah uji kita dengan kehilangan<br/>orang-orang yang kita sayang.</p>
+<p xml:id="subtitle651" begin="37671250000t" end="37700416666t" region="region0" style="style0">Orang tua, adik, kakak.</p>
+<p xml:id="subtitle652" begin="37712083333t" end="37733333333t" region="region0" style="style0">Kau yang sabar, ya.</p>
+<p xml:id="subtitle653" begin="37740833333t" end="37750833333t" region="region0" style="style0">Ingat.</p>
+<p xml:id="subtitle654" begin="37762083333t" end="37787916666t" region="region0" style="style0">Allah tidak akan menguji hamba-Nya</p>
+<p xml:id="subtitle655" begin="37799166666t" end="37822083333t" region="region0" style="style0">melebihi batas kemampuan hamba-Nya.</p>
+<p xml:id="subtitle656" begin="37840416666t" end="37852500000t" region="region0" style="style0">Amin.</p>
+<p xml:id="subtitle657" begin="38126250000t" end="38136666666t" region="region0" style="style0">Yul?</p>
+<p xml:id="subtitle658" begin="38594166666t" end="38615000000t" region="region0" style="style0">Kenapa ini bisa ada di sini?</p>
+<p xml:id="subtitle659" begin="38692500000t" end="38706250000t" region="region0" style="style0">Bisa mikir sendiri, 'kan?</p>
+<p xml:id="subtitle660" begin="38730000000t" end="38755000000t" region="region0" style="style0">Rudi itu tidak pernah cinta sama kau.</p>
+<p xml:id="subtitle661" begin="38765416666t" end="38782083333t" region="region0" style="style0">Dia cuma takut.</p>
+<p xml:id="subtitle662" begin="38818333333t" end="38832500000t" region="region0" style="style0">Kurang ajar kau, Yul.</p>
+<p xml:id="subtitle663" begin="38833333333t" end="38867500000t" region="region0" style="style0">Pasti kau, 'kan? Kau yang goda dia?</p>
+<p xml:id="subtitle664" begin="38875000000t" end="38917916666t" region="region0" style="style0">Jangan-jangan kau yang buat<br/>semua keluargaku meninggal.</p>
+<p xml:id="subtitle665" begin="38918750000t" end="38932500000t" region="region0" style="style0">Dasar kau.</p>
+<p xml:id="subtitle666" begin="38933333333t" end="38955416666t" region="region0" style="style0">Anak selingkuhan.</p>
+<p xml:id="subtitle667" begin="38956250000t" end="38977083333t" region="region0" style="style0">Perempuan murahan sama saja kayak ibumu!</p>
+<p xml:id="subtitle668" begin="39009166666t" end="39030416666t" region="region0" style="style0">Berani kau sekarang sama aku, Yul?</p>
+<p xml:id="subtitle669" begin="39036666666t" end="39058750000t" region="region0" style="style0">Berani kau sama aku sekarang, Yuli?</p>
+<p xml:id="subtitle670" begin="39059583333t" end="39074166666t" region="region0" style="style0">Ya. Ya, aku berani sama kau.</p>
+<p xml:id="subtitle671" begin="39075000000t" end="39104166666t" region="region0" style="style0">Kenapa aku harus takut? Kau siapa?</p>
+<p xml:id="subtitle672" begin="39105000000t" end="39122083333t" region="region0" style="style0">Kau yang anak selingkuhan, bukan aku.</p>
+<p xml:id="subtitle673" begin="39142500000t" end="39156666666t" region="region0" style="style0">Apa?</p>
+<p xml:id="subtitle674" begin="39178333333t" end="39197916666t" region="region0" style="style0">- Sampah kau.<br/>- Kau yang sampah.</p>
+<p xml:id="subtitle675" begin="39198750000t" end="39215416666t" region="region0" style="style0">- Anak haram.<br/>- Kau yang anak haram!</p>
+<p xml:id="subtitle676" begin="39216250000t" end="39242500000t" region="region0" style="style0">Kau ambil semua kebahagiaan aku, Yuli.</p>
+<p xml:id="subtitle677" begin="39243333333t" end="39265416666t" region="region0" style="style0">- Kau hancurkan hidup aku.<br/>- Itu harusnya hidupku!</p>
+<p xml:id="subtitle678" begin="39266250000t" end="39276666666t" region="region0" style="style0">Harusnya kau yang mati!</p>
+<p xml:id="subtitle679" begin="39277500000t" end="39299166666t" region="region0" style="style0">- Pergi kau dari sini!<br/>- Kau yang pergi!</p>
+<p xml:id="subtitle680" begin="39300000000t" end="39317916666t" region="region0" style="style0">- Pergi kau dari sini.<br/>- Ini masih rumah aku!</p>
+<p xml:id="subtitle681" begin="39318750000t" end="39334583333t" region="region0" style="style0">- Pergi kau dari sini!<br/>- Ini rumah aku!</p>
+<p xml:id="subtitle682" begin="39335416666t" end="39356250000t" region="region0" style="style0">Ibu sama anak sama saja!</p>
+<p xml:id="subtitle683" begin="39369583333t" end="39384583333t" region="region0" style="style0">Laras, buka.</p>
+<p xml:id="subtitle684" begin="39385416666t" end="39402916666t" region="region0" style="style0">Laras, buka!</p>
+<p xml:id="subtitle685" begin="39412083333t" end="39429166666t" region="region0" style="style0">Kalian jahat!</p>
+<p xml:id="subtitle686" begin="39456250000t" end="39491666666t" region="region0" style="style0">Dari dulu kalian jahat sama aku.</p>
+<p xml:id="subtitle687" begin="39492500000t" end="39523333333t" region="region0" style="style0">Mau sampai kapan kalian kayak gini?</p>
+<p xml:id="subtitle688" begin="39565416666t" end="39578750000t" region="region0" style="style0">Ras, dengar aku.</p>
+<p xml:id="subtitle689" begin="39585000000t" end="39606666666t" region="region0" style="style0">Kau itu tidak sadar.</p>
+<p xml:id="subtitle690" begin="39607500000t" end="39641666666t" region="region0" style="style0">Kau yang membuat semua keluargamu mati!</p>
+<p xml:id="subtitle691" begin="39726250000t" end="39745000000t" region="region0" style="style0">Hidup kita sama sekarang, Ras.</p>
+<p xml:id="subtitle692" begin="39765000000t" end="39780833333t" region="region0" style="style0">Sama.</p>
+<p xml:id="subtitle693" begin="39796666666t" end="39817916666t" region="region0" style="style0">Sama-sama hancur!</p>
+<p xml:id="subtitle694" begin="40191250000t" end="40204166666t" region="region0" style="style0">Yono.</p>
+<p xml:id="subtitle695" begin="40214166666t" end="40232916666t" region="region0" style="style0">Bicara apa kau sama si Tika?</p>
+<p xml:id="subtitle696" begin="40233750000t" end="40249583333t" region="region0" style="style0">Tidak bicara apa-apa kok.</p>
+<p xml:id="subtitle697" begin="40257916666t" end="40280416666t" region="region0" style="style0">&quot;Tidak bicara apa-apa kok&quot;.</p>
+<p xml:id="subtitle698" begin="40287916666t" end="40297916666t" region="region0" style="style0">Bicara apa? Cepat.</p>
+<p xml:id="subtitle699" begin="40320416666t" end="40342083333t" region="region0" style="style0">Aku sudah tidak mau ikut-ikut lagi, Yul.</p>
+<p xml:id="subtitle700" begin="40385000000t" end="40401250000t" region="region0" style="style0">Dikasih apa kau sama si Tika?</p>
+<p xml:id="subtitle701" begin="40402083333t" end="40420416666t" region="region0" style="style0">Kau laporkan aku?</p>
+<p xml:id="subtitle702" begin="40421250000t" end="40437916666t" region="region0" style="style0">Bilang kalau semuanya aku yang lakukan?</p>
+<p xml:id="subtitle703" begin="40438750000t" end="40469583333t" region="region0" style="style0">- Mengaku kau.<br/>- Aku tidak bicara apa-apa, Yul.</p>
+<p xml:id="subtitle704" begin="40478750000t" end="40500000000t" region="region0" style="style0">Tidak semua orang tega kayak kau, Yul.</p>
+<p xml:id="subtitle705" begin="40591666666t" end="40625416666t" region="region0" style="style0">Hancur, hancur, hancur.</p>
+<p xml:id="subtitle706" begin="40651250000t" end="40687500000t" region="region0" style="style0">Aku meminta kepada Ratu Santet<br/>di gunung tinggi.</p>
+<p xml:id="subtitle707" begin="40695833333t" end="40725833333t" region="region0" style="style0">Aku tahu Ratu selalu menginginkan sesuatu.</p>
+<p xml:id="subtitle708" begin="40732916666t" end="40745833333t" region="region0" style="style0">Aku bawakan sesajen</p>
+<p xml:id="subtitle709" begin="40762916666t" end="40779166666t" region="region0" style="style0">kesukaan Ratu.</p>
+<p xml:id="subtitle710" begin="40780000000t" end="40841666666t" region="region0" style="style0">Terimalah perintahku<br/>untuk menghancurkan semua orang ini.</p>
+<p xml:id="subtitle711" begin="41839583333t" end="41853750000t" region="region0" style="style0">Siapa itu?</p>
+<p xml:id="subtitle712" begin="41861250000t" end="41875416666t" region="region0" style="style0">Siapa?</p>
+<p xml:id="subtitle713" begin="41876250000t" end="41894166666t" region="region0" style="style0">Jangan bercanda!</p>
+<p xml:id="subtitle714" begin="42568333333t" end="42580416666t" region="region0" style="style0">Tolong!</p>
+<p xml:id="subtitle715" begin="42581250000t" end="42595416666t" region="region0" style="style0">Tolong!</p>
+<p xml:id="subtitle716" begin="42791666666t" end="42804583333t" region="region0" style="style0">Bu Laras!</p>
+<p xml:id="subtitle717" begin="42805416666t" end="42821666666t" region="region0" style="style0">Itu, Bu, Pak Yono!</p>
+<p xml:id="subtitle718" begin="42822500000t" end="42842500000t" region="region0" style="style0">- Bu, Pak Yono.<br/>- Di tokonya, Bu.</p>
+<p xml:id="subtitle719" begin="42843333333t" end="42857083333t" region="region0" style="style0">- Astagfirullah.<br/>- Tolong mundur ya.</p>
+<p xml:id="subtitle720" begin="42857916666t" end="42884583333t" region="region0" style="style0">Tolong ya, mundur.</p>
+<p xml:id="subtitle721" begin="42885416666t" end="42900000000t" region="region0" style="style0">Di belakang garis polisi ya.</p>
+<p xml:id="subtitle722" begin="42900833333t" end="42917500000t" region="region0" style="style0">Permisi, punten.</p>
+<p xml:id="subtitle723" begin="42918333333t" end="42935833333t" region="region0" style="style0">Punten.</p>
+<p xml:id="subtitle724" begin="42936666666t" end="42949166666t" region="region0" style="style0">Punten.</p>
+<p xml:id="subtitle725" begin="42950000000t" end="42968750000t" region="region0" style="style0">- Bu, jangan masuk.<br/>- Aku yang punya toko, Pak.</p>
+<p xml:id="subtitle726" begin="42969583333t" end="42987500000t" region="region0" style="style0">Ya, silakan, Bu.</p>
+<p xml:id="subtitle727" begin="43016250000t" end="43034583333t" region="region0" style="style0">Astagfirullah!</p>
+<p xml:id="subtitle728" begin="43040833333t" end="43054583333t" region="region0" style="style0">Ibu? Ibu!</p>
+<p xml:id="subtitle729" begin="43060000000t" end="43073333333t" region="region0" style="style0">Ibu.</p>
+<p xml:id="subtitle730" begin="43074166666t" end="43092916666t" region="region0" style="style0">Ibu…</p>
+<p xml:id="subtitle731" begin="43104166666t" end="43125416666t" region="region0" style="style0">- Kasihan banget Pak Yono.<br/>- Tidak menyangka ya.</p>
+<p xml:id="subtitle732" begin="43126250000t" end="43148333333t" region="region0" style="style0">Ya, kepalanya itu…</p>
+<p xml:id="subtitle733" begin="43628333333t" end="43643750000t" region="region0" style="style0">Ibu?</p>
+<p xml:id="subtitle734" begin="43853333333t" end="43865416666t" region="region0" style="style0">Bu?</p>
+<p xml:id="subtitle735" begin="43900833333t" end="43911250000t" region="region0" style="style0">Bu?</p>
+<p xml:id="subtitle736" begin="43976666666t" end="43990416666t" region="region0" style="style0">Bu?</p>
+<p xml:id="subtitle737" begin="44316666666t" end="44335416666t" region="region0" style="style0">Jangan, Bu!</p>
+<p xml:id="subtitle738" begin="44365000000t" end="44391666666t" region="region0" style="style0">Kalian semua</p>
+<p xml:id="subtitle739" begin="44402500000t" end="44423333333t" region="region0" style="style0">akan mati.</p>
+<p xml:id="subtitle740" begin="44430000000t" end="44444583333t" region="region0" style="style0">Allah, tidak ada Tuhan yang berhak<br/>disembah melainkan Dia,</p>
+<p xml:id="subtitle741" begin="44445416666t" end="44457083333t" region="region0" style="style0">Yang Maha Hidup, Yang terus-menerus<br/>mengurus makhluk-Nya.</p>
+<p xml:id="subtitle742" begin="44457916666t" end="44478333333t" region="region0" style="style0">Tidak mengantuk dan tidak tidur.</p>
+<p xml:id="subtitle743" begin="44479166666t" end="44498333333t" region="region0" style="style0">Kepunyaan-Nya apa yang di langit<br/>dan di bumi.</p>
+<p xml:id="subtitle744" begin="44499166666t" end="44527083333t" region="region0" style="style0">Tiada yang dapat memberi syafaat<br/>di sisi-Nya tanpa izin-Nya.</p>
+<p xml:id="subtitle745" begin="44527916666t" end="44553333333t" region="region0" style="style0">Dia mengetahui apa yang ada<br/>di hadapan dan di belakang mereka.</p>
+<p xml:id="subtitle746" begin="44554166666t" end="44566666666t" region="region0" style="style0">Dan mereka tidak mengetahui apa pun<br/>tentang ilmu-Nya</p>
+<p xml:id="subtitle747" begin="44567500000t" end="44578333333t" region="region0" style="style0">kecuali apa yang Dia kehendaki.</p>
+<p xml:id="subtitle748" begin="44579166666t" end="44613333333t" region="region0" style="style0">Kursi-Nya meliputi langit dan bumi.</p>
+<p xml:id="subtitle749" begin="44614166666t" end="44636666666t" region="region0" style="style0">Dan Dia tidak merasa berat<br/>memelihara keduanya.</p>
+<p xml:id="subtitle750" begin="44637500000t" end="44672916666t" region="region0" style="style0">Dan Dia Maha Tinggi, Maha Agung.</p>
+<p xml:id="subtitle751" begin="44703750000t" end="44762916666t" region="region0" style="style0">Mana lagi doa-doamu yang lain?</p>
+<p xml:id="subtitle752" begin="45422916666t" end="45437500000t" region="region0" style="style0">Abuya?</p>
+<p xml:id="subtitle753" begin="45445000000t" end="45470416666t" region="region0" style="style0">Abuya tolong Tika, Abuya.</p>
+<p xml:id="subtitle754" begin="45471250000t" end="45493333333t" region="region0" style="style0">Ibu…</p>
+<p xml:id="subtitle755" begin="46232500000t" end="46251666666t" region="region0" style="style0">Ibu!</p>
+<p xml:id="subtitle756" begin="46252500000t" end="46277916666t" region="region0" style="style0">Ibu, jangan!</p>
+<p xml:id="subtitle757" begin="46955416666t" end="46976250000t" region="region0" style="style0">Ibu!</p>
+<p xml:id="subtitle758" begin="47138333333t" end="47151250000t" region="region0" style="style0">Dengan nama Allah, yang dengan nama-Nya,</p>
+<p xml:id="subtitle759" begin="47152083333t" end="47179583333t" region="region0" style="style0">tidak ada sesuatu pun di bumi maupun<br/>di langit yang dapat membahayakan.</p>
+<p xml:id="subtitle760" begin="47180416666t" end="47200833333t" region="region0" style="style0">Dan Dia Maha Mendengar, Maha Mengetahui.</p>
+<p xml:id="subtitle761" begin="47245000000t" end="47262083333t" region="region0" style="style0">Kita bawa ibumu ke surau.</p>
+<p xml:id="subtitle762" begin="47273333333t" end="47282916666t" region="region0" style="style0">Ayo.</p>
+<p xml:id="subtitle763" begin="47312083333t" end="47326666666t" region="region0" style="style0">Ayo, hati-hati.</p>
+<p xml:id="subtitle764" begin="47334583333t" end="47347500000t" region="region0" style="style0">Ayo.</p>
+<p xml:id="subtitle765" begin="47437083333t" end="47455416666t" region="region0" style="style0">Jangan terburu-buru bawanya.</p>
+<p xml:id="subtitle766" begin="48002916666t" end="48026250000t" region="region0" style="style0"><span style="style1">Astagfirullahaladzim!</span></p>
+<p xml:id="subtitle767" begin="48047083333t" end="48060416666t" region="region0" style="style0">Oma…</p>
+<p xml:id="subtitle768" begin="48097083333t" end="48115000000t" region="region0" style="style0">Jangan sebut nama tuhanmu di sini.</p>
+<p xml:id="subtitle769" begin="48132916666t" end="48147083333t" region="region0" style="style0">Bi Yuli?</p>
+<p xml:id="subtitle770" begin="48206666666t" end="48219583333t" region="region0" style="style0">Kenapa, Tika?</p>
+<p xml:id="subtitle771" begin="48261250000t" end="48272500000t" region="region0" style="style0">Ya.</p>
+<p xml:id="subtitle772" begin="48280000000t" end="48305000000t" region="region0" style="style0">Aku yang bunuh semua keluargamu.</p>
+<p xml:id="subtitle773" begin="48354166666t" end="48377083333t" region="region0" style="style0">Mereka semua pantas menerima semua ini.</p>
+<p xml:id="subtitle774" begin="48387083333t" end="48407083333t" region="region0" style="style0">Dean, Bi?</p>
+<p xml:id="subtitle775" begin="48407916666t" end="48420416666t" region="region0" style="style0">Bapak?</p>
+<p xml:id="subtitle776" begin="48432916666t" end="48458750000t" region="region0" style="style0">- Ibu sekarang juga karena Bibi?<br/>- Semuanya.</p>
+<p xml:id="subtitle777" begin="48472083333t" end="48493333333t" region="region0" style="style0">Keluargamu itu jahat, Tika.</p>
+<p xml:id="subtitle778" begin="48500000000t" end="48522916666t" region="region0" style="style0">Dari aku kecil,</p>
+<p xml:id="subtitle779" begin="48535833333t" end="48584166666t" region="region0" style="style0">aku tidak pernah mendapatkan perlakuan<br/>yang sepantasnya dari keluargamu.</p>
+<p xml:id="subtitle780" begin="48593750000t" end="48615416666t" region="region0" style="style0">Aku selalu dibilang anak selingkuhan.</p>
+<p xml:id="subtitle781" begin="48616250000t" end="48635416666t" region="region0" style="style0">Aku bukan anak selingkuhan.</p>
+<p xml:id="subtitle782" begin="48652916666t" end="48675416666t" region="region0" style="style0">Omamu yang memutarbalikkan fakta.</p>
+<p xml:id="subtitle783" begin="48690416666t" end="48723333333t" region="region0" style="style0">Dia ambil semua yang aku punya, Tika.</p>
+<p xml:id="subtitle784" begin="48736250000t" end="48765000000t" region="region0" style="style0">Dia santet orang tuaku sampai mati!</p>
+<p xml:id="subtitle785" begin="48780416666t" end="48811250000t" region="region0" style="style0">Dia ambil rumahku dan orang tuaku.</p>
+<p xml:id="subtitle786" begin="48812083333t" end="48830000000t" region="region0" style="style0">Hidupku hancur!</p>
+<p xml:id="subtitle787" begin="48867083333t" end="48902083333t" region="region0" style="style0">Bapak dan ibumu layak mati!</p>
+<p xml:id="subtitle788" begin="48915833333t" end="48953333333t" region="region0" style="style0">Aku tidak pernah menyesal melakukannya.</p>
+<p xml:id="subtitle789" begin="48962916666t" end="48996666666t" region="region0" style="style0">Dengan tanganku sendiri.</p>
+<p xml:id="subtitle790" begin="49059166666t" end="49084166666t" region="region0" style="style0">Kenapa Bibi tidak pernah bilang ke Tika?</p>
+<p xml:id="subtitle791" begin="49100000000t" end="49120416666t" region="region0" style="style0">Bi, kita ini satu keluarga, Bi.</p>
+<p xml:id="subtitle792" begin="49132500000t" end="49151250000t" region="region0" style="style0">Anak baik.</p>
+<p xml:id="subtitle793" begin="49162500000t" end="49191666666t" region="region0" style="style0">- Aku keluargamu?<br/>- Tentu saja!</p>
+<p xml:id="subtitle794" begin="49192500000t" end="49210833333t" region="region0" style="style0">- Ya, Bibi…<br/>- Tiap hari kau lihat aku disiksa.</p>
+<p xml:id="subtitle795" begin="49211666666t" end="49236666666t" region="region0" style="style0">Aku dihina sama ibumu, sama omamu.</p>
+<p xml:id="subtitle796" begin="49237500000t" end="49258750000t" region="region0" style="style0">Apa yang kau lakukan?</p>
+<p xml:id="subtitle797" begin="49259583333t" end="49276250000t" region="region0" style="style0">Jawab aku, apa yang kau lakukan?</p>
+<p xml:id="subtitle798" begin="49283333333t" end="49303750000t" region="region0" style="style0">- Tika tidak punya pilihan.<br/>- Sok paling beragama.</p>
+<p xml:id="subtitle799" begin="49304583333t" end="49320000000t" region="region0" style="style0">Tapi kau tidak pernah membela aku!</p>
+<p xml:id="subtitle800" begin="49335000000t" end="49346250000t" region="region0" style="style0">Munafik kau.</p>
+<p xml:id="subtitle801" begin="49355416666t" end="49380416666t" region="region0" style="style0">Kau dan keluargamu itu pantas untuk mati.</p>
+<p xml:id="subtitle802" begin="49476666666t" end="49490000000t" region="region0" style="style0">Bibi tega!</p>
+<p xml:id="subtitle803" begin="49490833333t" end="49507500000t" region="region0" style="style0">Itu rasanya jadi aku.</p>
+<p xml:id="subtitle804" begin="49508333333t" end="49528750000t" region="region0" style="style0">Tika tidak bakal kayak Bibi.</p>
+<p xml:id="subtitle805" begin="49529583333t" end="49549583333t" region="region0" style="style0">- Hancur, 'kan?<br/>- Tidak.</p>
+<p xml:id="subtitle806" begin="49596666666t" end="49605833333t" region="region0" style="style0">Ibu…</p>
+<p xml:id="subtitle807" begin="49617083333t" end="49630833333t" region="region0" style="style0">Ibu…</p>
+<p xml:id="subtitle808" begin="49654166666t" end="49671250000t" region="region0" style="style0">Ayo, lanjut.</p>
+<p xml:id="subtitle809" begin="49746250000t" end="49773333333t" region="region0" style="style0">Kau mundur, kau gabung di sana.</p>
+<p xml:id="subtitle810" begin="49807500000t" end="49857083333t" region="region0" style="style0"><span style="style1">Astagfirullahaladzim.</span></p>
+<p xml:id="subtitle811" begin="49857916666t" end="49877916666t" region="region0" style="style0">Aku berlindung kepada Allah<br/>dari setan yang terkutuk.</p>
+<p xml:id="subtitle812" begin="49878750000t" end="49895416666t" region="region0" style="style0">Dengan menyebut nama Allah<br/>Yang Maha Pengasih lagi Maha Penyayang.</p>
+<p xml:id="subtitle813" begin="49896250000t" end="49920416666t" region="region0" style="style0">Ya Allah, Engkaulah sumber keselamatan,<br/>dan dari-Mu-lah datang keselamatan,</p>
+<p xml:id="subtitle814" begin="49921250000t" end="49967500000t" region="region0" style="style0">dan kepada-Mu-lah kembali<br/>segala keselamatan.</p>
+<p xml:id="subtitle815" begin="49968333333t" end="50020416666t" region="region0" style="style0">Maha Suci Engkau, wahai Tuhan<br/>yang memiliki keagungan dan kemuliaan.</p>
+<p xml:id="subtitle816" begin="50034166666t" end="50063750000t" region="region0" style="style0">Aku berlindung kepada Allah<br/>dari setan yang terkutuk.</p>
+<p xml:id="subtitle817" begin="50098333333t" end="50126250000t" region="region0" style="style0">Dengan nama Allah,<br/>aku membacakan rukiah untukmu</p>
+<p xml:id="subtitle818" begin="50127083333t" end="50157083333t" region="region0" style="style0">dari segala sesuatu yang menyakitimu,</p>
+<p xml:id="subtitle819" begin="50157916666t" end="50183333333t" region="region0" style="style0">dari kejahatan setiap jiwa<br/>atau mata yang dengki.</p>
+<p xml:id="subtitle820" begin="50184166666t" end="50210000000t" region="region0" style="style0">Semoga Allah menyembuhkanmu.</p>
+<p xml:id="subtitle821" begin="50301666666t" end="50318750000t" region="region0" style="style0">Aku berlindung kepada Allah<br/>dari setan yang terkutuk.</p>
+<p xml:id="subtitle822" begin="50319583333t" end="50335000000t" region="region0" style="style0">Dengan menyebut nama Allah<br/>Yang Maha Pengasih lagi Maha Penyayang.</p>
+<p xml:id="subtitle823" begin="50335833333t" end="50347916666t" region="region0" style="style0">Katakanlah Muhammad,<br/>&quot;Wahai Tuhan pemilik kekuasaan,</p>
+<p xml:id="subtitle824" begin="50348750000t" end="50362916666t" region="region0" style="style0">Engkau berikan kekuasaan kepada siapa pun<br/>yang Engkau kehendaki,</p>
+<p xml:id="subtitle825" begin="50363750000t" end="50385000000t" region="region0" style="style0">dan Engkau cabut kekuasaan dari siapa pun<br/>yang Engkau kehendaki.</p>
+<p xml:id="subtitle826" begin="50385833333t" end="50400000000t" region="region0" style="style0">Engkau muliakan siapa pun<br/>yang Engkau kehendaki</p>
+<p xml:id="subtitle827" begin="50400833333t" end="50413333333t" region="region0" style="style0">dan Engkau hinakan siapa pun<br/>yang Engkau kehendaki.</p>
+<p xml:id="subtitle828" begin="50414166666t" end="50427083333t" region="region0" style="style0">Di tangan Engkaulah segala kebajikan.</p>
+<p xml:id="subtitle829" begin="50427916666t" end="50446250000t" region="region0" style="style0">Sungguh, Engkau Mahakuasa<br/>atas segala sesuatu.</p>
+<p xml:id="subtitle830" begin="50447083333t" end="50466250000t" region="region0" style="style0">Engkau masukkan malam ke dalam siang</p>
+<p xml:id="subtitle831" begin="50467083333t" end="50488750000t" region="region0" style="style0">dan Engkau masukkan siang ke dalam malam.</p>
+<p xml:id="subtitle832" begin="50489583333t" end="50505000000t" region="region0" style="style0">Dan Engkau keluarkan<br/>yang hidup dari yang mati,</p>
+<p xml:id="subtitle833" begin="50505833333t" end="50528333333t" region="region0" style="style0">dan Engkau keluarkan<br/>yang mati dari yang hidup.</p>
+<p xml:id="subtitle834" begin="50529166666t" end="50547916666t" region="region0" style="style0">Dan Engkau berikan rezeki</p>
+<p xml:id="subtitle835" begin="50548750000t" end="50567500000t" region="region0" style="style0">kepada siapa yang Engkau kehendaki<br/>tanpa perhitungan.&quot;</p>
+<p xml:id="subtitle836" begin="50587500000t" end="50614583333t" region="region0" style="style0"><span style="style1">Bismillahi Allahu Akbar.</span></p>
+<p xml:id="subtitle837" begin="50757916666t" end="50768333333t" region="region0" style="style0">Ibu!</p>
+<p xml:id="subtitle838" begin="50914166666t" end="50933750000t" region="region0" style="style0">Darah bertemu darah.</p>
+<p xml:id="subtitle839" begin="50934583333t" end="50957500000t" region="region0" style="style0">Kulit bertemu kulit.</p>
+<p xml:id="subtitle840" begin="50958333333t" end="50981250000t" region="region0" style="style0">Daging bertemu daging.</p>
+<p xml:id="subtitle841" begin="50982083333t" end="51003750000t" region="region0" style="style0">Sungsang terhalang oleh sungsang.</p>
+<p xml:id="subtitle842" begin="51004583333t" end="51048333333t" region="region0" style="style0">Aku dikendalikan oleh nenek moyangku.</p>
+<p xml:id="subtitle843" begin="51049166666t" end="51087083333t" region="region0" style="style0">Semua orang hancur di hadapanku.</p>
+<p xml:id="subtitle844" begin="51136250000t" end="51157500000t" region="region0" style="style0">Jangan ikut campur<br/>atau kalian akan hancur!</p>
+<p xml:id="subtitle845" begin="51158333333t" end="51181666666t" region="region0" style="style0">- Hancur, hancur!<br/>- Innahu min Sulaimana wa innahu</p>
+<p xml:id="subtitle846" begin="51182500000t" end="51199166666t" region="region0" style="style0">Dengan menyebut nama Allah<br/>Yang Maha Pengasih lagi Maha Penyayang.</p>
+<p xml:id="subtitle847" begin="51214166666t" end="51229166666t" region="region0" style="style0"><span style="style1">Astagfirullahaladzim!</span></p>
+<p xml:id="subtitle848" begin="51230000000t" end="51241250000t" region="region0" style="style0">Hancur.</p>
+<p xml:id="subtitle849" begin="51248333333t" end="51263333333t" region="region0" style="style0">Hancur.</p>
+<p xml:id="subtitle850" begin="51294583333t" end="51310416666t" region="region0" style="style0">Aku berlindung kepada Allah<br/>dari setan yang terkutuk.</p>
+<p xml:id="subtitle851" begin="51311250000t" end="51326666666t" region="region0" style="style0">Dengan menyebut nama Allah<br/>Yang Maha Pengasih lagi Maha Penyayang.</p>
+<p xml:id="subtitle852" begin="51327500000t" end="51345833333t" region="region0" style="style0">Katakanlah Muhammad,<br/>&quot;Telah diwahyukan kepadaku</p>
+<p xml:id="subtitle853" begin="51346666666t" end="51365000000t" region="region0" style="style0">bahwa sekumpulan jin<br/>telah mendengarkan bacaan.&quot;</p>
+<p xml:id="subtitle854" begin="51365833333t" end="51385000000t" region="region0" style="style0">Aku meminta…</p>
+<p xml:id="subtitle855" begin="51412083333t" end="51435416666t" region="region0" style="style0">Aku meminta kepada Ratu Santet<br/>di gunung tinggi.</p>
+<p xml:id="subtitle856" begin="51450000000t" end="51460000000t" region="region0" style="style0">Lalu mereka berkata,</p>
+<p xml:id="subtitle857" begin="51460833333t" end="51484166666t" region="region0" style="style0">&quot;Kami telah mendengarkan bacaan<br/>yang menakjubkan, Al-Qur'an,</p>
+<p xml:id="subtitle858" begin="51485000000t" end="51498333333t" region="region0" style="style0">yang memberi petunjuk<br/>kepada jalan yang benar.</p>
+<p xml:id="subtitle859" begin="51499166666t" end="51532500000t" region="region0" style="style0">Aku meminta kepada Ratu Santet<br/>di gunung tinggi.</p>
+<p xml:id="subtitle860" begin="51548333333t" end="51562916666t" region="region0" style="style0">Lalu, kami beriman kepadanya.</p>
+<p xml:id="subtitle861" begin="51563750000t" end="51576666666t" region="region0" style="style0">Dan kami sekali-kali<br/>tidak akan mempersekutukan</p>
+<p xml:id="subtitle862" begin="51577500000t" end="51589166666t" region="region0" style="style0">sesuatu pun dengan Tuhan kami.</p>
+<p xml:id="subtitle863" begin="51590000000t" end="51614583333t" region="region0" style="style0">Aku tahu…</p>
+<p xml:id="subtitle864" begin="51620833333t" end="51649583333t" region="region0" style="style0">Dan sesungguhnya Mahatinggi<br/>keagungan Tuhan kami,</p>
+<p xml:id="subtitle865" begin="51650416666t" end="51675000000t" region="region0" style="style0">Dia tidak beristri dan tidak beranak.&quot;</p>
+<p xml:id="subtitle866" begin="51740833333t" end="51755000000t" region="region0" style="style0">Dan sesungguhnya orang yang bodoh<br/>di antara kami dahulu</p>
+<p xml:id="subtitle867" begin="51755833333t" end="51789583333t" region="region0" style="style0">selalu mengucapkan perkataan<br/>yang melampaui batas terhadap Allah,</p>
+<p xml:id="subtitle868" begin="51833333333t" end="51872083333t" region="region0" style="style0">dan sesungguhnya kami mengira<br/>bahwa manusia dan jin itu</p>
+<p xml:id="subtitle869" begin="51872916666t" end="51898333333t" region="region0" style="style0">tidak akan mengatakan perkataan<br/>yang dusta terhadap Allah,</p>
+<p xml:id="subtitle870" begin="51944583333t" end="51975000000t" region="region0" style="style0">dan sesungguhnya ada beberapa manusia</p>
+<p xml:id="subtitle871" begin="51975833333t" end="52010000000t" region="region0" style="style0">yang meminta perlindungan<br/>kepada beberapa jin,</p>
+<p xml:id="subtitle872" begin="52010833333t" end="52030416666t" region="region0" style="style0">tetapi jin menjadikan<br/>manusia bertambah sesat.</p>
+<p xml:id="subtitle873" begin="52065416666t" end="52092916666t" region="region0" style="style0"><span style="style1">Bismillahi Allahu Akbar.</span></p>
+<p xml:id="subtitle874" begin="52153750000t" end="52176250000t" region="region0" style="style0">Cukuplah Allah bagi kami,<br/>dan Dia sebaik-baik Pengatur urusan.</p>
+<p xml:id="subtitle875" begin="52177083333t" end="52190416666t" region="region0" style="style0">Ibu?</p>
+<p xml:id="subtitle876" begin="52191250000t" end="52216250000t" region="region0" style="style0"><span style="style1">- Astagfirullahaladzim.</span><br/>- Ibu?</p>
+<p xml:id="subtitle877" begin="52217083333t" end="52229583333t" region="region0" style="style0">Ibu?</p>
+<p xml:id="subtitle878" begin="52230416666t" end="52245833333t" region="region0" style="style0">Ayo bantu, dipapah.</p>
+<p xml:id="subtitle879" begin="52374583333t" end="52391666666t" region="region0" style="style0">Tolong dibantu doa.</p>
+<p xml:id="subtitle880" begin="52392500000t" end="52436666666t" region="region0" style="style0">Aku berlindung kepada Allah<br/>dari setan yang terkutuk.</p>
+<p xml:id="subtitle881" begin="52437500000t" end="52471666666t" region="region0" style="style0">Dengan menyebut nama Allah<br/>Yang Maha Pengasih lagi Maha Penyayang.</p>
+<p xml:id="subtitle882" begin="52472500000t" end="52497500000t" region="region0" style="style0">Katakanlah Muhammad,<br/>Dialah Allah, Yang Maha Esa.</p>
+<p xml:id="subtitle883" begin="52498333333t" end="52515416666t" region="region0" style="style0">Allah tempat meminta segala sesuatu.</p>
+<p xml:id="subtitle884" begin="52516250000t" end="52535833333t" region="region0" style="style0">Allah tidak beranak<br/>dan tidak pula diperanakkan.</p>
+<p xml:id="subtitle885" begin="52536666666t" end="52561250000t" region="region0" style="style0">Dan tidak ada sesuatu<br/>yang setara dengan Dia.</p>
+<p xml:id="subtitle886" begin="52562083333t" end="52591250000t" region="region0" style="style0">Aku berlindung kepada Allah<br/>dari setan yang terkutuk.</p>
+<p xml:id="subtitle887" begin="52592083333t" end="52625000000t" region="region0" style="style0">Dengan menyebut nama Allah<br/>Yang Maha Pengasih lagi Maha Penyayang.</p>
+<p xml:id="subtitle888" begin="52632500000t" end="52651666666t" region="region0" style="style0">Katakanlah, Aku berlindung kepada Tuhan<br/>yang menguasai subuh</p>
+<p xml:id="subtitle889" begin="52652500000t" end="52671666666t" region="region0" style="style0">dari kejahatan makhluk yang Dia ciptakan,</p>
+<p xml:id="subtitle890" begin="52672500000t" end="52701250000t" region="region0" style="style0">dan dari kejahatan malam<br/>apabila telah gelap gulita,</p>
+<p xml:id="subtitle891" begin="52702083333t" end="52735833333t" region="region0" style="style0">dan dari kejahatan perempuan-perempuan<br/>penyihir yang meniup pada buhul-buhul,</p>
+<p xml:id="subtitle892" begin="52736666666t" end="52775000000t" region="region0" style="style0">dan dari kejahatan orang yang dengki<br/>apabila dia dengki.</p>
+<p xml:id="subtitle893" begin="52775833333t" end="52812916666t" region="region0" style="style0">Aku berlindung kepada Allah<br/>dari setan yang terkutuk.</p>
+<p xml:id="subtitle894" begin="52813750000t" end="52847916666t" region="region0" style="style0">Dengan menyebut nama Allah<br/>Yang Maha Pengasih lagi Maha Penyayang.</p>
+<p xml:id="subtitle895" begin="52848750000t" end="52877500000t" region="region0" style="style0">Katakanlah, Aku berlindung<br/>kepada Tuhannya manusia,</p>
+<p xml:id="subtitle896" begin="52878333333t" end="52895833333t" region="region0" style="style0">Raja manusia,</p>
+<p xml:id="subtitle897" begin="52896666666t" end="52919166666t" region="region0" style="style0">sembahan manusia,</p>
+<p xml:id="subtitle898" begin="52920000000t" end="52950000000t" region="region0" style="style0">dari kejahatan bisikan setan<br/>yang bersembunyi,</p>
+<p xml:id="subtitle899" begin="52950833333t" end="52988333333t" region="region0" style="style0">yang membisikkan kejahatan<br/>ke dalam dada manusia,</p>
+<p xml:id="subtitle900" begin="52989166666t" end="53019166666t" region="region0" style="style0">dari golongan jin dan manusia.</p>
+<p xml:id="subtitle901" begin="53082083333t" end="53109583333t" region="region0" style="style0">Sudah, Tika, sudah.</p>
+<p xml:id="subtitle902" begin="53118750000t" end="53134166666t" region="region0" style="style0">Ambil air minum.</p>
+<p xml:id="subtitle903" begin="53135000000t" end="53152500000t" region="region0" style="style0">Sudah, Tika.</p>
+<p xml:id="subtitle904" begin="53199583333t" end="53213333333t" region="region0" style="style0">Tika.</p>
+<p xml:id="subtitle905" begin="53214166666t" end="53226666666t" region="region0" style="style0">Doakan Ibu.</p>
+<p xml:id="subtitle906" begin="53276250000t" end="53287500000t" region="region0" style="style0">Ikhlas.</p>
+<p xml:id="subtitle907" begin="53344166666t" end="53395833333t" region="region0" style="style0">Ya Tuhanku,<br/>ampunilah aku dan kedua orang tuaku,</p>
+<p xml:id="subtitle908" begin="53396666666t" end="53425416666t" region="region0" style="style0">dan sayangilah mereka</p>
+<p xml:id="subtitle909" begin="53426250000t" end="53455416666t" region="region0" style="style0">sebagaimana mereka menyayangiku<br/>di waktu kecil.</p>
+<p xml:id="subtitle910" begin="53517916666t" end="53532500000t" region="region0" style="style0">Ampun!</p>
+<p xml:id="subtitle911" begin="53533333333t" end="53551250000t" region="region0" style="style0">Aku berlindung kepada Allah<br/>dari setan yang terkutuk.</p>
+<p xml:id="subtitle912" begin="53552083333t" end="53571666666t" region="region0" style="style0">Dengan menyebut nama Allah<br/>Yang Maha Pengasih lagi Maha Penyayang.</p>
+<p xml:id="subtitle913" begin="53572500000t" end="53617083333t" region="region0" style="style0">Dengan namaMu kami menolak musuh-musuh<br/>dari segala arah.</p>
+<p xml:id="subtitle914" begin="53617916666t" end="53648750000t" region="region0" style="style0">Dengan nama Allah kami melempari<br/>mereka jauh dengan keceraiberaian.</p>
+<p xml:id="subtitle915" begin="53649583333t" end="53675000000t" region="region0" style="style0">Engkau adalah tempat aku berharap,<br/>Ya Tuhanku.</p>
+<p xml:id="subtitle916" begin="53675833333t" end="53698750000t" region="region0" style="style0">Engkau adalah tempat aku berharap,<br/>Ya Tuhanku.</p>
+<p xml:id="subtitle917" begin="53699583333t" end="53742916666t" region="region0" style="style0">Bila mereka bermaksud jahat kepadaku,<br/>maka mendidihlah mereka.</p>
+<p xml:id="subtitle918" begin="53748333333t" end="53765000000t" region="region0" style="style0">Dengan menyebut nama Allah<br/>Yang Maha Pengasih lagi Maha Penyayang.</p>
+<p xml:id="subtitle919" begin="53765833333t" end="53788333333t" region="region0" style="style0"><span style="style1">Bismillahi Allahu Akbar!</span></p>
+<p xml:id="subtitle920" begin="54240000000t" end="54249583333t" region="region0" style="style0">Ya Allah…</p>
+<p xml:id="subtitle921" begin="54396666666t" end="54429583333t" region="region0" style="style0">Semoga Tuhan mengampuni dosa-dosanya.</p>
+<p xml:id="subtitle922" begin="54471250000t" end="54481250000t" region="region0" style="style0">Ibu?</p>
+<p xml:id="subtitle923" begin="54490000000t" end="54503750000t" region="region0" style="style0">Ibu…</p>
+<p xml:id="subtitle924" begin="54513750000t" end="54533750000t" region="region0" style="style0">Ibu, ini Tika.</p>
+<p xml:id="subtitle925" begin="54547083333t" end="54562500000t" region="region0" style="style0">Ini Tika.</p>
+<p xml:id="subtitle926" begin="54577916666t" end="54592500000t" region="region0" style="style0">Bu Laras?</p>
+<p xml:id="subtitle927" begin="54611666666t" end="54636250000t" region="region0" style="style0">- Istigfar.<br/>- Ibu.</p>
+<p xml:id="subtitle928" begin="54637083333t" end="54677500000t" region="region0" style="style0"><span style="style1">Astagfirullahaladzim.</span></p>
+<p xml:id="subtitle929" begin="54678333333t" end="54724166666t" region="region0" style="style0"><span style="style1">Astagfirullahaladzim.</span></p>
+<p xml:id="subtitle930" begin="54730416666t" end="54772083333t" region="region0" style="style0"><span style="style1">As… Astag…</span></p>
+<p xml:id="subtitle931" begin="54772916666t" end="54827500000t" region="region0" style="style0"><span style="style1">Astagfirullahaladzim.</span></p>
+<p xml:id="subtitle932" begin="54828333333t" end="54885416666t" region="region0" style="style0"><span style="style1">- …firullahaladzim.</span><br/><span style="style1">- Astagfirullahaladzim.</span></p>
+<p xml:id="subtitle933" begin="54886250000t" end="54940000000t" region="region0" style="style0"><span style="style1">Astagfirullahaladzim.</span></p>
+<p xml:id="subtitle934" begin="54955416666t" end="55005000000t" region="region0" style="style0"><span style="style1">Astagfirullahaladzim.</span></p>
+<p xml:id="subtitle935" begin="55027083333t" end="55044583333t" region="region0" style="style0">Tidak apa-apa.</p>
+<p xml:id="subtitle936" begin="55045416666t" end="55082500000t" region="region0" style="style0"><span style="style1">Astagfirullahaladzim.</span></p>
+<p xml:id="subtitle937" begin="55083333333t" end="55141250000t" region="region0" style="style0"><span style="style1">Astagfirullahaladzim.</span></p>
+<p xml:id="subtitle938" begin="55142083333t" end="55191250000t" region="region0" style="style0"><span style="style1">Astagfirullahaladzim.</span></p>
+<p xml:id="subtitle939" begin="55192083333t" end="55245416666t" region="region0" style="style0"><span style="style1">La ilaaha illallah Muhammadurrasuulullah.</span></p>
+<p xml:id="subtitle940" begin="55246250000t" end="55260000000t" region="region0" style="style0">Ibu?</p>
+<p xml:id="subtitle941" begin="55260833333t" end="55294583333t" region="region0" style="style0"><span style="style1">Innalillahi wa inna ilaihi rajiun.</span></p>
+<p xml:id="subtitle942" begin="55307916666t" end="55320416666t" region="region0" style="style0">Ibu?</p>
+<p xml:id="subtitle943" begin="55337500000t" end="55355000000t" region="region0" style="style0">Ibu!</p>
+<p xml:id="subtitle944" begin="55390000000t" end="55414166666t" region="region0" style="style0">Ibu!</p>
+<p xml:id="subtitle945" begin="55459583333t" end="55496666666t" region="region0" style="style0">Ibu, jangan tinggalkan Tika!</p>
+<p xml:id="subtitle946" begin="55497500000t" end="55517083333t" region="region0" style="style0">Ibu, bangun!</p>
+<p xml:id="subtitle947" begin="55597500000t" end="55618750000t" region="region0" style="style0">Ibu, bangun!</p>
+<p xml:id="subtitle948" begin="55747500000t" end="55760833333t" region="region0" style="style0">- Tika?<br/>- Ya?</p>
+<p xml:id="subtitle949" begin="55761666666t" end="55788333333t" region="region0" style="style0">- Abuya pamit dulu ya.<br/>- Ya.</p>
+<p xml:id="subtitle950" begin="55793750000t" end="55807083333t" region="region0" style="style0">Terima kasih ya, Abuya.</p>
+<p xml:id="subtitle951" begin="55816666666t" end="55837916666t" region="region0" style="style0">Yang sabar, ya?</p>
+<p xml:id="subtitle952" begin="55845000000t" end="55858333333t" region="region0" style="style0">Ya.</p>
+<p xml:id="subtitle953" begin="55877916666t" end="55892500000t" region="region0" style="style0">Asalamualaikum.</p>
+<p xml:id="subtitle954" begin="55893333333t" end="55906250000t" region="region0" style="style0">Alaikum salam.</p>
+<p xml:id="subtitle955" begin="55926666666t" end="55945833333t" region="region0" style="style0">- Duluan ya, Tik.<br/>- Terima kasih ya.</p>
+<p xml:id="subtitle956" begin="55946666666t" end="55962083333t" region="region0" style="style0">- Duluan.<br/>- Ya.</p>
+<p xml:id="subtitle957" begin="55975000000t" end="55992916666t" region="region0" style="style0">- Asalamualaikum.<br/>- Alaikum salam.</p>
+<p xml:id="subtitle958" begin="56305416666t" end="56346666666t" region="region0" style="style0">Semoga Allah memberi Tika kekuatan<br/>untuk menjalani ini semua.</p>
+<p xml:id="subtitle959" begin="56375833333t" end="56392500000t" region="region0" style="style0">Dengan menyebut nama Allah<br/>Yang Maha Pengasih lagi Maha Penyayang.</p>
+</div>
+</body>
+</tt>

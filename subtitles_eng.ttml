@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt ttp:contentProfiles="http://www.w3.org/ns/ttml/profile/imsc1.1/text" xmlns="http://www.w3.org/ns/ttml" xmlns:nttm="http://www.netflix.com/ns/ttml#metadata" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xml="http://www.w3.org/XML/1998/namespace" ttp:tickRate="10000000" ttp:timeBase="media" xml:lang="en">
+<head>
+<metadata nttm:isSmpte608="true" nttm:schemaVersion="0" nttm:textType="SUBS" nttm:uuid="dd47e630-8dd1-484e-9b7b-d7e0d6a37384"/>
+<styling>
+<initial tts:backgroundColor="transparent" tts:color="white" tts:displayAlign="after" tts:extent="80.000% 80.000%" tts:opacity="1.000" tts:origin="10.000% 10.000%" tts:showBackground="whenActive" tts:textAlign="center" tts:textOutline="black 0.300rh" tts:writingMode="lrtb"/>
+<style xml:id="style0" tts:fontStyle="normal" tts:fontWeight="normal"/>
+<style xml:id="style1" tts:fontStyle="italic" tts:fontWeight="normal"/>
+</styling>
+<layout>
+<region xml:id="region0" tts:displayAlign="after" tts:extent="80.000% 40.000%" tts:origin="10.000% 50.000%"/>
+<region xml:id="region1" tts:displayAlign="before" tts:extent="80.000% 40.000%" tts:origin="10.000% 10.000%"/>
+</layout>
+</head>
+<body>
+<div>
+<p xml:id="subtitle1" begin="255833333t" end="310000000t" region="region0" style="style0"><span style="style1">I seek refuge in Allah</span><br/><span style="style1">from the accursed Satan.</span></p>
+<p xml:id="subtitle2" begin="310833333t" end="351666666t" region="region0" style="style0"><span style="style1">In the name of Allah,</span><br/><span style="style1">the Most Gracious, the Most Merciful.</span></p>
+<p xml:id="subtitle3" begin="352500000t" end="384583333t" region="region0" style="style0"><span style="style1">Say, O Prophet,</span><br/><span style="style1">&quot;I seek refuge in the Lord of humankind,</span></p>
+<p xml:id="subtitle4" begin="385416666t" end="404583333t" region="region0" style="style0"><span style="style1">the Master of humankind,</span></p>
+<p xml:id="subtitle5" begin="405416666t" end="427916666t" region="region0" style="style0"><span style="style1">the God of humankind,</span></p>
+<p xml:id="subtitle6" begin="428750000t" end="468333333t" region="region0" style="style0"><span style="style1">from the evil of the lurking whisperer</span></p>
+<p xml:id="subtitle7" begin="469166666t" end="512500000t" region="region0" style="style0"><span style="style1">who whispers into the hearts of humankind</span></p>
+<p xml:id="subtitle8" begin="513333333t" end="549583333t" region="region0" style="style0"><span style="style1">from among jinn and humankind.&quot;</span></p>
+<p xml:id="subtitle9" begin="566250000t" end="590833333t" region="region1" style="style0">Take your pills later, okay?</p>
+<p xml:id="subtitle10" begin="591666666t" end="619583333t" region="region1" style="style0">These pills won't make me better.</p>
+<p xml:id="subtitle11" begin="660833333t" end="678333333t" region="region1" style="style0">I'm cold.</p>
+<p xml:id="subtitle12" begin="679166666t" end="711250000t" region="region1" style="style0">-I'm cold. I can't take it.<br/>-Mom.</p>
+<p xml:id="subtitle13" begin="712083333t" end="719166666t" region="region1" style="style0">Mom.</p>
+<p xml:id="subtitle14" begin="720000000t" end="744166666t" region="region1" style="style0">-I'll rub some oil on you.<br/>-Mom.</p>
+<p xml:id="subtitle15" begin="755416666t" end="783750000t" region="region1" style="style0">I can't take this anymore, honey.<br/>It's happening every night.</p>
+<p xml:id="subtitle16" begin="784583333t" end="801250000t" region="region1" style="style0">Someone must have cursed me.</p>
+<p xml:id="subtitle17" begin="802083333t" end="815416666t" region="region1" style="style0">What is it?</p>
+<p xml:id="subtitle18" begin="816250000t" end="827500000t" region="region1" style="style0">Mom…</p>
+<p xml:id="subtitle19" begin="887083333t" end="916666666t" region="region1" style="style0">-Mom.<br/>-Honey.</p>
+<p xml:id="subtitle20" begin="928333333t" end="957500000t" region="region0" style="style0">Honey, are you all right?</p>
+<p xml:id="subtitle21" begin="972083333t" end="980833333t" region="region0" style="style0">Honey?</p>
+<p xml:id="subtitle22" begin="1017916666t" end="1030416666t" region="region0" style="style0">Honey!</p>
+<p xml:id="subtitle23" begin="1035416666t" end="1059166666t" region="region0" style="style0">Honey! Oh God!</p>
+<p xml:id="subtitle24" begin="1060000000t" end="1071250000t" region="region0" style="style0">Honey.</p>
+<p xml:id="subtitle25" begin="1090000000t" end="1102500000t" region="region0" style="style0">Honey.</p>
+<p xml:id="subtitle26" begin="1127083333t" end="1147083333t" region="region0" style="style0">Honey?</p>
+<p xml:id="subtitle27" begin="1155416666t" end="1175000000t" region="region0" style="style0">No, don't!</p>
+<p xml:id="subtitle28" begin="1179166666t" end="1207083333t" region="region0" style="style0">-Honey! Don't!<br/>-Mom!</p>
+<p xml:id="subtitle29" begin="1211250000t" end="1223750000t" region="region0" style="style0">Honey!</p>
+<p xml:id="subtitle30" begin="1224583333t" end="1240833333t" region="region0" style="style0">No! Honey!</p>
+<p xml:id="subtitle31" begin="1256666666t" end="1298333333t" region="region0" style="style0">-Honey!<br/>-Mom.</p>
+<p xml:id="subtitle32" begin="1299166666t" end="1314166666t" region="region0" style="style0">-Honey.<br/>-It hurts!</p>
+<p xml:id="subtitle33" begin="1315000000t" end="1328333333t" region="region0" style="style0">-Honey!<br/>-Mom, it hurts!</p>
+<p xml:id="subtitle34" begin="1329166666t" end="1359166666t" region="region0" style="style0">-It hurts!<br/>-Let go of her!</p>
+<p xml:id="subtitle35" begin="1413333333t" end="1426250000t" region="region0" style="style0">Come on, Yul, get inside.</p>
+<p xml:id="subtitle36" begin="1492916666t" end="1506250000t" region="region0" style="style0">Yuli.</p>
+<p xml:id="subtitle37" begin="1507083333t" end="1518333333t" region="region0" style="style0">Wait here, okay?</p>
+<p xml:id="subtitle38" begin="1519166666t" end="1554166666t" region="region0" style="style0">I'll come back<br/>after I take care of your mom, okay?</p>
+<p xml:id="subtitle39" begin="1617500000t" end="1634583333t" region="region0" style="style0">-Oh my God. Honey?<br/>-It hurts.</p>
+<p xml:id="subtitle40" begin="1635416666t" end="1667083333t" region="region0" style="style0">-It hurts.<br/>-It hurts!</p>
+<p xml:id="subtitle41" begin="1667916666t" end="1678750000t" region="region0" style="style0">No!</p>
+<p xml:id="subtitle42" begin="1684583333t" end="1706250000t" region="region0" style="style0">I'd rather die!</p>
+<p xml:id="subtitle43" begin="1707083333t" end="1724583333t" region="region0" style="style0">-No, stay strong!<br/>-Please, it hurts.</p>
+<p xml:id="subtitle44" begin="1729583333t" end="1753333333t" region="region0" style="style0">Honey, what are you doing? No!</p>
+<p xml:id="subtitle45" begin="1754166666t" end="1766250000t" region="region0" style="style0">Honey!</p>
+<p xml:id="subtitle46" begin="1873750000t" end="1891250000t" region="region0" style="style0">Dad?</p>
+<p xml:id="subtitle47" begin="1892083333t" end="1915000000t" region="region0" style="style0">Dad? Mom?</p>
+<p xml:id="subtitle48" begin="1975833333t" end="1985833333t" region="region0" style="style0">Dad?</p>
+<p xml:id="subtitle49" begin="2305000000t" end="2327083333t" region="region1" style="style0">WEST JAVA CITY PATROL</p>
+<p xml:id="subtitle50" begin="2347083333t" end="2358750000t" region="region0" style="style0">Little girl.</p>
+<p xml:id="subtitle51" begin="2359583333t" end="2373333333t" region="region0" style="style0">Wake up, dear.</p>
+<p xml:id="subtitle52" begin="2379166666t" end="2402500000t" region="region0" style="style0">Careful.</p>
+<p xml:id="subtitle53" begin="2407916666t" end="2420000000t" region="region0" style="style0">Watch your step.</p>
+<p xml:id="subtitle54" begin="2437083333t" end="2450416666t" region="region0" style="style0">Come on.</p>
+<p xml:id="subtitle55" begin="2535416666t" end="2558750000t" region="region0" style="style0">Dad? Mom?</p>
+<p xml:id="subtitle56" begin="2585000000t" end="2594583333t" region="region0" style="style0">Mom?</p>
+<p xml:id="subtitle57" begin="2601666666t" end="2619583333t" region="region0" style="style0">Mom!</p>
+<p xml:id="subtitle58" begin="2620416666t" end="2649583333t" region="region0" style="style0">-You cannot come in.<br/>-That's my husband.</p>
+<p xml:id="subtitle59" begin="2650416666t" end="2680833333t" region="region0" style="style0">Mom! Dad!</p>
+<p xml:id="subtitle60" begin="2681666666t" end="2704583333t" region="region0" style="style0">-Honey!<br/>-Dad!</p>
+<p xml:id="subtitle61" begin="2705416666t" end="2721250000t" region="region0" style="style0">-Calm down.<br/>-Mom.</p>
+<p xml:id="subtitle62" begin="2726666666t" end="2762083333t" region="region0" style="style0">-Dad.<br/>-It's all right. Calm down.</p>
+<p xml:id="subtitle63" begin="2762916666t" end="2777916666t" region="region0" style="style0">Mom.</p>
+<p xml:id="subtitle64" begin="2915000000t" end="2943750000t" region="region0" style="style0">You bastard child.</p>
+<p xml:id="subtitle65" begin="3166250000t" end="3215000000t" region="region1" style="style0">20 YEARS LATER</p>
+<p xml:id="subtitle66" begin="3256250000t" end="3277083333t" region="region0" style="style0">You just finished cooking, Yuli?</p>
+<p xml:id="subtitle67" begin="3277916666t" end="3310000000t" region="region0" style="style0">Look at the time.<br/>What have you been doing?</p>
+<p xml:id="subtitle68" begin="3310833333t" end="3326250000t" region="region0" style="style0">The rice, Yuli!</p>
+<p xml:id="subtitle69" begin="3335000000t" end="3353750000t" region="region0" style="style0">Yes, just a minute.</p>
+<p xml:id="subtitle70" begin="3390833333t" end="3410416666t" region="region0" style="style0">-Where to, Ka?<br/>-To the mosque.</p>
+<p xml:id="subtitle71" begin="3420000000t" end="3431250000t" region="region0" style="style0">I'll see you later.</p>
+<p xml:id="subtitle72" begin="3448750000t" end="3474166666t" region="region0" style="style0">Why do you go to the mosque every day?<br/>Grandma's sick, you know.</p>
+<p xml:id="subtitle73" begin="3475000000t" end="3490000000t" region="region0" style="style0">Don't you want to stay at home?</p>
+<p xml:id="subtitle74" begin="3490833333t" end="3518750000t" region="region0" style="style0">But I already promised Abuyya.</p>
+<p xml:id="subtitle75" begin="3519583333t" end="3543333333t" region="region0" style="style0">Yuli? Tika, help her.</p>
+<p xml:id="subtitle76" begin="3575833333t" end="3587500000t" region="region0" style="style0">Ma'am.</p>
+<p xml:id="subtitle77" begin="3593750000t" end="3604583333t" region="region0" style="style0">Ma'am.</p>
+<p xml:id="subtitle78" begin="3605416666t" end="3630833333t" region="region0" style="style0">Yuli, where's the sauce?</p>
+<p xml:id="subtitle79" begin="3631666666t" end="3648750000t" region="region0" style="style0">I'll make it right after this.</p>
+<p xml:id="subtitle80" begin="3649583333t" end="3671666666t" region="region0" style="style0">You know my husband<br/>can't eat without chili.</p>
+<p xml:id="subtitle81" begin="3672500000t" end="3683750000t" region="region0" style="style0">It's too hot.</p>
+<p xml:id="subtitle82" begin="3690416666t" end="3702916666t" region="region0" style="style0">Have you showered?</p>
+<p xml:id="subtitle83" begin="3765833333t" end="3778750000t" region="region0" style="style0">It's still hot, idiot!</p>
+<p xml:id="subtitle84" begin="3791250000t" end="3803333333t" region="region0" style="style0">I'm sorry.</p>
+<p xml:id="subtitle85" begin="3804166666t" end="3817083333t" region="region0" style="style0">Tika?</p>
+<p xml:id="subtitle86" begin="3817916666t" end="3828750000t" region="region0" style="style0">Take care.</p>
+<p xml:id="subtitle87" begin="3845000000t" end="3878750000t" region="region0" style="style0">Auntie, Grandma doesn't like it.</p>
+<p xml:id="subtitle88" begin="3886250000t" end="3899166666t" region="region0" style="style0">Have a drink, ma'am.</p>
+<p xml:id="subtitle89" begin="3937500000t" end="3962916666t" region="region0" style="style0">Grandma, I have to go.</p>
+<p xml:id="subtitle90" begin="3966666666t" end="3983750000t" region="region0" style="style0">Dean, take care of Grandma, okay?</p>
+<p xml:id="subtitle91" begin="3984583333t" end="4015416666t" region="region0" style="style0">Dean, you haven't changed your clothes?</p>
+<p xml:id="subtitle92" begin="4016250000t" end="4043750000t" region="region0" style="style0">Come and give me a kiss.</p>
+<p xml:id="subtitle93" begin="4044583333t" end="4071666666t" region="region0" style="style0">You smell. Go change.</p>
+<p xml:id="subtitle94" begin="4072500000t" end="4082916666t" region="region0" style="style0">Tika!</p>
+<p xml:id="subtitle95" begin="4083750000t" end="4095833333t" region="region0" style="style0">Let's go.</p>
+<p xml:id="subtitle96" begin="4096666666t" end="4119583333t" region="region0" style="style0">-Have you been waiting long?<br/>-No, I'm good.</p>
+<p xml:id="subtitle97" begin="4120416666t" end="4136250000t" region="region0" style="style0">-You sure?<br/>-Yes.</p>
+<p xml:id="subtitle98" begin="4182500000t" end="4258333333t" region="region0" style="style0">In the name of Allah,<br/>the Most Gracious, the Most Merciful…</p>
+<p xml:id="subtitle99" begin="4366666666t" end="4397500000t" region="region0" style="style0"><span style="style1">In the Quran, Surah Al-Mutaffifin,</span></p>
+<p xml:id="subtitle100" begin="4398333333t" end="4422916666t" region="region0" style="style0"><span style="style1">Allah SWT said,</span></p>
+<p xml:id="subtitle101" begin="4423750000t" end="4482500000t" region="region0" style="style0"><span style="style1">&quot;Kallâ inna kitaâbal-fujjari lafî sijjîn.&quot;</span></p>
+<p xml:id="subtitle102" begin="4491250000t" end="4550833333t" region="region0" style="style0">That every disobedient act<br/>is recorded in the <span style="style1">Sijjin.</span></p>
+<p xml:id="subtitle103" begin="4551666666t" end="4577083333t" region="region0" style="style0"><span style="style1">Wa mâ adrâka mâ sijjîn.</span></p>
+<p xml:id="subtitle104" begin="4577916666t" end="4591666666t" region="region0" style="style0">What is <span style="style1">Sijjin?</span></p>
+<p xml:id="subtitle105" begin="4592500000t" end="4608750000t" region="region0" style="style0">It goes on to say,</p>
+<p xml:id="subtitle106" begin="4609583333t" end="4628333333t" region="region0" style="style0"><span style="style1">Kitâbum marqûm.</span></p>
+<p xml:id="subtitle107" begin="4629166666t" end="4687500000t" region="region0" style="style0">A book that records every act<br/>of our evil deeds.</p>
+<p xml:id="subtitle108" begin="4688333333t" end="4733750000t" region="region0" style="style0">But if it is for pious deeds,<br/>our good deeds,</p>
+<p xml:id="subtitle109" begin="4734583333t" end="4785000000t" region="region0" style="style0">these will be recorded by the angels<br/>in the book called <span style="style1">Illiyyin.</span></p>
+<p xml:id="subtitle110" begin="4795416666t" end="4808750000t" region="region0" style="style0">Look at that.</p>
+<p xml:id="subtitle111" begin="4809583333t" end="4830833333t" region="region0" style="style0">The house has been empty for a long time.</p>
+<p xml:id="subtitle112" begin="4831666666t" end="4854166666t" region="region0" style="style0">Yeah, it's really dark.</p>
+<p xml:id="subtitle113" begin="4855000000t" end="4874583333t" region="region0" style="style0">Who used to live there?</p>
+<p xml:id="subtitle114" begin="4890416666t" end="4922083333t" region="region0" style="style0">-There's a ghost!<br/>-What?</p>
+<p xml:id="subtitle115" begin="5021250000t" end="5039583333t" region="region0" style="style0">O spirits,</p>
+<p xml:id="subtitle116" begin="5055833333t" end="5075000000t" region="region0" style="style0">I have with me some offerings.</p>
+<p xml:id="subtitle117" begin="5088750000t" end="5113333333t" region="region0" style="style0">Come and tell me.</p>
+<p xml:id="subtitle118" begin="5166666666t" end="5184583333t" region="region0" style="style0">Come and tell me.</p>
+<p xml:id="subtitle119" begin="5204166666t" end="5220416666t" region="region0" style="style0">Come and tell me.</p>
+<p xml:id="subtitle120" begin="5235833333t" end="5255833333t" region="region0" style="style0">Come and tell me.</p>
+<p xml:id="subtitle121" begin="5558333333t" end="5576666666t" region="region0" style="style0">Good evening.</p>
+<p xml:id="subtitle122" begin="5577500000t" end="5602916666t" region="region0" style="style0">Dean, I already told you<br/>not to play with that.</p>
+<p xml:id="subtitle123" begin="5611250000t" end="5650833333t" region="region0" style="style0">My friend said that if we use this,<br/>we can talk to the dead.</p>
+<p xml:id="subtitle124" begin="5656250000t" end="5686250000t" region="region0" style="style0">How can you even talk to a dead person?</p>
+<p xml:id="subtitle125" begin="5695416666t" end="5717500000t" region="region0" style="style0">What's wrong with Grandma?</p>
+<p xml:id="subtitle126" begin="5718333333t" end="5730000000t" region="region0" style="style0">Gosh.</p>
+<p xml:id="subtitle127" begin="5730833333t" end="5744583333t" region="region0" style="style0">I'll get more pillows, okay?</p>
+<p xml:id="subtitle128" begin="5752500000t" end="5774583333t" region="region0" style="style0">Lift your head.</p>
+<p xml:id="subtitle129" begin="5782500000t" end="5792083333t" region="region0" style="style0">Like that.</p>
+<p xml:id="subtitle130" begin="5792916666t" end="5820000000t" region="region0" style="style0">Aunt Yuli, do you want to try<br/>talking to dead people too?</p>
+<p xml:id="subtitle131" begin="5868750000t" end="5885833333t" region="region0" style="style0">I wanted to at one time.</p>
+<p xml:id="subtitle132" begin="5895000000t" end="5927083333t" region="region0" style="style0">Every time I missed<br/>my late father and mother.</p>
+<p xml:id="subtitle133" begin="5955416666t" end="5967500000t" region="region0" style="style0">Grandma?</p>
+<p xml:id="subtitle134" begin="5974166666t" end="5984166666t" region="region0" style="style0">What is it?</p>
+<p xml:id="subtitle135" begin="5985000000t" end="6015833333t" region="region0" style="style0">Please get some oxygen.</p>
+<p xml:id="subtitle136" begin="6016666666t" end="6026666666t" region="region0" style="style0">What's wrong with Grandma?</p>
+<p xml:id="subtitle137" begin="6027500000t" end="6041250000t" region="region0" style="style0">-Aunt Yuli, can I leave her with you?<br/>-Yes.</p>
+<p xml:id="subtitle138" begin="6042083333t" end="6051666666t" region="region0" style="style0">-I'll go and get Mom.<br/>-Okay.</p>
+<p xml:id="subtitle139" begin="6052500000t" end="6064583333t" region="region0" style="style0">Tika, hurry up!</p>
+<p xml:id="subtitle140" begin="6147500000t" end="6169166666t" region="region0" style="style0">Your parents</p>
+<p xml:id="subtitle141" begin="6170000000t" end="6183333333t" region="region0" style="style0">deserved to die!</p>
+<p xml:id="subtitle142" begin="6223750000t" end="6238750000t" region="region0" style="style0">Mom?</p>
+<p xml:id="subtitle143" begin="6239583333t" end="6257083333t" region="region0" style="style0">-Mom?<br/>-Tika, help me.</p>
+<p xml:id="subtitle144" begin="6257916666t" end="6284166666t" region="region0" style="style0">-Lift her up.<br/>-Okay, we'll do that.</p>
+<p xml:id="subtitle145" begin="6285000000t" end="6300833333t" region="region0" style="style0">-Inhaler.<br/>-Inhaler?</p>
+<p xml:id="subtitle146" begin="6301666666t" end="6318750000t" region="region0" style="style0">-Inhaler or pills?<br/>-Inhaler.</p>
+<p xml:id="subtitle147" begin="6355416666t" end="6367916666t" region="region0" style="style0">-Grandma.<br/>-Mom?</p>
+<p xml:id="subtitle148" begin="6368750000t" end="6387500000t" region="region0" style="style0">-Grandma?<br/>-Mom?</p>
+<p xml:id="subtitle149" begin="6388333333t" end="6402500000t" region="region0" style="style0">-Grandma?<br/>-Mom? Mom.</p>
+<p xml:id="subtitle150" begin="6403333333t" end="6422083333t" region="region0" style="style0">What's wrong, Mom?</p>
+<p xml:id="subtitle151" begin="6422916666t" end="6439583333t" region="region0" style="style0">Grandma…</p>
+<p xml:id="subtitle152" begin="6464583333t" end="6478750000t" region="region0" style="style0">Oh no.</p>
+<p xml:id="subtitle153" begin="6479583333t" end="6492500000t" region="region0" style="style0">Mom…</p>
+<p xml:id="subtitle154" begin="6507500000t" end="6516250000t" region="region0" style="style0">Grandma?</p>
+<p xml:id="subtitle155" begin="6554166666t" end="6564166666t" region="region0" style="style0">Wake up, Mom.</p>
+<p xml:id="subtitle156" begin="6573333333t" end="6595000000t" region="region0" style="style0">-Mom?<br/>-She's gone.</p>
+<p xml:id="subtitle157" begin="6595833333t" end="6617916666t" region="region0" style="style0">-She's gone.<br/>-Grandma…</p>
+<p xml:id="subtitle158" begin="6618750000t" end="6635416666t" region="region0" style="style0">-Mom.<br/>-Grandma.</p>
+<p xml:id="subtitle159" begin="6636250000t" end="6666250000t" region="region0" style="style0">-Grandma.<br/>-Mom, wake up.</p>
+<p xml:id="subtitle160" begin="6667083333t" end="6681666666t" region="region0" style="style0">Grandma.</p>
+<p xml:id="subtitle161" begin="6691250000t" end="6705833333t" region="region0" style="style0">-Mom.<br/>-Grandma.</p>
+<p xml:id="subtitle162" begin="6706666666t" end="6740000000t" region="region0" style="style0">-Grandma. Grandma!<br/>-Mom!</p>
+<p xml:id="subtitle163" begin="6740833333t" end="6757083333t" region="region0" style="style0">AMBARWATI<br/>DAUGHTER OF SURYONO</p>
+<p xml:id="subtitle164" begin="6772083333t" end="6786666666t" region="region0" style="style0"><span style="style1">Peace be upon you.</span></p>
+<p xml:id="subtitle165" begin="6798750000t" end="6831666666t" region="region0" style="style0">Tika, my condolences.</p>
+<p xml:id="subtitle166" begin="6832500000t" end="6854166666t" region="region0" style="style0">Indeed, we belong to Allah, and to Him<br/>we shall return. Stay strong.</p>
+<p xml:id="subtitle167" begin="6855000000t" end="6877500000t" region="region0" style="style0">-Peace be upon you.<br/>-And upon you too.</p>
+<p xml:id="subtitle168" begin="6878333333t" end="6888333333t" region="region0" style="style0">Hello.</p>
+<p xml:id="subtitle169" begin="7135833333t" end="7161250000t" region="region0" style="style0">Those who are not family,<br/>please leave the room.</p>
+<p xml:id="subtitle170" begin="7275416666t" end="7292083333t" region="region0" style="style0">What are you doing here?</p>
+<p xml:id="subtitle171" begin="7322500000t" end="7333750000t" region="region0" style="style0">Get out.</p>
+<p xml:id="subtitle172" begin="7347916666t" end="7365833333t" region="region0" style="style0">Prepare the shroud for my mother.</p>
+<p xml:id="subtitle173" begin="7396250000t" end="7422500000t" region="region0" style="style0">Yes, take that one.</p>
+<p xml:id="subtitle174" begin="7533750000t" end="7567083333t" region="region0" style="style0">Before we pray for her<br/>and have her funeral,</p>
+<p xml:id="subtitle175" begin="7567916666t" end="7588333333t" region="region0" style="style0">if anyone wants to kiss her goodbye,</p>
+<p xml:id="subtitle176" begin="7589166666t" end="7608333333t" region="region0" style="style0">don't let your tears fall, okay?</p>
+<p xml:id="subtitle177" begin="8017083333t" end="8032916666t" region="region0" style="style0"><span style="style1">Idiot!</span></p>
+<p xml:id="subtitle178" begin="8033750000t" end="8053333333t" region="region0" style="style0">Eat it.</p>
+<p xml:id="subtitle179" begin="8054166666t" end="8071666666t" region="region0" style="style0">Eat it!</p>
+<p xml:id="subtitle180" begin="8080000000t" end="8100416666t" region="region0" style="style0">-Idiot!<br/>-I'm sorry, ma'am!</p>
+<p xml:id="subtitle181" begin="8101250000t" end="8117916666t" region="region0" style="style0">I've fed you, you bastard!</p>
+<p xml:id="subtitle182" begin="8132500000t" end="8162083333t" region="region0" style="style0"><span style="style1">-Eat it!</span><br/><span style="style1">-No.</span></p>
+<p xml:id="subtitle183" begin="8162916666t" end="8184166666t" region="region0" style="style0"><span style="style1">-Here.</span><br/><span style="style1">-No, ma'am, please!</span></p>
+<p xml:id="subtitle184" begin="8211250000t" end="8226666666t" region="region0" style="style0">I'm sorry.</p>
+<p xml:id="subtitle185" begin="8242083333t" end="8255833333t" region="region0" style="style0">Sorry for what?</p>
+<p xml:id="subtitle186" begin="8294166666t" end="8320833333t" region="region0" style="style0">You're already dead.<br/>You're already dead.</p>
+<p xml:id="subtitle187" begin="8321666666t" end="8341666666t" region="region0" style="style0">Die, you!</p>
+<p xml:id="subtitle188" begin="8392500000t" end="8403333333t" region="region0" style="style0">Yuli.</p>
+<p xml:id="subtitle189" begin="8404166666t" end="8413750000t" region="region0" style="style0">Yuli!</p>
+<p xml:id="subtitle190" begin="8419583333t" end="8436250000t" region="region0" style="style0">Oh God!</p>
+<p xml:id="subtitle191" begin="8437083333t" end="8456250000t" region="region0" style="style0">You're happy that my mother died, right?</p>
+<p xml:id="subtitle192" begin="8463750000t" end="8490833333t" region="region0" style="style0">My mother has been taking care of you<br/>since you were little,</p>
+<p xml:id="subtitle193" begin="8491666666t" end="8517083333t" region="region0" style="style0">and now you're making a scene<br/>in front of her.</p>
+<p xml:id="subtitle194" begin="8522916666t" end="8542916666t" region="region0" style="style0">You're so ungrateful, Yuli.</p>
+<p xml:id="subtitle195" begin="8543750000t" end="8558750000t" region="region0" style="style0">Bastard child!</p>
+<p xml:id="subtitle196" begin="8559583333t" end="8577083333t" region="region0" style="style0">Ms. Laras, please calm down.</p>
+<p xml:id="subtitle197" begin="8577916666t" end="8600000000t" region="region0" style="style0">We shouldn't do this<br/>in front of the deceased.</p>
+<p xml:id="subtitle198" begin="8610833333t" end="8630833333t" region="region0" style="style0">Take her.</p>
+<p xml:id="subtitle199" begin="8631666666t" end="8647500000t" region="region0" style="style0">-Gosh.<br/>-Mom.</p>
+<p xml:id="subtitle200" begin="8648333333t" end="8668333333t" region="region0" style="style0">Mom, let's go.</p>
+<p xml:id="subtitle201" begin="8835833333t" end="8878333333t" region="region0" style="style0">Mom, why isn't Dad coming home?</p>
+<p xml:id="subtitle202" begin="8886666666t" end="8898750000t" region="region0" style="style0">Let's go inside.</p>
+<p xml:id="subtitle203" begin="8899583333t" end="8932500000t" region="region0" style="style0">No, I'm waiting for Dad.</p>
+<p xml:id="subtitle204" begin="8933333333t" end="8949583333t" region="region0" style="style0">Where did he go, Mom?</p>
+<p xml:id="subtitle205" begin="9392500000t" end="9404166666t" region="region0" style="style0">Yes.</p>
+<p xml:id="subtitle206" begin="9432916666t" end="9450416666t" region="region0" style="style0"><span style="style1">Yuli is the child of an affair.</span></p>
+<p xml:id="subtitle207" begin="9451250000t" end="9485000000t" region="region0" style="style0">Look, she doesn't even<br/>look like Mrs. Laras.</p>
+<p xml:id="subtitle208" begin="9485833333t" end="9517500000t" region="region0" style="style0">You're right, she looks different.</p>
+<p xml:id="subtitle209" begin="9530000000t" end="9555833333t" region="region0" style="style0">Rudi, not there.</p>
+<p xml:id="subtitle210" begin="9556666666t" end="9578333333t" region="region0" style="style0">That's not where you put it.</p>
+<p xml:id="subtitle211" begin="9588750000t" end="9605416666t" region="region0" style="style0">That's not it.</p>
+<p xml:id="subtitle212" begin="9606250000t" end="9626666666t" region="region0" style="style0">It's been two months<br/>and you still don't get it.</p>
+<p xml:id="subtitle213" begin="9627500000t" end="9643333333t" region="region0" style="style0">Over there.</p>
+<p xml:id="subtitle214" begin="9644166666t" end="9673333333t" region="region0" style="style0">They're all placed over there.</p>
+<p xml:id="subtitle215" begin="9674166666t" end="9708333333t" region="region0" style="style0">-You said on the shelf.<br/>-No, here.</p>
+<p xml:id="subtitle216" begin="9709166666t" end="9727500000t" region="region0" style="style0">-Okay, okay.<br/>-Gosh.</p>
+<p xml:id="subtitle217" begin="9746666666t" end="9759583333t" region="region0" style="style0">-Right here?<br/>-Yes.</p>
+<p xml:id="subtitle218" begin="9773333333t" end="9792500000t" region="region0" style="style0">-For you.<br/>-Okay.</p>
+<p xml:id="subtitle219" begin="9793333333t" end="9815833333t" region="region0" style="style0">-Thank you.<br/>-You're welcome.</p>
+<p xml:id="subtitle220" begin="9837500000t" end="9847083333t" region="region0" style="style0">Bye.</p>
+<p xml:id="subtitle221" begin="9852500000t" end="9865000000t" region="region0" style="style0">Don't take that.</p>
+<p xml:id="subtitle222" begin="9865833333t" end="9897083333t" region="region0" style="style0">We need to give everything to Laras.</p>
+<p xml:id="subtitle223" begin="9897916666t" end="9910000000t" region="region0" style="style0">Yuli?</p>
+<p xml:id="subtitle224" begin="9925833333t" end="9940000000t" region="region0" style="style0">What is this?</p>
+<p xml:id="subtitle225" begin="9951250000t" end="9978750000t" region="region0" style="style0">Is what my mother gave you<br/>still not enough?</p>
+<p xml:id="subtitle226" begin="9979583333t" end="10010416666t" region="region0" style="style0">-No, Yono was just…<br/>-I can't believe you.</p>
+<p xml:id="subtitle227" begin="10011250000t" end="10027916666t" region="region0" style="style0">When will it be enough for you?</p>
+<p xml:id="subtitle228" begin="10028750000t" end="10057500000t" region="region0" style="style0">-I was going to give it to you.<br/>-Why did Yono give you money?</p>
+<p xml:id="subtitle229" begin="10063750000t" end="10077500000t" region="region0" style="style0">What did you do with Yono?</p>
+<p xml:id="subtitle230" begin="10078333333t" end="10092083333t" region="region0" style="style0">Nothing.</p>
+<p xml:id="subtitle231" begin="10092916666t" end="10115416666t" region="region0" style="style0">-What did you and Yono do?<br/>-Nothing, this is…</p>
+<p xml:id="subtitle232" begin="10116250000t" end="10144583333t" region="region0" style="style0">You slut, you're just like your mother!</p>
+<p xml:id="subtitle233" begin="10209166666t" end="10228333333t" region="region0" style="style0">What? What do you want?</p>
+<p xml:id="subtitle234" begin="10233750000t" end="10250000000t" region="region0" style="style0">You're gonna talk back to me now?</p>
+<p xml:id="subtitle235" begin="10250833333t" end="10266250000t" region="region0" style="style0">Just because my mother<br/>is no longer around,</p>
+<p xml:id="subtitle236" begin="10267083333t" end="10287500000t" region="region0" style="style0">you think you can fight me, is that so?</p>
+<p xml:id="subtitle237" begin="10295833333t" end="10322500000t" region="region0" style="style0">I don't care that I'm yelling!<br/>It's so everyone will know who she is.</p>
+<p xml:id="subtitle238" begin="10323333333t" end="10339583333t" region="region0" style="style0">That's enough.</p>
+<p xml:id="subtitle239" begin="10340416666t" end="10355000000t" region="region0" style="style0">You should go.</p>
+<p xml:id="subtitle240" begin="10363750000t" end="10378333333t" region="region0" style="style0">Hello, ma'am.</p>
+<p xml:id="subtitle241" begin="10379166666t" end="10399583333t" region="region0" style="style0">-What do you need?<br/>-Sugar.</p>
+<p xml:id="subtitle242" begin="10400416666t" end="10415416666t" region="region0" style="style0">Sugar?</p>
+<p xml:id="subtitle243" begin="10416250000t" end="10428750000t" region="region0" style="style0">Rudi!</p>
+<p xml:id="subtitle244" begin="10429583333t" end="10452083333t" region="region0" style="style0">Wait a minute, please.</p>
+<p xml:id="subtitle245" begin="10535416666t" end="10548750000t" region="region0" style="style0">You should eat, Yuli.</p>
+<p xml:id="subtitle246" begin="10563750000t" end="10573750000t" region="region0" style="style0">Okay.</p>
+<p xml:id="subtitle247" begin="10615833333t" end="10626666666t" region="region0" style="style0">Yono.</p>
+<p xml:id="subtitle248" begin="10648333333t" end="10662083333t" region="region0" style="style0">Help me, please.</p>
+<p xml:id="subtitle249" begin="10925833333t" end="10938333333t" region="region0" style="style0">You wait here.</p>
+<p xml:id="subtitle250" begin="10939166666t" end="10950833333t" region="region0" style="style0">I'll go alone.</p>
+<p xml:id="subtitle251" begin="11191666666t" end="11206666666t" region="region0" style="style0">Excuse me.</p>
+<p xml:id="subtitle252" begin="11207500000t" end="11217916666t" region="region0" style="style0">Abah?</p>
+<p xml:id="subtitle253" begin="11318333333t" end="11329166666t" region="region0" style="style0">Miss Yuli?</p>
+<p xml:id="subtitle254" begin="11335416666t" end="11345833333t" region="region0" style="style0">Come in.</p>
+<p xml:id="subtitle255" begin="11486666666t" end="11505833333t" region="region0" style="style0">I want to destroy this family</p>
+<p xml:id="subtitle256" begin="11514166666t" end="11534583333t" region="region0" style="style0">just like they destroyed my life.</p>
+<p xml:id="subtitle257" begin="11545000000t" end="11560833333t" region="region0" style="style0">What about the one before this?</p>
+<p xml:id="subtitle258" begin="11561666666t" end="11571666666t" region="region0" style="style0">Is she dead?</p>
+<p xml:id="subtitle259" begin="11605000000t" end="11642083333t" region="region0" style="style0">Do you want them blind, disabled,</p>
+<p xml:id="subtitle260" begin="11655000000t" end="11668333333t" region="region0" style="style0">or dead?</p>
+<p xml:id="subtitle261" begin="11669166666t" end="11684583333t" region="region0" style="style0">I want them all…</p>
+<p xml:id="subtitle262" begin="11723333333t" end="11740416666t" region="region0" style="style0">dead.</p>
+<p xml:id="subtitle263" begin="11751250000t" end="11776666666t" region="region0" style="style0">Are you ready for the risk?</p>
+<p xml:id="subtitle264" begin="12078750000t" end="12108750000t" region="region0" style="style0">My eyes are in the universe.</p>
+<p xml:id="subtitle265" begin="12109583333t" end="12147083333t" region="region0" style="style0">My spirit is in the unseen realm.</p>
+<p xml:id="subtitle266" begin="12147916666t" end="12197916666t" region="region0" style="style0">I ask forgiveness from all beings.</p>
+<p xml:id="subtitle267" begin="12198750000t" end="12239166666t" region="region0" style="style0">I ask for guidance<br/>from those who dwell there.</p>
+<p xml:id="subtitle268" begin="12425833333t" end="12467083333t" region="region0" style="style0">There is one black magic curse<br/>that can make your wishes come true.</p>
+<p xml:id="subtitle269" begin="12467916666t" end="12500000000t" region="region0" style="style0">It is very dangerous and deadly.</p>
+<p xml:id="subtitle270" begin="12500833333t" end="12533333333t" region="region0" style="style0">The ritual requires a fresh corpse</p>
+<p xml:id="subtitle271" begin="12534166666t" end="12552916666t" region="region0" style="style0">which isn't 40 days old yet.</p>
+<p xml:id="subtitle272" begin="12560000000t" end="12571250000t" region="region0" style="style0">What if…</p>
+<p xml:id="subtitle273" begin="12585000000t" end="12621666666t" region="region0" style="style0">the corpse is from the same family, Bah?</p>
+<p xml:id="subtitle274" begin="12633333333t" end="12643750000t" region="region0" style="style0">That's even better.</p>
+<p xml:id="subtitle275" begin="13462916666t" end="13490416666t" region="region0" style="style0">-Wait, wait. So heavy.<br/>-One, two, three.</p>
+<p xml:id="subtitle276" begin="13508333333t" end="13525833333t" region="region0" style="style0">-Again.<br/>-Two, three.</p>
+<p xml:id="subtitle277" begin="13557083333t" end="13585416666t" region="region0" style="style0">-Come on.<br/>-Come on. Two, three.</p>
+<p xml:id="subtitle278" begin="13895000000t" end="13911666666t" region="region0" style="style0">Come on, hurry up, hurry up.</p>
+<p xml:id="subtitle279" begin="14019583333t" end="14035000000t" region="region0" style="style0">Yono, come on.</p>
+<p xml:id="subtitle280" begin="14045416666t" end="14066250000t" region="region0" style="style0">Come on.</p>
+<p xml:id="subtitle281" begin="14093750000t" end="14113333333t" region="region0" style="style0">Wait, wait.</p>
+<p xml:id="subtitle282" begin="14114166666t" end="14131666666t" region="region0" style="style0">One, two, three.</p>
+<p xml:id="subtitle283" begin="14343333333t" end="14360000000t" region="region0" style="style0">Wait outside.</p>
+<p xml:id="subtitle284" begin="14360833333t" end="14369166666t" region="region0" style="style0">Okay.</p>
+<p xml:id="subtitle285" begin="15259166666t" end="15286250000t" region="region0" style="style0">AMBARWATI DAUGHTER OF SURYONO<br/>BORN 20 FEBRUARY 1943</p>
+<p xml:id="subtitle286" begin="15659583333t" end="15676666666t" region="region0" style="style0">Blood meets blood.</p>
+<p xml:id="subtitle287" begin="15677500000t" end="15697500000t" region="region0" style="style0">Blood meets blood.</p>
+<p xml:id="subtitle288" begin="15698333333t" end="15712083333t" region="region0" style="style0">Skin meets skin.</p>
+<p xml:id="subtitle289" begin="15712916666t" end="15730833333t" region="region0" style="style0">Skin meets skin.</p>
+<p xml:id="subtitle290" begin="15731666666t" end="15747916666t" region="region0" style="style0">Flesh meets flesh.</p>
+<p xml:id="subtitle291" begin="15748750000t" end="15765416666t" region="region0" style="style0">Flesh meets flesh.</p>
+<p xml:id="subtitle292" begin="15766250000t" end="15785416666t" region="region0" style="style0">Breech blocked by breech.</p>
+<p xml:id="subtitle293" begin="15786250000t" end="15810000000t" region="region0" style="style0">Breech blocked by breech.</p>
+<p xml:id="subtitle294" begin="15810833333t" end="15824583333t" region="region0" style="style0">Black sky, black earth.</p>
+<p xml:id="subtitle295" begin="15825416666t" end="15850833333t" region="region0" style="style0">Black sky, black earth.</p>
+<p xml:id="subtitle296" begin="15851666666t" end="15890833333t" region="region0" style="style0">I am controlled by my ancestors.</p>
+<p xml:id="subtitle297" begin="15917500000t" end="15927083333t" region="region0" style="style0">I am controlled…</p>
+<p xml:id="subtitle298" begin="16025416666t" end="16047916666t" region="region0" style="style0">I am controlled by my ancestors.</p>
+<p xml:id="subtitle299" begin="16058333333t" end="16092083333t" region="region0" style="style0">All shall be destroyed before me.</p>
+<p xml:id="subtitle300" begin="16112083333t" end="16143750000t" region="region0" style="style0">Destroyed, destroyed, destroyed.</p>
+<p xml:id="subtitle301" begin="16150833333t" end="16185833333t" region="region0" style="style0">I call upon the Queen of Black Magic<br/>in the high mountains.</p>
+<p xml:id="subtitle302" begin="16191250000t" end="16221250000t" region="region0" style="style0">I know the Queen always desires something.</p>
+<p xml:id="subtitle303" begin="16222083333t" end="16242500000t" region="region0" style="style0">I have brought her favorite offering.</p>
+<p xml:id="subtitle304" begin="16243333333t" end="16255000000t" region="region0" style="style0">Accept my command.</p>
+<p xml:id="subtitle305" begin="16255833333t" end="16280416666t" region="region0" style="style0">Destroy them all.</p>
+<p xml:id="subtitle306" begin="16535000000t" end="16568750000t" region="region0" style="style0">Their deaths are on you.</p>
+<p xml:id="subtitle307" begin="16617500000t" end="16662916666t" region="region0" style="style0">You have to finish everything<br/>before this corpse rots.</p>
+<p xml:id="subtitle308" begin="16675833333t" end="16711666666t" region="region0" style="style0">You must perform this ritual<br/>until it is completed.</p>
+<p xml:id="subtitle309" begin="16712500000t" end="16724166666t" region="region0" style="style0">If you don't,</p>
+<p xml:id="subtitle310" begin="16725000000t" end="16752083333t" region="region0" style="style0">all the black magic will come back to you.</p>
+<p xml:id="subtitle311" begin="16784166666t" end="16840416666t" region="region0" style="style0">The jinn really like sinful<br/>and misguided people.</p>
+<p xml:id="subtitle312" begin="16856250000t" end="16904166666t" region="region0" style="style0">Make sure those people are sinners<br/>and that they deserve to die.</p>
+<p xml:id="subtitle313" begin="16985000000t" end="17011250000t" region="region0" style="style0">Allah is the Greatest.</p>
+<p xml:id="subtitle314" begin="17024166666t" end="17045833333t" region="region0" style="style0">Allah is the Greatest.</p>
+<p xml:id="subtitle315" begin="17091250000t" end="17139583333t" region="region0" style="style0">Glory be to my Lord, the Most High,<br/>and praise be to Him.</p>
+<p xml:id="subtitle316" begin="17150833333t" end="17182083333t" region="region0" style="style0">Glory be to my Lord, the Most High,<br/>and praise be to Him.</p>
+<p xml:id="subtitle317" begin="17189166666t" end="17209166666t" region="region0" style="style0">Allah hears the one who praises Him.</p>
+<p xml:id="subtitle318" begin="17210000000t" end="17237083333t" region="region0" style="style0">Lord, to You belongs all praise, as much<br/>as would fill the heavens and the earth.</p>
+<p xml:id="subtitle319" begin="17242916666t" end="17260416666t" region="region0" style="style0">Allah is the Greatest.</p>
+<p xml:id="subtitle320" begin="17261250000t" end="17279583333t" region="region0" style="style0">Glory be to my Lord, the Most High…</p>
+<p xml:id="subtitle321" begin="17287083333t" end="17318333333t" region="region0" style="style0">Glory be to my Lord, the Most High, and<br/>praise be to Him. Allah is the Greatest.</p>
+<p xml:id="subtitle322" begin="17325000000t" end="17347500000t" region="region0" style="style0">My Lord, forgive me,<br/>have mercy on me, heal me,</p>
+<p xml:id="subtitle323" begin="17348333333t" end="17373750000t" region="region0" style="style0">raise me, provide for me, guide me,<br/>grant me health, and pardon me.</p>
+<p xml:id="subtitle324" begin="17374583333t" end="17395833333t" region="region0" style="style0">Allah is the Greatest.</p>
+<p xml:id="subtitle325" begin="17396666666t" end="17437500000t" region="region0" style="style0">Glory be to my Lord, the Most High,<br/>and praise be to Him.</p>
+<p xml:id="subtitle326" begin="17443333333t" end="17463333333t" region="region0" style="style0">Allah is the Greatest.</p>
+<p xml:id="subtitle327" begin="17478750000t" end="17505000000t" region="region0" style="style0">All greetings, prayers,<br/>and good things are for Allah…</p>
+<p xml:id="subtitle328" begin="18801250000t" end="18817916666t" region="region0" style="style0">What's the matter?</p>
+<p xml:id="subtitle329" begin="18826666666t" end="18845000000t" region="region0" style="style0">I saw Grandma over there.</p>
+<p xml:id="subtitle330" begin="18850416666t" end="18877500000t" region="region0" style="style0">On the bed! She really was there!</p>
+<p xml:id="subtitle331" begin="18878333333t" end="18899166666t" region="region0" style="style0">You're just imagining things.</p>
+<p xml:id="subtitle332" begin="18900000000t" end="18920833333t" region="region0" style="style0">Go to sleep. It's late.</p>
+<p xml:id="subtitle333" begin="19052083333t" end="19079583333t" region="region0" style="style0">You should have been more careful, Tika.</p>
+<p xml:id="subtitle334" begin="19090000000t" end="19113750000t" region="region0" style="style0">I think something's really wrong, Mom.</p>
+<p xml:id="subtitle335" begin="19114583333t" end="19143750000t" region="region0" style="style0">How could the photo fall on its own?</p>
+<p xml:id="subtitle336" begin="19144583333t" end="19157083333t" region="region0" style="style0">It's weird.</p>
+<p xml:id="subtitle337" begin="19165416666t" end="19180833333t" region="region0" style="style0">What if it's Grandma?</p>
+<p xml:id="subtitle338" begin="19194166666t" end="19223750000t" region="region0" style="style0">Yesterday, I tried to talk to Grandma.</p>
+<p xml:id="subtitle339" begin="19224583333t" end="19240000000t" region="region0" style="style0">Then she answered.</p>
+<p xml:id="subtitle340" begin="19246250000t" end="19260000000t" region="region0" style="style0">Grandma said…</p>
+<p xml:id="subtitle341" begin="19266666666t" end="19279166666t" region="region0" style="style0">&quot;It hurts.&quot;</p>
+<p xml:id="subtitle342" begin="19295416666t" end="19315833333t" region="region0" style="style0">Don't say that, okay?</p>
+<p xml:id="subtitle343" begin="19316666666t" end="19334166666t" region="region0" style="style0">Why are you still playing that?</p>
+<p xml:id="subtitle344" begin="19335000000t" end="19349583333t" region="region0" style="style0">I'm serious.</p>
+<p xml:id="subtitle345" begin="19350416666t" end="19372916666t" region="region0" style="style0">What if she is really in pain?</p>
+<p xml:id="subtitle346" begin="19401666666t" end="19442500000t" region="region0" style="style0">Mom, tonight, we're doing<br/>the prayers for Grandma, right?</p>
+<p xml:id="subtitle347" begin="19469166666t" end="19491666666t" region="region0" style="style0">What's the point of those prayers, Tika?</p>
+<p xml:id="subtitle348" begin="19497916666t" end="19513750000t" region="region0" style="style0">You said so yourself.</p>
+<p xml:id="subtitle349" begin="19514583333t" end="19528750000t" region="region0" style="style0">Grandma has passed away.</p>
+<p xml:id="subtitle350" begin="19529583333t" end="19552916666t" region="region0" style="style0">People should be praying for us.</p>
+<p xml:id="subtitle351" begin="19563333333t" end="19575000000t" region="region0" style="style0">So we can stay strong.</p>
+<p xml:id="subtitle352" begin="19575833333t" end="19615000000t" region="region0" style="style0">Yes, but there's nothing wrong<br/>with praying for Grandma too, right, Mom?</p>
+<p xml:id="subtitle353" begin="19615833333t" end="19648333333t" region="region0" style="style0">So she can rest easy there too, okay?</p>
+<p xml:id="subtitle354" begin="19663333333t" end="19680833333t" region="region0" style="style0">You handle it.</p>
+<p xml:id="subtitle355" begin="19733750000t" end="19747500000t" region="region0" style="style0">Yuli.</p>
+<p xml:id="subtitle356" begin="19777500000t" end="19807083333t" region="region0" style="style0">I've been calling for you for a while.</p>
+<p xml:id="subtitle357" begin="19811666666t" end="19822500000t" region="region0" style="style0">Look at that.</p>
+<p xml:id="subtitle358" begin="19823333333t" end="19845416666t" region="region0" style="style0">Do I have to sort it all out myself?</p>
+<p xml:id="subtitle359" begin="19865833333t" end="19892916666t" region="region0" style="style0">For the prayers tonight,<br/>if you need anything,</p>
+<p xml:id="subtitle360" begin="19899583333t" end="19911250000t" region="region0" style="style0">just tell Aunt Yuli.</p>
+<p xml:id="subtitle361" begin="19912083333t" end="19923333333t" region="region0" style="style0">Let her take care of it.</p>
+<p xml:id="subtitle362" begin="19924166666t" end="19932916666t" region="region0" style="style0">Okay.</p>
+<p xml:id="subtitle363" begin="19933750000t" end="19949583333t" region="region0" style="style0">But I can't today.</p>
+<p xml:id="subtitle364" begin="19950416666t" end="19962916666t" region="region0" style="style0">Where are you going?</p>
+<p xml:id="subtitle365" begin="19974583333t" end="19998333333t" region="region0" style="style0">-Aren't you going to the shop?<br/>-I have things to do.</p>
+<p xml:id="subtitle366" begin="19999166666t" end="20012916666t" region="region0" style="style0">What's wrong with you, Yuli?</p>
+<p xml:id="subtitle367" begin="20013750000t" end="20034166666t" region="region0" style="style0">You don't want to work.</p>
+<p xml:id="subtitle368" begin="20035000000t" end="20051250000t" region="region0" style="style0">You don't want to take care<br/>of the prayers.</p>
+<p xml:id="subtitle369" begin="20052083333t" end="20087083333t" region="region0" style="style0">You've really been acting up<br/>since my mother passed away.</p>
+<p xml:id="subtitle370" begin="20096250000t" end="20108333333t" region="region0" style="style0">Yuli.</p>
+<p xml:id="subtitle371" begin="20117916666t" end="20142916666t" region="region0" style="style0">-There she goes again!<br/>-Mom, it's okay.</p>
+<p xml:id="subtitle372" begin="20143750000t" end="20174166666t" region="region0" style="style0">It's fine, I'll handle everything.</p>
+<p xml:id="subtitle373" begin="20175000000t" end="20189166666t" region="region0" style="style0">I'm going to the mosque.</p>
+<p xml:id="subtitle374" begin="20209166666t" end="20225416666t" region="region0" style="style0">I'll see you later, Rudi.</p>
+<p xml:id="subtitle375" begin="20241250000t" end="20252500000t" region="region0" style="style0">Take care.</p>
+<p xml:id="subtitle376" begin="20253333333t" end="20263750000t" region="region0" style="style0">Here's your bag.</p>
+<p xml:id="subtitle377" begin="20275833333t" end="20287916666t" region="region0" style="style0">Last night,</p>
+<p xml:id="subtitle378" begin="20297916666t" end="20321666666t" region="region0" style="style0">I felt like<br/>something was not right, Abuyya.</p>
+<p xml:id="subtitle379" begin="20328333333t" end="20359166666t" region="region0" style="style0">I felt like something was trying<br/>to get into my house.</p>
+<p xml:id="subtitle380" begin="20363750000t" end="20386666666t" region="region0" style="style0">Then I also heard Grandma's voice.</p>
+<p xml:id="subtitle381" begin="20399166666t" end="20412083333t" region="region0" style="style0">But is that possible, Abuyya?</p>
+<p xml:id="subtitle382" begin="20412916666t" end="20446250000t" region="region0" style="style0">That the spirit of the recently deceased<br/>can come to those closest to them</p>
+<p xml:id="subtitle383" begin="20447083333t" end="20457083333t" region="region0" style="style0">before 40 days?</p>
+<p xml:id="subtitle384" begin="20483333333t" end="20537916666t" region="region0" style="style0">Islam is not familiar<br/>with the concept of spirits.</p>
+<p xml:id="subtitle385" begin="20549166666t" end="20595416666t" region="region0" style="style0">Once someone dies and enters their grave,</p>
+<p xml:id="subtitle386" begin="20596250000t" end="20625833333t" region="region0" style="style0">they will answer questions<br/>from the angels.</p>
+<p xml:id="subtitle387" begin="20635000000t" end="20683750000t" region="region0" style="style0">They'll be held accountable<br/>for all the deeds they did in this world.</p>
+<p xml:id="subtitle388" begin="20694583333t" end="20765416666t" region="region0" style="style0">So, if you see a figure</p>
+<p xml:id="subtitle389" begin="20766250000t" end="20812083333t" region="region0" style="style0">who resembles someone you know has died,</p>
+<p xml:id="subtitle390" begin="20812916666t" end="20835416666t" region="region0" style="style0">that's definitely the work of a jinn.</p>
+<p xml:id="subtitle391" begin="20836250000t" end="20867083333t" region="region0" style="style0"><span style="style1">Ya-Sin.</span></p>
+<p xml:id="subtitle392" begin="20867916666t" end="20898750000t" region="region0" style="style0">By the Quran, rich in wisdom!</p>
+<p xml:id="subtitle393" begin="20899583333t" end="20933333333t" region="region0" style="style0">You, O Prophet,<br/>are truly one of the messengers</p>
+<p xml:id="subtitle394" begin="20934166666t" end="20968750000t" region="region0" style="style0">upon the Straight Path.</p>
+<p xml:id="subtitle395" begin="20969583333t" end="21007083333t" region="region0" style="style0">This is a revelation<br/>from the Almighty, Most Merciful,</p>
+<p xml:id="subtitle396" begin="21007916666t" end="21033333333t" region="region0" style="style0">so that you may warn a people</p>
+<p xml:id="subtitle397" begin="21034166666t" end="21072500000t" region="region0" style="style0">whose forefathers were not warned,<br/>and so are heedless.</p>
+<p xml:id="subtitle398" begin="21073333333t" end="21123750000t" region="region0" style="style0">The decree of torment has already been<br/>justified against most of them,</p>
+<p xml:id="subtitle399" begin="21124583333t" end="21142916666t" region="region0" style="style0">for they will never believe.</p>
+<p xml:id="subtitle400" begin="21336250000t" end="21346666666t" region="region0" style="style0">Dad?</p>
+<p xml:id="subtitle401" begin="21355000000t" end="21365833333t" region="region0" style="style0">Mom?</p>
+<p xml:id="subtitle402" begin="21380833333t" end="21390000000t" region="region0" style="style0">Dean?</p>
+<p xml:id="subtitle403" begin="21613750000t" end="21626250000t" region="region0" style="style0">Mom…</p>
+<p xml:id="subtitle404" begin="21675416666t" end="21687083333t" region="region0" style="style0">Grandma,</p>
+<p xml:id="subtitle405" begin="21703333333t" end="21715833333t" region="region0" style="style0">I miss you.</p>
+<p xml:id="subtitle406" begin="21728333333t" end="21743333333t" region="region0" style="style0">You're still here, right?</p>
+<p xml:id="subtitle407" begin="21857500000t" end="21877500000t" region="region0" style="style0">Blood meets blood.</p>
+<p xml:id="subtitle408" begin="21878333333t" end="21895416666t" region="region0" style="style0">ARDEAN FAHREZA<br/>SON OF RUDIANTO NUGROHO</p>
+<p xml:id="subtitle409" begin="21896250000t" end="21919166666t" region="region0" style="style0">Skin meets skin.</p>
+<p xml:id="subtitle410" begin="21920000000t" end="21940416666t" region="region0" style="style0">Flesh meets flesh.</p>
+<p xml:id="subtitle411" begin="21941250000t" end="21964583333t" region="region0" style="style0">Breech blocked by breech.</p>
+<p xml:id="subtitle412" begin="21965416666t" end="21995416666t" region="region0" style="style0">Black sky, black earth.</p>
+<p xml:id="subtitle413" begin="22077500000t" end="22130000000t" region="region0" style="style0">I am controlled by my ancestors.</p>
+<p xml:id="subtitle414" begin="22130833333t" end="22187083333t" region="region0" style="style0">All shall be destroyed before me.</p>
+<p xml:id="subtitle415" begin="22244583333t" end="22262916666t" region="region0" style="style0">Destroyed.</p>
+<p xml:id="subtitle416" begin="22269166666t" end="22285833333t" region="region0" style="style0">Destroyed.</p>
+<p xml:id="subtitle417" begin="22301666666t" end="22317083333t" region="region0" style="style0">Destroyed.</p>
+<p xml:id="subtitle418" begin="22355416666t" end="22395000000t" region="region0" style="style0">I call upon the Queen of Black Magic<br/>in the high mountains.</p>
+<p xml:id="subtitle419" begin="22422500000t" end="22462500000t" region="region0" style="style0">I know the Queen always desires something.</p>
+<p xml:id="subtitle420" begin="22469583333t" end="22492916666t" region="region0" style="style0">I have brought her favorite offering.</p>
+<p xml:id="subtitle421" begin="22493750000t" end="22520416666t" region="region0" style="style0">Accept my command.</p>
+<p xml:id="subtitle422" begin="22521250000t" end="22555416666t" region="region0" style="style0">Destroy them all.</p>
+<p xml:id="subtitle423" begin="22640000000t" end="22670000000t" region="region0" style="style0">PAIN, DARK, COLD, LONELY, SCARED.</p>
+<p xml:id="subtitle424" begin="22670833333t" end="22687916666t" region="region0" style="style0">What else do you want to tell me?</p>
+<p xml:id="subtitle425" begin="22768333333t" end="22780833333t" region="region0" style="style0">I…</p>
+<p xml:id="subtitle426" begin="22815000000t" end="22829583333t" region="region0" style="style0">K…</p>
+<p xml:id="subtitle427" begin="22846666666t" end="22859583333t" region="region0" style="style0">U…</p>
+<p xml:id="subtitle428" begin="22901666666t" end="22913333333t" region="region0" style="style0">T…</p>
+<p xml:id="subtitle429" begin="22951250000t" end="22965000000t" region="region0" style="style0">O…</p>
+<p xml:id="subtitle430" begin="22990416666t" end="23000833333t" region="region0" style="style0">M…</p>
+<p xml:id="subtitle431" begin="23027500000t" end="23037500000t" region="region0" style="style0">A…</p>
+<p xml:id="subtitle432" begin="23038333333t" end="23070000000t" region="region0" style="style0"><span style="style1">Ikut Oma? </span>(Come with Grandma.)</p>
+<p xml:id="subtitle433" begin="23142916666t" end="23171250000t" region="region0" style="style0">-Thank you.<br/>-You're welcome.</p>
+<p xml:id="subtitle434" begin="23176666666t" end="23192916666t" region="region0" style="style0">Thank you, ma'am.</p>
+<p xml:id="subtitle435" begin="23330000000t" end="23338750000t" region="region0" style="style0">Tika!</p>
+<p xml:id="subtitle436" begin="23339583333t" end="23365416666t" region="region0" style="style0">Mom! Dad! Help!</p>
+<p xml:id="subtitle437" begin="23468750000t" end="23476250000t" region="region0" style="style0">Dean?</p>
+<p xml:id="subtitle438" begin="23575000000t" end="23589583333t" region="region0" style="style0">Dean?</p>
+<p xml:id="subtitle439" begin="23621250000t" end="23632500000t" region="region0" style="style0">Dean?</p>
+<p xml:id="subtitle440" begin="23710833333t" end="23728333333t" region="region0" style="style0">Tika! Mom!</p>
+<p xml:id="subtitle441" begin="23729166666t" end="23745000000t" region="region0" style="style0">Dad! Help!</p>
+<p xml:id="subtitle442" begin="23745833333t" end="23756666666t" region="region0" style="style0">Dean?</p>
+<p xml:id="subtitle443" begin="23986666666t" end="24015833333t" region="region0" style="style0">Mom! Dad!</p>
+<p xml:id="subtitle444" begin="24027916666t" end="24042083333t" region="region0" style="style0">What is it?</p>
+<p xml:id="subtitle445" begin="24050000000t" end="24058333333t" region="region0" style="style0">Dean?!</p>
+<p xml:id="subtitle446" begin="24059166666t" end="24089166666t" region="region0" style="style0">-Dean!<br/>-Dean?</p>
+<p xml:id="subtitle447" begin="24090000000t" end="24105416666t" region="region0" style="style0">Tika, what happened to your brother?</p>
+<p xml:id="subtitle448" begin="24106250000t" end="24125833333t" region="region0" style="style0">What happened?!</p>
+<p xml:id="subtitle449" begin="24126666666t" end="24152500000t" region="region0" style="style0">-Dean?<br/>-Dean!</p>
+<p xml:id="subtitle450" begin="24153333333t" end="24182916666t" region="region0" style="style0"><span style="style1">Astaghfirullah.</span></p>
+<p xml:id="subtitle451" begin="24212916666t" end="24238750000t" region="region0" style="style0">ARDEAN FAHREZA<br/>SON OF RUDIANTO NUGROHO</p>
+<p xml:id="subtitle452" begin="24239583333t" end="24258750000t" region="region0" style="style0">BORN 22 MAY 1988<br/>DIED 18 MARCH 2000</p>
+<p xml:id="subtitle453" begin="24281250000t" end="24295000000t" region="region0" style="style0">Thank you.</p>
+<p xml:id="subtitle454" begin="24605416666t" end="24637500000t" region="region0" style="style0">This isn't all<br/>because of that shaman, right, Yul?</p>
+<p xml:id="subtitle455" begin="24647916666t" end="24674166666t" region="region0" style="style0">Your nephew didn't die<br/>because of what we did, right?</p>
+<p xml:id="subtitle456" begin="24675000000t" end="24691666666t" region="region0" style="style0">He is not my nephew.</p>
+<p xml:id="subtitle457" begin="24692500000t" end="24731666666t" region="region0" style="style0">I wanted to help you because I know<br/>you are being bullied by them.</p>
+<p xml:id="subtitle458" begin="24744583333t" end="24759166666t" region="region0" style="style0">But not like this.</p>
+<p xml:id="subtitle459" begin="24764583333t" end="24781250000t" region="region0" style="style0">You're out of your mind, Yuli.</p>
+<p xml:id="subtitle460" begin="24788750000t" end="24809166666t" region="region0" style="style0">You were there from the start.</p>
+<p xml:id="subtitle461" begin="24823750000t" end="24836666666t" region="region0" style="style0">That means you are involved.</p>
+<p xml:id="subtitle462" begin="24860000000t" end="24888750000t" region="region0" style="style0">And what they are experiencing now<br/>is karma.</p>
+<p xml:id="subtitle463" begin="24906250000t" end="24917916666t" region="region0" style="style0">It's not because of me.</p>
+<p xml:id="subtitle464" begin="24960416666t" end="24983333333t" region="region0" style="style0">It's all my fault, Abuyya.</p>
+<p xml:id="subtitle465" begin="25005833333t" end="25032500000t" region="region0" style="style0">I should have talked him out of it.</p>
+<p xml:id="subtitle466" begin="25033333333t" end="25060000000t" region="region0" style="style0">I should have just taken his board.</p>
+<p xml:id="subtitle467" begin="25060833333t" end="25085416666t" region="region0" style="style0">I should have checked his room<br/>straight away before the prayers.</p>
+<p xml:id="subtitle468" begin="25086250000t" end="25099583333t" region="region0" style="style0">Ask for forgiveness, Tika.</p>
+<p xml:id="subtitle469" begin="25115833333t" end="25162916666t" region="region0" style="style0">I seek forgiveness from<br/>Allah the Almighty.</p>
+<p xml:id="subtitle470" begin="25163750000t" end="25195833333t" region="region0" style="style0">I seek forgiveness from Allah.</p>
+<p xml:id="subtitle471" begin="25220416666t" end="25256250000t" region="region0" style="style0">I feel like there's something evil<br/>directed towards my family.</p>
+<p xml:id="subtitle472" begin="25262916666t" end="25282916666t" region="region0" style="style0">But I don't understand what it is.</p>
+<p xml:id="subtitle473" begin="25283750000t" end="25307916666t" region="region0" style="style0">What should I do, Abuyya?</p>
+<p xml:id="subtitle474" begin="25313333333t" end="25348333333t" region="region0" style="style0">The Prophet Muhammad was once bewitched</p>
+<p xml:id="subtitle475" begin="25354583333t" end="25405000000t" region="region0" style="style0">by a woman using a knot that was tied up.</p>
+<p xml:id="subtitle476" begin="25419166666t" end="25451250000t" region="region0" style="style0">Then the knot was placed under a stone</p>
+<p xml:id="subtitle477" begin="25452083333t" end="25471666666t" region="region0" style="style0">at the bottom of the Dzarwan well.</p>
+<p xml:id="subtitle478" begin="25472500000t" end="25517083333t" region="region0" style="style0">Then the Prophet ordered his companions<br/>to come and see the well the next day.</p>
+<p xml:id="subtitle479" begin="25517916666t" end="25544583333t" region="region0" style="style0">And coincidentally,</p>
+<p xml:id="subtitle480" begin="25560416666t" end="25600416666t" region="region0" style="style0">Al-Mu'awwidzatain's revelation came down.</p>
+<p xml:id="subtitle481" begin="25601250000t" end="25639583333t" region="region0" style="style0">Namely, the surahs Al-Falaq and An-Naas.</p>
+<p xml:id="subtitle482" begin="25645000000t" end="25667916666t" region="region0" style="style0">At that time,<br/>they were recited by Rasulullah.</p>
+<p xml:id="subtitle483" begin="25668750000t" end="25708333333t" region="region0" style="style0">Then, the rope that tied the binding knots</p>
+<p xml:id="subtitle484" begin="25709166666t" end="25735833333t" region="region0" style="style0">broke one by one, all eleven of them.</p>
+<p xml:id="subtitle485" begin="25762500000t" end="25785000000t" region="region0" style="style0">Tonight, you should pray<br/>the Tahajjud prayer.</p>
+<p xml:id="subtitle486" begin="25804166666t" end="25830000000t" region="region0" style="style0"><span style="style1">Perform your ablutions and pray.</span></p>
+<p xml:id="subtitle487" begin="25840000000t" end="25857083333t" region="region0" style="style0">Ask for forgiveness from Allah.</p>
+<p xml:id="subtitle488" begin="25857916666t" end="25912083333t" region="region0" style="style0">I intend to perform the Tahajjud prayer,<br/>two rak'ahs, for the sake of Allah.</p>
+<p xml:id="subtitle489" begin="25928750000t" end="25962083333t" region="region0" style="style0">Allah is the Greatest.</p>
+<p xml:id="subtitle490" begin="25962916666t" end="25992500000t" region="region0" style="style0">Then after that, send prayers.</p>
+<p xml:id="subtitle491" begin="25993333333t" end="26015833333t" region="region0" style="style0">Ask Allah for protection.</p>
+<p xml:id="subtitle492" begin="26036666666t" end="26051666666t" region="region0" style="style0">O, Allah.</p>
+<p xml:id="subtitle493" begin="26086250000t" end="26113333333t" region="region0" style="style0">Please protect my parents…</p>
+<p xml:id="subtitle494" begin="26137916666t" end="26169583333t" region="region0" style="style0">Rudianto and Larasati</p>
+<p xml:id="subtitle495" begin="26170416666t" end="26200416666t" region="region0" style="style0">from all danger and deceit.</p>
+<p xml:id="subtitle496" begin="26227500000t" end="26260416666t" region="region0" style="style0">Amen.</p>
+<p xml:id="subtitle497" begin="26425833333t" end="26435000000t" region="region0" style="style0">Hey.</p>
+<p xml:id="subtitle498" begin="26440416666t" end="26450000000t" region="region0" style="style0">Wait.</p>
+<p xml:id="subtitle499" begin="26460000000t" end="26469583333t" region="region0" style="style0">Hey.</p>
+<p xml:id="subtitle500" begin="26478333333t" end="26488750000t" region="region0" style="style0">Laras.</p>
+<p xml:id="subtitle501" begin="26511250000t" end="26527500000t" region="region0" style="style0">Where are you going?</p>
+<p xml:id="subtitle502" begin="26528333333t" end="26540416666t" region="region0" style="style0">To the shop.</p>
+<p xml:id="subtitle503" begin="26546250000t" end="26556666666t" region="region0" style="style0">To the shop?</p>
+<p xml:id="subtitle504" begin="26577083333t" end="26594166666t" region="region0" style="style0">Don't you have a heart?</p>
+<p xml:id="subtitle505" begin="26607083333t" end="26622083333t" region="region0" style="style0">Our son just died.</p>
+<p xml:id="subtitle506" begin="26632083333t" end="26657083333t" region="region0" style="style0">-Now you're going to work?<br/>-Then what should I do?</p>
+<p xml:id="subtitle507" begin="26704583333t" end="26727083333t" region="region0" style="style0">I've just lost my son.</p>
+<p xml:id="subtitle508" begin="26727916666t" end="26740833333t" region="region0" style="style0">I lost my mother too.</p>
+<p xml:id="subtitle509" begin="26746250000t" end="26763333333t" region="region0" style="style0">Tell me, what am I supposed to do?</p>
+<p xml:id="subtitle510" begin="26787083333t" end="26807916666t" region="region0" style="style0">Be a mother, Laras.</p>
+<p xml:id="subtitle511" begin="26820833333t" end="26836666666t" region="region0" style="style0">It hasn't even been a day.</p>
+<p xml:id="subtitle512" begin="26837500000t" end="26851250000t" region="region0" style="style0">There's no one to look after the shop.</p>
+<p xml:id="subtitle513" begin="26852083333t" end="26875000000t" region="region0" style="style0">-Just ask Yono.<br/>-No, I can't.</p>
+<p xml:id="subtitle514" begin="26935416666t" end="26955416666t" region="region0" style="style0">I've told you many times, right?</p>
+<p xml:id="subtitle515" begin="26956250000t" end="26980000000t" region="region0" style="style0">If you're putting something away,<br/>be careful, Rudi.</p>
+<p xml:id="subtitle516" begin="26980833333t" end="26998333333t" region="region0" style="style0">Look what happened.</p>
+<p xml:id="subtitle517" begin="26999166666t" end="27020000000t" region="region0" style="style0">Now it's broken.</p>
+<p xml:id="subtitle518" begin="27042916666t" end="27060000000t" region="region0" style="style0">What's wrong? Let me see.</p>
+<p xml:id="subtitle519" begin="27060833333t" end="27069583333t" region="region0" style="style0">No need.</p>
+<p xml:id="subtitle520" begin="27070416666t" end="27086666666t" region="region0" style="style0">Fine, if you don't want my help.</p>
+<p xml:id="subtitle521" begin="27216250000t" end="27239166666t" region="region0" style="style0">Just leave it. Leave it.</p>
+<p xml:id="subtitle522" begin="27240000000t" end="27263750000t" region="region0" style="style0">Let me put something on it<br/>so you can continue working.</p>
+<p xml:id="subtitle523" begin="27415000000t" end="27426250000t" region="region0" style="style0">Thank you, Yul.</p>
+<p xml:id="subtitle524" begin="27456250000t" end="27470416666t" region="region0" style="style0">Just leave it.</p>
+<p xml:id="subtitle525" begin="27479166666t" end="27492916666t" region="region0" style="style0">I'll sort it out later.</p>
+<p xml:id="subtitle526" begin="27687916666t" end="27705416666t" region="region0" style="style0">What now?</p>
+<p xml:id="subtitle527" begin="27706250000t" end="27745000000t" region="region0" style="style0">-I dropped these.<br/>-What's wrong with you, Yuli?</p>
+<p xml:id="subtitle528" begin="27745833333t" end="27773333333t" region="region0" style="style0">You never get anything done when you work.</p>
+<p xml:id="subtitle529" begin="27774166666t" end="27803333333t" region="region0" style="style0">All you do is make my life difficult.</p>
+<p xml:id="subtitle530" begin="27804166666t" end="27815416666t" region="region0" style="style0">-Because of you…<br/>-Enough, Ras!</p>
+<p xml:id="subtitle531" begin="27834583333t" end="27856250000t" region="region0" style="style0">Why are you defending her?</p>
+<p xml:id="subtitle532" begin="27870416666t" end="27895416666t" region="region0" style="style0">This should've been your job.</p>
+<p xml:id="subtitle533" begin="27902916666t" end="27918333333t" region="region0" style="style0">That's enough.</p>
+<p xml:id="subtitle534" begin="27919166666t" end="27942500000t" region="region0" style="style0">How can you say that to me?</p>
+<p xml:id="subtitle535" begin="27943333333t" end="27960416666t" region="region0" style="style0">Is she using<br/>some kind of black magic on you?</p>
+<p xml:id="subtitle536" begin="27961250000t" end="27977916666t" region="region0" style="style0">I'm just being honest, Ras.</p>
+<p xml:id="subtitle537" begin="27978750000t" end="27995833333t" region="region0" style="style0">Yuli has never fought back.</p>
+<p xml:id="subtitle538" begin="27996666666t" end="28012500000t" region="region0" style="style0">Your family treats her like a maid</p>
+<p xml:id="subtitle539" begin="28013333333t" end="28030833333t" region="region0" style="style0">even though she is family, right?</p>
+<p xml:id="subtitle540" begin="28031666666t" end="28043333333t" region="region0" style="style0">She is not family.</p>
+<p xml:id="subtitle541" begin="28044166666t" end="28061250000t" region="region0" style="style0">Then stop ordering her around.</p>
+<p xml:id="subtitle542" begin="28062083333t" end="28087083333t" region="region0" style="style0">All you do is order people around.</p>
+<p xml:id="subtitle543" begin="28087916666t" end="28110416666t" region="region0" style="style0">That's why you married me, right?</p>
+<p xml:id="subtitle544" begin="28131666666t" end="28142500000t" region="region0" style="style0">Because I am poor.</p>
+<p xml:id="subtitle545" begin="28158750000t" end="28169583333t" region="region0" style="style0">Stupid.</p>
+<p xml:id="subtitle546" begin="28170416666t" end="28189583333t" region="region0" style="style0">You can push me around.</p>
+<p xml:id="subtitle547" begin="28195416666t" end="28213333333t" region="region0" style="style0">&quot;Rudi, lift that.&quot;</p>
+<p xml:id="subtitle548" begin="28214166666t" end="28237916666t" region="region0" style="style0">&quot;Why did you put it there?&quot;</p>
+<p xml:id="subtitle549" begin="28238750000t" end="28259166666t" region="region0" style="style0">&quot;Why aren't you getting smarter?&quot;</p>
+<p xml:id="subtitle550" begin="28260000000t" end="28274166666t" region="region0" style="style0">I've never said that.</p>
+<p xml:id="subtitle551" begin="28295416666t" end="28311666666t" region="region0" style="style0">Rudianto, you are so mean!</p>
+<p xml:id="subtitle552" begin="28312500000t" end="28327916666t" region="region0" style="style0">My son just died!</p>
+<p xml:id="subtitle553" begin="28366666666t" end="28380416666t" region="region0" style="style0">Our son, Ras.</p>
+<p xml:id="subtitle554" begin="28390833333t" end="28412500000t" region="region0" style="style0">You're not the only one grieving.</p>
+<p xml:id="subtitle555" begin="28824583333t" end="28836250000t" region="region0" style="style0">I…</p>
+<p xml:id="subtitle556" begin="28853333333t" end="28866666666t" region="region0" style="style0">Hang in there, Rudi.</p>
+<p xml:id="subtitle557" begin="28949583333t" end="28964583333t" region="region0" style="style0">I understand.</p>
+<p xml:id="subtitle558" begin="28965416666t" end="28984166666t" region="region0" style="style0">She never does.</p>
+<p xml:id="subtitle559" begin="29459166666t" end="29491250000t" region="region0" style="style0">LARAS, MY WIFE</p>
+<p xml:id="subtitle560" begin="29807500000t" end="29823750000t" region="region0" style="style0">Would you like to close up shop, ma'am?</p>
+<p xml:id="subtitle561" begin="29824583333t" end="29837500000t" region="region0" style="style0">Take me home.</p>
+<p xml:id="subtitle562" begin="29971666666t" end="29981250000t" region="region0" style="style0">Rudi.</p>
+<p xml:id="subtitle563" begin="29995416666t" end="30021666666t" region="region0" style="style0">If you could choose…</p>
+<p xml:id="subtitle564" begin="30043333333t" end="30058333333t" region="region0" style="style0">would you stay with me?</p>
+<p xml:id="subtitle565" begin="30077500000t" end="30100833333t" region="region0" style="style0">Just leave Laras.</p>
+<p xml:id="subtitle566" begin="30130416666t" end="30153750000t" region="region0" style="style0">If you choose me,</p>
+<p xml:id="subtitle567" begin="30167083333t" end="30207916666t" region="region0" style="style0">we will live happily together.</p>
+<p xml:id="subtitle568" begin="30208750000t" end="30222083333t" region="region0" style="style0">Forever.</p>
+<p xml:id="subtitle569" begin="30292916666t" end="30305000000t" region="region0" style="style0">I can't, Yuli.</p>
+<p xml:id="subtitle570" begin="30334166666t" end="30349583333t" region="region0" style="style0">I have a family.</p>
+<p xml:id="subtitle571" begin="30475833333t" end="30525416666t" region="region0" style="style0">Do you think Laras will take you back<br/>if she knows about this?</p>
+<p xml:id="subtitle572" begin="30544166666t" end="30555833333t" region="region0" style="style0">You're the one who seduced me.</p>
+<p xml:id="subtitle573" begin="30562083333t" end="30574166666t" region="region0" style="style0">It turns out Laras was right.</p>
+<p xml:id="subtitle574" begin="30578750000t" end="30593333333t" region="region0" style="style0">You are just like your mother.</p>
+<p xml:id="subtitle575" begin="30598333333t" end="30617500000t" region="region0" style="style0">You're such an asshole.</p>
+<p xml:id="subtitle576" begin="30627500000t" end="30658750000t" region="region0" style="style0">Don't ever bring up my mother.<br/>My mother is not like that.</p>
+<p xml:id="subtitle577" begin="30684583333t" end="30699166666t" region="region0" style="style0">You're out of your mind, Yuli.</p>
+<p xml:id="subtitle578" begin="30825416666t" end="30834583333t" region="region0" style="style0">Tika.</p>
+<p xml:id="subtitle579" begin="30839166666t" end="30852500000t" region="region0" style="style0">Please don't tell your mother.</p>
+<p xml:id="subtitle580" begin="30865833333t" end="30883333333t" region="region0" style="style0">I'll explain it to her later.</p>
+<p xml:id="subtitle581" begin="31514166666t" end="31560833333t" region="region0" style="style0">There is no god but Allah,<br/>alone, without partner.</p>
+<p xml:id="subtitle582" begin="31561666666t" end="31590833333t" region="region0" style="style0">His is the dominion and the praise.<br/>He gives life and causes death.</p>
+<p xml:id="subtitle583" begin="31591666666t" end="31627500000t" region="region0" style="style0">He has power over all things.</p>
+<p xml:id="subtitle584" begin="31628333333t" end="31647083333t" region="region0" style="style0">There is no…</p>
+<p xml:id="subtitle585" begin="31760416666t" end="31784166666t" region="region0" style="style0">There is no god but Allah,</p>
+<p xml:id="subtitle586" begin="31812083333t" end="31836250000t" region="region0" style="style0">alone, without partner.</p>
+<p xml:id="subtitle587" begin="31849166666t" end="31879166666t" region="region0" style="style0">His is the dominion and the praise.</p>
+<p xml:id="subtitle588" begin="31885833333t" end="31908333333t" region="region0" style="style0">He gives life and causes death.</p>
+<p xml:id="subtitle589" begin="31909166666t" end="31928750000t" region="region0" style="style0">He has power over all things.</p>
+<p xml:id="subtitle590" begin="32123333333t" end="32159166666t" region="region0" style="style0">RUDIANTO NUGROHO<br/>SON OF WIRAWAN</p>
+<p xml:id="subtitle591" begin="32160000000t" end="32181666666t" region="region0" style="style0">Blood meets blood.</p>
+<p xml:id="subtitle592" begin="32182500000t" end="32207083333t" region="region0" style="style0">Skin meets skin.</p>
+<p xml:id="subtitle593" begin="32207916666t" end="32222083333t" region="region0" style="style0">Flesh meets flesh.</p>
+<p xml:id="subtitle594" begin="32222916666t" end="32242916666t" region="region0" style="style0">There is no god but Allah.</p>
+<p xml:id="subtitle595" begin="32243750000t" end="32266250000t" region="region0" style="style0">There is no god but Allah.</p>
+<p xml:id="subtitle596" begin="32267083333t" end="32283750000t" region="region0" style="style0">There is no god but Allah.</p>
+<p xml:id="subtitle597" begin="32284583333t" end="32307083333t" region="region0" style="style0">Breech blocked by breech.</p>
+<p xml:id="subtitle598" begin="32307916666t" end="32335833333t" region="region0" style="style0">Black sky, black earth.</p>
+<p xml:id="subtitle599" begin="32336666666t" end="32369166666t" region="region0" style="style0">I am controlled by my ancestors.</p>
+<p xml:id="subtitle600" begin="32375416666t" end="32412916666t" region="region0" style="style0">All shall be destroyed before me.</p>
+<p xml:id="subtitle601" begin="32474166666t" end="32487500000t" region="region0" style="style0">Destroyed.</p>
+<p xml:id="subtitle602" begin="32488333333t" end="32498333333t" region="region0" style="style0">Destroyed.</p>
+<p xml:id="subtitle603" begin="32499166666t" end="32507916666t" region="region0" style="style0">Destroyed.</p>
+<p xml:id="subtitle604" begin="32508750000t" end="32529583333t" region="region0" style="style0">There is no god but Allah.</p>
+<p xml:id="subtitle605" begin="32530416666t" end="32552916666t" region="region0" style="style0">There is no god but Allah.</p>
+<p xml:id="subtitle606" begin="32553750000t" end="32571666666t" region="region0" style="style0">There is no god but Allah.</p>
+<p xml:id="subtitle607" begin="32577500000t" end="32599583333t" region="region0" style="style0">There is no god but Allah.</p>
+<p xml:id="subtitle608" begin="32600416666t" end="32620833333t" region="region0" style="style0">There is no god but Allah.</p>
+<p xml:id="subtitle609" begin="32621666666t" end="32641666666t" region="region0" style="style0">There is no god but Allah.</p>
+<p xml:id="subtitle610" begin="32642500000t" end="32685000000t" region="region0" style="style0">I call upon the Queen of Black Magic<br/>in the high mountains.</p>
+<p xml:id="subtitle611" begin="32722916666t" end="32760833333t" region="region0" style="style0">I know the Queen always desires something.</p>
+<p xml:id="subtitle612" begin="32800416666t" end="32838750000t" region="region0" style="style0">I have brought her favorite offering.</p>
+<p xml:id="subtitle613" begin="32839583333t" end="32859583333t" region="region0" style="style0">I seek forgiveness from<br/>Allah the Almighty.</p>
+<p xml:id="subtitle614" begin="32868750000t" end="32900416666t" region="region0" style="style0">There is no god but Allah,<br/>alone, without partner.</p>
+<p xml:id="subtitle615" begin="32901250000t" end="32939583333t" region="region0" style="style0">Accept my command. Destroy…</p>
+<p xml:id="subtitle616" begin="32940416666t" end="32963750000t" region="region0" style="style0">His is the dominion and the praise.<br/>He gives life and causes death.</p>
+<p xml:id="subtitle617" begin="32964583333t" end="32978750000t" region="region0" style="style0">He has power over all things.</p>
+<p xml:id="subtitle618" begin="32979583333t" end="32995000000t" region="region0" style="style0">…them all.</p>
+<p xml:id="subtitle619" begin="34728750000t" end="34736666666t" region="region0" style="style0">Rudi?</p>
+<p xml:id="subtitle620" begin="34765416666t" end="34784583333t" region="region0" style="style0">Tika! Help!</p>
+<p xml:id="subtitle621" begin="34785416666t" end="34807083333t" region="region0" style="style0">Please, Tika!</p>
+<p xml:id="subtitle622" begin="34807916666t" end="34822916666t" region="region0" style="style0">Help!</p>
+<p xml:id="subtitle623" begin="34823750000t" end="34840416666t" region="region0" style="style0">Help!</p>
+<p xml:id="subtitle624" begin="34841250000t" end="34862916666t" region="region0" style="style0">-Rudi?<br/>-Help!</p>
+<p xml:id="subtitle625" begin="34866250000t" end="34894583333t" region="region0" style="style0">Please, Tika!</p>
+<p xml:id="subtitle626" begin="34895416666t" end="34915000000t" region="region0" style="style0">Laras!</p>
+<p xml:id="subtitle627" begin="35125833333t" end="35151666666t" region="region0" style="style0">This prayer will have four takbirs,</p>
+<p xml:id="subtitle628" begin="35152500000t" end="35191250000t" region="region0" style="style0">and in each takbir,<br/>there is no bowing or prostration.</p>
+<p xml:id="subtitle629" begin="35192083333t" end="35219583333t" region="region0" style="style0">Ending with a salaam, all right?</p>
+<p xml:id="subtitle630" begin="35220416666t" end="35232916666t" region="region0" style="style0">Let's begin.</p>
+<p xml:id="subtitle631" begin="35255833333t" end="35325416666t" region="region0" style="style0">I intend to perform the funeral prayer<br/>for this deceased man, with four takbirs…</p>
+<p xml:id="subtitle632" begin="35326250000t" end="35366250000t" region="region0" style="style0">Allah is the Greatest.</p>
+<p xml:id="subtitle633" begin="35367083333t" end="35395833333t" region="region0" style="style0">Allah is the Greatest.</p>
+<p xml:id="subtitle634" begin="35484583333t" end="35511666666t" region="region0" style="style0">Allah is the Greatest.</p>
+<p xml:id="subtitle635" begin="35512500000t" end="35539166666t" region="region0" style="style0">Allah is the Greatest.</p>
+<p xml:id="subtitle636" begin="35573750000t" end="35596250000t" region="region0" style="style0">Allah is the Greatest.</p>
+<p xml:id="subtitle637" begin="35655000000t" end="35676250000t" region="region0" style="style0">Allah is the Greatest.</p>
+<p xml:id="subtitle638" begin="35706666666t" end="35759583333t" region="region0" style="style0">O Allah, forgive him, have mercy on him,<br/>grant him peace, and pardon him.</p>
+<p xml:id="subtitle639" begin="35789583333t" end="35817916666t" region="region0" style="style0">Allah is the Greatest.</p>
+<p xml:id="subtitle640" begin="35818750000t" end="35856666666t" region="region0" style="style0">Allah is the Greatest.</p>
+<p xml:id="subtitle641" begin="35935000000t" end="35972916666t" region="region0" style="style0">Peace be upon you, and the mercy of Allah.</p>
+<p xml:id="subtitle642" begin="35973750000t" end="36014166666t" region="region0" style="style0">Peace be upon you, and the mercy of Allah.</p>
+<p xml:id="subtitle643" begin="36122916666t" end="36146666666t" region="region0" style="style0">Peace be upon you, and the mercy of Allah.</p>
+<p xml:id="subtitle644" begin="36147500000t" end="36166666666t" region="region0" style="style0">Peace be upon you…</p>
+<p xml:id="subtitle645" begin="36368750000t" end="36384166666t" region="region0" style="style0">Oh God.</p>
+<p xml:id="subtitle646" begin="36385000000t" end="36398333333t" region="region0" style="style0">Tika?</p>
+<p xml:id="subtitle647" begin="36417083333t" end="36437916666t" region="region0" style="style0">Please get her a drink.</p>
+<p xml:id="subtitle648" begin="36438750000t" end="36457083333t" region="region0" style="style0">Come on, get some water.</p>
+<p xml:id="subtitle649" begin="36457916666t" end="36476250000t" region="region0" style="style0">Oh my God!</p>
+<p xml:id="subtitle650" begin="36477083333t" end="36507916666t" region="region0" style="style0">Oh God. Tika.</p>
+<p xml:id="subtitle651" begin="36508750000t" end="36520000000t" region="region0" style="style0">Ask for forgiveness, Tika.</p>
+<p xml:id="subtitle652" begin="36520833333t" end="36547500000t" region="region0" style="style0">I seek forgiveness from<br/>Allah the Almighty.</p>
+<p xml:id="subtitle653" begin="36562083333t" end="36575000000t" region="region0" style="style0">Allah.</p>
+<p xml:id="subtitle654" begin="36575833333t" end="36595000000t" region="region0" style="style0">Tika. Drink.</p>
+<p xml:id="subtitle655" begin="36815833333t" end="36826666666t" region="region0" style="style0">Tika…</p>
+<p xml:id="subtitle656" begin="36827500000t" end="36839583333t" region="region0" style="style0">Mom.</p>
+<p xml:id="subtitle657" begin="36849583333t" end="36868750000t" region="region0" style="style0">This can't be a coincidence, Mom.</p>
+<p xml:id="subtitle658" begin="36869583333t" end="36900416666t" region="region0" style="style0">Dad, Dean, Grandma.</p>
+<p xml:id="subtitle659" begin="36901250000t" end="36925000000t" region="region0" style="style0">-Abuyya also told me…<br/>-That's enough.</p>
+<p xml:id="subtitle660" begin="36939166666t" end="36955416666t" region="region0" style="style0">Enough.</p>
+<p xml:id="subtitle661" begin="36956250000t" end="36983750000t" region="region0" style="style0">Don't talk about things<br/>that don't make sense.</p>
+<p xml:id="subtitle662" begin="37016666666t" end="37027500000t" region="region0" style="style0">That's enough.</p>
+<p xml:id="subtitle663" begin="37028333333t" end="37057500000t" region="region0" style="style0">But someone is harming us, Mom.</p>
+<p xml:id="subtitle664" begin="37063333333t" end="37084166666t" region="region0" style="style0">We have to do something.</p>
+<p xml:id="subtitle665" begin="37085000000t" end="37100416666t" region="region0" style="style0">Please listen to me.</p>
+<p xml:id="subtitle666" begin="37107916666t" end="37140416666t" region="region0" style="style0">Just this once, will you believe me, Mom?</p>
+<p xml:id="subtitle667" begin="37151250000t" end="37166250000t" region="region0" style="style0">I…</p>
+<p xml:id="subtitle668" begin="37177500000t" end="37210416666t" region="region0" style="style0">I don't want to lose anyone else, Mom.</p>
+<p xml:id="subtitle669" begin="37252500000t" end="37279583333t" region="region0" style="style0">You're all I have left.</p>
+<p xml:id="subtitle670" begin="37280416666t" end="37310833333t" region="region0" style="style0">I don't have anyone else.</p>
+<p xml:id="subtitle671" begin="37325833333t" end="37349583333t" region="region0" style="style0">I'm scared.</p>
+<p xml:id="subtitle672" begin="37424583333t" end="37437083333t" region="region0" style="style0"><span style="style1">It is true that</span></p>
+<p xml:id="subtitle673" begin="37451666666t" end="37475833333t" region="region0" style="style0">if we claim to have faith,</p>
+<p xml:id="subtitle674" begin="37476666666t" end="37499583333t" region="region0" style="style0">surely Allah will test it.</p>
+<p xml:id="subtitle675" begin="37505000000t" end="37535833333t" region="region0" style="style0">With a feeling of fear,<br/>a feeling of worry,</p>
+<p xml:id="subtitle676" begin="37536666666t" end="37568333333t" region="region0" style="style0">We will certainly test you<br/>with a touch of fear and famine</p>
+<p xml:id="subtitle677" begin="37569166666t" end="37606250000t" region="region0" style="style0">and loss of property, life, and crops.</p>
+<p xml:id="subtitle678" begin="37607083333t" end="37635000000t" region="region0" style="style0">Allah will even test us<br/>with a lack of wealth.</p>
+<p xml:id="subtitle679" begin="37635833333t" end="37670416666t" region="region0" style="style0">Allah tests us<br/>by taking the people we love.</p>
+<p xml:id="subtitle680" begin="37671250000t" end="37700416666t" region="region0" style="style0">Parents, younger siblings, older siblings.</p>
+<p xml:id="subtitle681" begin="37712083333t" end="37733333333t" region="region0" style="style0">Be patient, all right?</p>
+<p xml:id="subtitle682" begin="37740833333t" end="37750833333t" region="region0" style="style0">Remember,</p>
+<p xml:id="subtitle683" begin="37758750000t" end="37791666666t" region="region0" style="style0">Allah will not test His servants</p>
+<p xml:id="subtitle684" begin="37799166666t" end="37822083333t" region="region0" style="style0">beyond the limits of their ability.</p>
+<p xml:id="subtitle685" begin="37840416666t" end="37852500000t" region="region0" style="style0">Amen.</p>
+<p xml:id="subtitle686" begin="38126250000t" end="38136666666t" region="region0" style="style0">Yuli?</p>
+<p xml:id="subtitle687" begin="38594166666t" end="38615000000t" region="region0" style="style0">Why is this here?</p>
+<p xml:id="subtitle688" begin="38692500000t" end="38706250000t" region="region0" style="style0">You can figure it out yourself.</p>
+<p xml:id="subtitle689" begin="38730000000t" end="38764583333t" region="region0" style="style0">Rudi never loved you.</p>
+<p xml:id="subtitle690" begin="38765416666t" end="38782083333t" region="region0" style="style0">He was just scared of you.</p>
+<p xml:id="subtitle691" begin="38818333333t" end="38832500000t" region="region0" style="style0">How dare you?</p>
+<p xml:id="subtitle692" begin="38833333333t" end="38867500000t" region="region0" style="style0">It was you, right?<br/>You're the one who seduced him!</p>
+<p xml:id="subtitle693" begin="38875000000t" end="38913750000t" region="region0" style="style0">And you're the one<br/>who killed my whole family.</p>
+<p xml:id="subtitle694" begin="38918750000t" end="38932500000t" region="region0" style="style0">Damn you.</p>
+<p xml:id="subtitle695" begin="38938333333t" end="38955416666t" region="region0" style="style0">You bastard child.</p>
+<p xml:id="subtitle696" begin="38956250000t" end="38977083333t" region="region0" style="style0">You're a slut, just like your mother!</p>
+<p xml:id="subtitle697" begin="39009166666t" end="39030416666t" region="region0" style="style0">You're all tough now, aren't you?</p>
+<p xml:id="subtitle698" begin="39036666666t" end="39059166666t" region="region0" style="style0">You dare to go against me?</p>
+<p xml:id="subtitle699" begin="39060000000t" end="39079166666t" region="region0" style="style0">Yes, I'm going against you.</p>
+<p xml:id="subtitle700" begin="39080000000t" end="39104166666t" region="region0" style="style0">Why should I be afraid?<br/>Who do you think you are?</p>
+<p xml:id="subtitle701" begin="39105000000t" end="39122083333t" region="region0" style="style0">You are the bastard child, not me.</p>
+<p xml:id="subtitle702" begin="39142500000t" end="39152500000t" region="region0" style="style0">What?</p>
+<p xml:id="subtitle703" begin="39178333333t" end="39197916666t" region="region0" style="style0">-Trash.<br/>-You're trash.</p>
+<p xml:id="subtitle704" begin="39198750000t" end="39215416666t" region="region0" style="style0">-Bastard.<br/>-You're the bastard!</p>
+<p xml:id="subtitle705" begin="39216250000t" end="39242500000t" region="region0" style="style0">You have taken all my happiness, Yuli.</p>
+<p xml:id="subtitle706" begin="39243333333t" end="39265416666t" region="region0" style="style0">-You ruined my life.<br/>-That should have been my life!</p>
+<p xml:id="subtitle707" begin="39266250000t" end="39280833333t" region="region0" style="style0">You should be the one dead!</p>
+<p xml:id="subtitle708" begin="39281666666t" end="39299166666t" region="region0" style="style0">-Get out of here!<br/>-You go!</p>
+<p xml:id="subtitle709" begin="39300000000t" end="39317916666t" region="region0" style="style0">-Get out of here.<br/>-This is still my house!</p>
+<p xml:id="subtitle710" begin="39318750000t" end="39334583333t" region="region0" style="style0">-Get out of here!<br/>-This is my house!</p>
+<p xml:id="subtitle711" begin="39335416666t" end="39356250000t" region="region0" style="style0">You're just like your mother!</p>
+<p xml:id="subtitle712" begin="39369583333t" end="39384583333t" region="region0" style="style0">Laras, open the door.</p>
+<p xml:id="subtitle713" begin="39385416666t" end="39402916666t" region="region0" style="style0">Laras, open up!</p>
+<p xml:id="subtitle714" begin="39412083333t" end="39429166666t" region="region0" style="style0">You are all evil!</p>
+<p xml:id="subtitle715" begin="39456250000t" end="39491666666t" region="region0" style="style0">You've been mean to me from the start.</p>
+<p xml:id="subtitle716" begin="39492500000t" end="39523333333t" region="region0" style="style0">How long do you want to live like this?</p>
+<p xml:id="subtitle717" begin="39565416666t" end="39578750000t" region="region0" style="style0">Laras, listen to me.</p>
+<p xml:id="subtitle718" begin="39584166666t" end="39606666666t" region="region0" style="style0">Don't you realize?</p>
+<p xml:id="subtitle719" begin="39607500000t" end="39641666666t" region="region0" style="style0">You're the one who caused<br/>all your family to die!</p>
+<p xml:id="subtitle720" begin="39726250000t" end="39745000000t" region="region0" style="style0">Our lives are the same now, Ras.</p>
+<p xml:id="subtitle721" begin="39764166666t" end="39780833333t" region="region0" style="style0">The same.</p>
+<p xml:id="subtitle722" begin="39796666666t" end="39817916666t" region="region0" style="style0">We're both ruined!</p>
+<p xml:id="subtitle723" begin="40191250000t" end="40204166666t" region="region0" style="style0">Yono.</p>
+<p xml:id="subtitle724" begin="40214166666t" end="40232916666t" region="region0" style="style0">What did you say to Tika?</p>
+<p xml:id="subtitle725" begin="40233750000t" end="40250416666t" region="region0" style="style0">I didn't say anything.</p>
+<p xml:id="subtitle726" begin="40257916666t" end="40277500000t" region="region0" style="style0">You didn't say anything?</p>
+<p xml:id="subtitle727" begin="40287916666t" end="40297916666t" region="region0" style="style0">What did you say?</p>
+<p xml:id="subtitle728" begin="40320416666t" end="40342083333t" region="region0" style="style0">Leave me out of this, Yuli.</p>
+<p xml:id="subtitle729" begin="40385000000t" end="40401250000t" region="region0" style="style0">What did Tika give you?</p>
+<p xml:id="subtitle730" begin="40402083333t" end="40420416666t" region="region0" style="style0">Did you tell her about me?</p>
+<p xml:id="subtitle731" begin="40421250000t" end="40437916666t" region="region0" style="style0">Did you tell her that I did everything?</p>
+<p xml:id="subtitle732" begin="40438750000t" end="40450416666t" region="region0" style="style0">Admit it.</p>
+<p xml:id="subtitle733" begin="40451250000t" end="40469583333t" region="region0" style="style0">I didn't say anything, Yul.</p>
+<p xml:id="subtitle734" begin="40478750000t" end="40500000000t" region="region0" style="style0">Not everyone is as mean as you, Yul.</p>
+<p xml:id="subtitle735" begin="40558333333t" end="40587083333t" region="region0" style="style0">MULYONO SON OF PARTO<br/>21 MARCH 1965</p>
+<p xml:id="subtitle736" begin="40587916666t" end="40598333333t" region="region0" style="style0"><span style="style1">Destroyed.</span></p>
+<p xml:id="subtitle737" begin="40603333333t" end="40611250000t" region="region0" style="style0">Destroyed.</p>
+<p xml:id="subtitle738" begin="40612083333t" end="40625833333t" region="region0" style="style0">Destroyed.</p>
+<p xml:id="subtitle739" begin="40648750000t" end="40687500000t" region="region0" style="style0">I call upon the Queen of Black Magic<br/>in the high mountains.</p>
+<p xml:id="subtitle740" begin="40695833333t" end="40725833333t" region="region0" style="style0">I know the Queen always desires something.</p>
+<p xml:id="subtitle741" begin="40732916666t" end="40745833333t" region="region0" style="style0">I have brought</p>
+<p xml:id="subtitle742" begin="40762916666t" end="40779166666t" region="region0" style="style0">her favorite offering.</p>
+<p xml:id="subtitle743" begin="40780000000t" end="40821250000t" region="region0" style="style0">Accept my command.</p>
+<p xml:id="subtitle744" begin="40822083333t" end="40841666666t" region="region0" style="style0">Destroy them all.</p>
+<p xml:id="subtitle745" begin="41839583333t" end="41851666666t" region="region0" style="style0">Who's that?</p>
+<p xml:id="subtitle746" begin="41861250000t" end="41875416666t" region="region0" style="style0">Who's there?</p>
+<p xml:id="subtitle747" begin="41876250000t" end="41890000000t" region="region0" style="style0">Stop messing around!</p>
+<p xml:id="subtitle748" begin="42568333333t" end="42580416666t" region="region0" style="style0">Help!</p>
+<p xml:id="subtitle749" begin="42581250000t" end="42595416666t" region="region0" style="style0">Help!</p>
+<p xml:id="subtitle750" begin="42791666666t" end="42804583333t" region="region0" style="style0">-Mrs. Laras!<br/>-Ma'am!</p>
+<p xml:id="subtitle751" begin="42805416666t" end="42821666666t" region="region0" style="style0">It's Mr. Yono, ma'am!</p>
+<p xml:id="subtitle752" begin="42822500000t" end="42842500000t" region="region0" style="style0">-Ma'am, Mr. Yono, ma'am.<br/>-At your shop, ma'am.</p>
+<p xml:id="subtitle753" begin="42843333333t" end="42857916666t" region="region0" style="style0">-Oh God!<br/>-Please step back.</p>
+<p xml:id="subtitle754" begin="42858750000t" end="42900000000t" region="region0" style="style0">Please, step back, step back.<br/>Stay behind the police line.</p>
+<p xml:id="subtitle755" begin="42900833333t" end="42917500000t" region="region0" style="style0">Excuse me, sorry.</p>
+<p xml:id="subtitle756" begin="42918333333t" end="42935833333t" region="region0" style="style0">Excuse me.</p>
+<p xml:id="subtitle757" begin="42936666666t" end="42949166666t" region="region0" style="style0">Sorry, sorry.</p>
+<p xml:id="subtitle758" begin="42950000000t" end="42968750000t" region="region0" style="style0">-Ma'am, don't come in.<br/>-I own the shop, sir.</p>
+<p xml:id="subtitle759" begin="42969583333t" end="42987500000t" region="region0" style="style0">All right, ma'am.</p>
+<p xml:id="subtitle760" begin="43016250000t" end="43034583333t" region="region0" style="style0">Oh my God!</p>
+<p xml:id="subtitle761" begin="43040833333t" end="43054583333t" region="region0" style="style0">Mom? Mom!</p>
+<p xml:id="subtitle762" begin="43060000000t" end="43073333333t" region="region0" style="style0">Mom.</p>
+<p xml:id="subtitle763" begin="43074166666t" end="43092916666t" region="region0" style="style0">Mom…</p>
+<p xml:id="subtitle764" begin="43104166666t" end="43125416666t" region="region0" style="style0">-Poor Mr. Yono.<br/>-I can't believe it.</p>
+<p xml:id="subtitle765" begin="43126250000t" end="43148333333t" region="region0" style="style0">His head…</p>
+<p xml:id="subtitle766" begin="43172083333t" end="43200000000t" region="region0" style="style0">LARAS DEWI<br/>DAUGHTER OF SATYA PURWOKO</p>
+<p xml:id="subtitle767" begin="43628333333t" end="43643750000t" region="region0" style="style0">Mom?</p>
+<p xml:id="subtitle768" begin="43853333333t" end="43864583333t" region="region0" style="style0">Mom?</p>
+<p xml:id="subtitle769" begin="43900833333t" end="43912083333t" region="region0" style="style0">Mom?</p>
+<p xml:id="subtitle770" begin="43976666666t" end="43986250000t" region="region0" style="style0">Mom?</p>
+<p xml:id="subtitle771" begin="44316666666t" end="44342500000t" region="region0" style="style0">No, Mom, don't!</p>
+<p xml:id="subtitle772" begin="44365000000t" end="44391666666t" region="region0" style="style0">All of you</p>
+<p xml:id="subtitle773" begin="44402500000t" end="44423333333t" region="region0" style="style0">will die.</p>
+<p xml:id="subtitle774" begin="44432083333t" end="44457083333t" region="region0" style="style0">Allah! There is no deity except Him, the<br/>Ever-Living, the Sustainer of existence.</p>
+<p xml:id="subtitle775" begin="44457916666t" end="44478333333t" region="region0" style="style0">Neither drowsiness overtakes Him<br/>nor sleep.</p>
+<p xml:id="subtitle776" begin="44479166666t" end="44502083333t" region="region0" style="style0">To Him belongs whatever is in the heavens<br/>and whatever is on the earth.</p>
+<p xml:id="subtitle777" begin="44502916666t" end="44527083333t" region="region0" style="style0">Who is it that can intercede with Him<br/>except by His permission?</p>
+<p xml:id="subtitle778" begin="44527916666t" end="44554166666t" region="region0" style="style0">He knows what is [presently] before them<br/>and what will be after them,</p>
+<p xml:id="subtitle779" begin="44555000000t" end="44578333333t" region="region0" style="style0">and they encompass not a thing<br/>of His knowledge except for what He wills.</p>
+<p xml:id="subtitle780" begin="44579166666t" end="44612916666t" region="region0" style="style0">His throne extends over the heavens<br/>and the earth,</p>
+<p xml:id="subtitle781" begin="44613750000t" end="44636666666t" region="region0" style="style0">and their preservation does not tire Him.</p>
+<p xml:id="subtitle782" begin="44637500000t" end="44672916666t" region="region0" style="style0">And He is the Most High, the Most Great.</p>
+<p xml:id="subtitle783" begin="44703750000t" end="44724583333t" region="region0" style="style0">Where are</p>
+<p xml:id="subtitle784" begin="44725416666t" end="44762916666t" region="region0" style="style0">your other prayers?</p>
+<p xml:id="subtitle785" begin="45422916666t" end="45434583333t" region="region0" style="style0">Abuyya?</p>
+<p xml:id="subtitle786" begin="45445000000t" end="45470000000t" region="region0" style="style0">Abuyya, please help me.</p>
+<p xml:id="subtitle787" begin="45470833333t" end="45493333333t" region="region0" style="style0">My mom, she's…</p>
+<p xml:id="subtitle788" begin="46235000000t" end="46277916666t" region="region0" style="style0">Mom! Don't, Mom!</p>
+<p xml:id="subtitle789" begin="47138333333t" end="47151250000t" region="region0" style="style0">In the name of Allah,</p>
+<p xml:id="subtitle790" begin="47152083333t" end="47182916666t" region="region0" style="style0">with whose name nothing on earth<br/>or in the heavens can cause harm.</p>
+<p xml:id="subtitle791" begin="47183750000t" end="47200833333t" region="region0" style="style0">And He is the All-Hearing,<br/>the All-Knowing.</p>
+<p xml:id="subtitle792" begin="47245000000t" end="47264166666t" region="region0" style="style0">We'll take your mother to the mosque.</p>
+<p xml:id="subtitle793" begin="47273333333t" end="47282916666t" region="region0" style="style0">Come on.</p>
+<p xml:id="subtitle794" begin="47312083333t" end="47326666666t" region="region0" style="style0">Come on, be careful.</p>
+<p xml:id="subtitle795" begin="47334583333t" end="47347500000t" region="region0" style="style0">Come on.</p>
+<p xml:id="subtitle796" begin="47437083333t" end="47455416666t" region="region0" style="style0">Don't rush.</p>
+<p xml:id="subtitle797" begin="47562916666t" end="47606250000t" region="region0" style="style0">KARTIKA ANGGRAINI<br/>DAUGHTER OF RUDIANTO NUGROHO</p>
+<p xml:id="subtitle798" begin="48006250000t" end="48020416666t" region="region0" style="style0">Oh God!</p>
+<p xml:id="subtitle799" begin="48047083333t" end="48060416666t" region="region0" style="style0">Grandma…</p>
+<p xml:id="subtitle800" begin="48094583333t" end="48116666666t" region="region0" style="style0">Don't mention your God's name here.</p>
+<p xml:id="subtitle801" begin="48132916666t" end="48147083333t" region="region0" style="style0">Aunt Yuli?</p>
+<p xml:id="subtitle802" begin="48205833333t" end="48219583333t" region="region0" style="style0">What's the matter, Tika?</p>
+<p xml:id="subtitle803" begin="48261250000t" end="48271666666t" region="region0" style="style0">Yes.</p>
+<p xml:id="subtitle804" begin="48280000000t" end="48305000000t" region="region0" style="style0">I killed all your family.</p>
+<p xml:id="subtitle805" begin="48353333333t" end="48377083333t" region="region0" style="style0">They all deserved this.</p>
+<p xml:id="subtitle806" begin="48387083333t" end="48403750000t" region="region0" style="style0">Even Dean?</p>
+<p xml:id="subtitle807" begin="48407916666t" end="48420416666t" region="region0" style="style0">My dad?</p>
+<p xml:id="subtitle808" begin="48432916666t" end="48458750000t" region="region0" style="style0">-My mom now, because of you?<br/>-Everyone.</p>
+<p xml:id="subtitle809" begin="48472083333t" end="48493333333t" region="region0" style="style0">Your family is evil, Tika.</p>
+<p xml:id="subtitle810" begin="48498333333t" end="48523750000t" region="region0" style="style0">Since I was little,</p>
+<p xml:id="subtitle811" begin="48535833333t" end="48584166666t" region="region0" style="style0">I have never been treated well<br/>by your family.</p>
+<p xml:id="subtitle812" begin="48593750000t" end="48615416666t" region="region0" style="style0">They called me a bastard child.</p>
+<p xml:id="subtitle813" begin="48616250000t" end="48635833333t" region="region0" style="style0">I'm not.</p>
+<p xml:id="subtitle814" begin="48652916666t" end="48675416666t" region="region0" style="style0">Your grandmother lied.</p>
+<p xml:id="subtitle815" begin="48690416666t" end="48724166666t" region="region0" style="style0">She took everything I had, Tika.</p>
+<p xml:id="subtitle816" begin="48735833333t" end="48765000000t" region="region0" style="style0">She killed my parents using black magic.</p>
+<p xml:id="subtitle817" begin="48780416666t" end="48799166666t" region="region0" style="style0">She took my house.</p>
+<p xml:id="subtitle818" begin="48800000000t" end="48812500000t" region="region0" style="style0">My parents.</p>
+<p xml:id="subtitle819" begin="48813333333t" end="48830000000t" region="region0" style="style0">My life was ruined!</p>
+<p xml:id="subtitle820" begin="48867083333t" end="48902083333t" region="region0" style="style0">Your parents deserved to die!</p>
+<p xml:id="subtitle821" begin="48915833333t" end="48996666666t" region="region0" style="style0">I'll never regret doing it<br/>with my own hands.</p>
+<p xml:id="subtitle822" begin="49059166666t" end="49084166666t" region="region0" style="style0">Why didn't you ever tell me?</p>
+<p xml:id="subtitle823" begin="49100000000t" end="49120416666t" region="region0" style="style0">Auntie, we are a family.</p>
+<p xml:id="subtitle824" begin="49131666666t" end="49151666666t" region="region0" style="style0">You're such a good girl.</p>
+<p xml:id="subtitle825" begin="49162500000t" end="49189166666t" region="region0" style="style0">-Am I family?<br/>-Of course!</p>
+<p xml:id="subtitle826" begin="49190000000t" end="49214166666t" region="region0" style="style0">-Yes, Auntie…<br/>-Every day, you saw me being tormented.</p>
+<p xml:id="subtitle827" begin="49215000000t" end="49236666666t" region="region0" style="style0">I was insulted by your mother.<br/>By your grandmother.</p>
+<p xml:id="subtitle828" begin="49237500000t" end="49258750000t" region="region0" style="style0">And what did you do?</p>
+<p xml:id="subtitle829" begin="49259583333t" end="49276250000t" region="region0" style="style0">Answer me! What did you do?</p>
+<p xml:id="subtitle830" begin="49283333333t" end="49303750000t" region="region0" style="style0">-I had no choice--<br/>-You pretend to be so pious.</p>
+<p xml:id="subtitle831" begin="49304583333t" end="49325000000t" region="region0" style="style0">But you never stood up for me!</p>
+<p xml:id="subtitle832" begin="49335000000t" end="49346250000t" region="region0" style="style0">You are a hypocrite.</p>
+<p xml:id="subtitle833" begin="49356250000t" end="49380416666t" region="region0" style="style0">You and your family deserve to die.</p>
+<p xml:id="subtitle834" begin="49476666666t" end="49490000000t" region="region0" style="style0">You're cruel!</p>
+<p xml:id="subtitle835" begin="49490833333t" end="49507500000t" region="region0" style="style0">That's how it feels to be me.</p>
+<p xml:id="subtitle836" begin="49508333333t" end="49528750000t" region="region0" style="style0">I will never be like you.</p>
+<p xml:id="subtitle837" begin="49529583333t" end="49549583333t" region="region0" style="style0">-Destroyed, right?<br/>-No.</p>
+<p xml:id="subtitle838" begin="49597916666t" end="49605833333t" region="region0" style="style0">Mom…</p>
+<p xml:id="subtitle839" begin="49617083333t" end="49630833333t" region="region0" style="style0">Mom…</p>
+<p xml:id="subtitle840" begin="49654166666t" end="49671250000t" region="region0" style="style0">Come on, continue.</p>
+<p xml:id="subtitle841" begin="49744583333t" end="49773333333t" region="region0" style="style0">Step back. Join them over there.</p>
+<p xml:id="subtitle842" begin="49809583333t" end="49857083333t" region="region0" style="style0">I seek forgiveness<br/>from Allah the Almighty.</p>
+<p xml:id="subtitle843" begin="49857916666t" end="49877916666t" region="region0" style="style0">I seek refuge in Allah<br/>from the accursed Satan.</p>
+<p xml:id="subtitle844" begin="49878750000t" end="49895416666t" region="region0" style="style0">In the name of Allah,<br/>the Most Gracious, the Most Merciful.</p>
+<p xml:id="subtitle845" begin="49896250000t" end="49923750000t" region="region0" style="style0">O Allah, You come from peace<br/>and from you comes peace,</p>
+<p xml:id="subtitle846" begin="49924583333t" end="49967500000t" region="region0" style="style0">and may peace be upon you.</p>
+<p xml:id="subtitle847" begin="49968333333t" end="50020416666t" region="region0" style="style0">Blessed are You,<br/>o owner of majesty and honor.</p>
+<p xml:id="subtitle848" begin="50034166666t" end="50063750000t" region="region0" style="style0">I seek refuge in Allah<br/>from the accursed Satan.</p>
+<p xml:id="subtitle849" begin="50098333333t" end="50126250000t" region="region0" style="style0">In the name of Allah,<br/>I perform an exorcism for you</p>
+<p xml:id="subtitle850" begin="50127083333t" end="50157083333t" region="region0" style="style0">from everything that harms you,</p>
+<p xml:id="subtitle851" begin="50157916666t" end="50183333333t" region="region0" style="style0">from the evil of every soul<br/>or envious eye.</p>
+<p xml:id="subtitle852" begin="50184166666t" end="50200833333t" region="region0" style="style0">May Allah heal you.</p>
+<p xml:id="subtitle853" begin="50301666666t" end="50317083333t" region="region0" style="style0">I seek refuge in Allah<br/>from the accursed Satan.</p>
+<p xml:id="subtitle854" begin="50317916666t" end="50335000000t" region="region0" style="style0">In the name of Allah,<br/>the Most Gracious, the Most Merciful.</p>
+<p xml:id="subtitle855" begin="50335833333t" end="50353750000t" region="region0" style="style0">Say, O Prophet,<br/>&quot;O Allah! Lord over all authorities!</p>
+<p xml:id="subtitle856" begin="50354583333t" end="50385000000t" region="region0" style="style0">You give authority to whoever You please<br/>and remove it from who You please.</p>
+<p xml:id="subtitle857" begin="50385833333t" end="50403750000t" region="region0" style="style0">You honor whoever You please<br/>and disgrace who You please.</p>
+<p xml:id="subtitle858" begin="50404583333t" end="50446250000t" region="region0" style="style0">All good is in Your Hands. Surely<br/>You alone are Most Capable of everything.</p>
+<p xml:id="subtitle859" begin="50447083333t" end="50483750000t" region="region0" style="style0">You cause the night to pass into the day<br/>and the day into the night.</p>
+<p xml:id="subtitle860" begin="50484583333t" end="50528333333t" region="region0" style="style0">You bring forth the living from the dead<br/>and the dead from the living.</p>
+<p xml:id="subtitle861" begin="50529166666t" end="50558750000t" region="region0" style="style0">And You provide for whoever You will<br/>without limit.&quot;</p>
+<p xml:id="subtitle862" begin="50587500000t" end="50614583333t" region="region0" style="style0">In the name of Allah,<br/>Allah is the Greatest.</p>
+<p xml:id="subtitle863" begin="50757916666t" end="50768333333t" region="region0" style="style0">Mom!</p>
+<p xml:id="subtitle864" begin="50914166666t" end="50933750000t" region="region0" style="style0">Blood meets blood.</p>
+<p xml:id="subtitle865" begin="50938333333t" end="50957500000t" region="region0" style="style0">Skin meets skin.</p>
+<p xml:id="subtitle866" begin="50958333333t" end="50972083333t" region="region0" style="style0">Flesh meets flesh.</p>
+<p xml:id="subtitle867" begin="50982083333t" end="51003750000t" region="region0" style="style0">Breech blocked by breech.</p>
+<p xml:id="subtitle868" begin="51008333333t" end="51041666666t" region="region0" style="style0">I am controlled by my ancestors.</p>
+<p xml:id="subtitle869" begin="51047083333t" end="51087083333t" region="region0" style="style0">All shall be destroyed before me.</p>
+<p xml:id="subtitle870" begin="51136250000t" end="51157500000t" region="region0" style="style0">Stay out of it, or you will be destroyed!</p>
+<p xml:id="subtitle871" begin="51158333333t" end="51175000000t" region="region0" style="style0">Indeed, it is from Solomon,</p>
+<p xml:id="subtitle872" begin="51175833333t" end="51199166666t" region="region0" style="style0">and indeed it is in the name of Allah,<br/>the Most Gracious, the Most Merciful.</p>
+<p xml:id="subtitle873" begin="51214166666t" end="51229166666t" region="region0" style="style0">Oh God!</p>
+<p xml:id="subtitle874" begin="51230000000t" end="51241250000t" region="region0" style="style0">Destroyed.</p>
+<p xml:id="subtitle875" begin="51248333333t" end="51263333333t" region="region0" style="style0">Destroyed.</p>
+<p xml:id="subtitle876" begin="51294583333t" end="51308750000t" region="region0" style="style0">I seek refuge in Allah<br/>from the accursed Satan.</p>
+<p xml:id="subtitle877" begin="51309583333t" end="51326666666t" region="region0" style="style0">In the name of Allah,<br/>the Most Gracious, the Most Merciful.</p>
+<p xml:id="subtitle878" begin="51327500000t" end="51340000000t" region="region0" style="style0">Say, O Prophet,</p>
+<p xml:id="subtitle879" begin="51340833333t" end="51365000000t" region="region0" style="style0">&quot;It has been revealed to me that a group<br/>of jinn listened to the Quran…&quot;</p>
+<p xml:id="subtitle880" begin="51365833333t" end="51376666666t" region="region0" style="style0">I call upon…</p>
+<p xml:id="subtitle881" begin="51412083333t" end="51435416666t" region="region0" style="style0">I call upon the Queen of Black Magic.</p>
+<p xml:id="subtitle882" begin="51450000000t" end="51485416666t" region="region0" style="style0">&quot;…and said to their fellow jinn, indeed,<br/>we have heard a wondrous recitation.</p>
+<p xml:id="subtitle883" begin="51486250000t" end="51502500000t" region="region0" style="style0">It leads to Right Guidance.&quot;</p>
+<p xml:id="subtitle884" begin="51503333333t" end="51532500000t" region="region0" style="style0">I call upon the Queen of Black Magic<br/>in the high mountains.</p>
+<p xml:id="subtitle885" begin="51548333333t" end="51560416666t" region="region0" style="style0">&quot;…so we believed in it,</p>
+<p xml:id="subtitle886" begin="51561250000t" end="51589166666t" region="region0" style="style0">and we will never associate anyone<br/>with our Lord in worship.&quot;</p>
+<p xml:id="subtitle887" begin="51590000000t" end="51614583333t" region="region0" style="style0">I know…</p>
+<p xml:id="subtitle888" begin="51620416666t" end="51649583333t" region="region0" style="style0">&quot;Now, we believe that our Lord,<br/>Exalted is His Majesty,</p>
+<p xml:id="subtitle889" begin="51650416666t" end="51675000000t" region="region0" style="style0">has neither a mate nor offspring…</p>
+<p xml:id="subtitle890" begin="51740833333t" end="51789583333t" region="region0" style="style0">and that the foolish of us used to utter<br/>outrageous falsehoods about Allah.&quot;</p>
+<p xml:id="subtitle891" begin="51835000000t" end="51898333333t" region="region0" style="style0">&quot;We certainly thought that humans and jinn<br/>would never speak lies about Allah.&quot;</p>
+<p xml:id="subtitle892" begin="51944583333t" end="52010000000t" region="region0" style="style0">&quot;And some men used to<br/>seek refuge with some jinn,</p>
+<p xml:id="subtitle893" begin="52010833333t" end="52030416666t" region="region0" style="style0">so they increased each other<br/>in wickedness.&quot;</p>
+<p xml:id="subtitle894" begin="52065416666t" end="52087083333t" region="region0" style="style0">In the name of Allah,<br/>Allah is the Greatest.</p>
+<p xml:id="subtitle895" begin="52153750000t" end="52176250000t" region="region0" style="style0">Allah is Sufficient for us,<br/>and He is the Best Disposer of affairs.</p>
+<p xml:id="subtitle896" begin="52179583333t" end="52190416666t" region="region0" style="style0">Mom?</p>
+<p xml:id="subtitle897" begin="52191250000t" end="52216250000t" region="region0" style="style0"><span style="style1">-Astaghfirullahaladzim.</span><br/>-Mom?</p>
+<p xml:id="subtitle898" begin="52217083333t" end="52229583333t" region="region0" style="style0">Mom?</p>
+<p xml:id="subtitle899" begin="52230416666t" end="52245833333t" region="region0" style="style0">Come on, help her up.</p>
+<p xml:id="subtitle900" begin="52374583333t" end="52387916666t" region="region0" style="style0">Continue the prayers.</p>
+<p xml:id="subtitle901" begin="52392500000t" end="52436666666t" region="region0" style="style0">I seek refuge in Allah<br/>from the accursed Satan.</p>
+<p xml:id="subtitle902" begin="52437500000t" end="52471666666t" region="region0" style="style0">In the name of Allah,<br/>the Most Gracious, the Most Merciful.</p>
+<p xml:id="subtitle903" begin="52472500000t" end="52497500000t" region="region0" style="style0">Say, O Prophet, He is Allah.<br/>One and Indivisible.</p>
+<p xml:id="subtitle904" begin="52498333333t" end="52515416666t" region="region0" style="style0">Allah, the Sustainer, needed by all.</p>
+<p xml:id="subtitle905" begin="52516250000t" end="52532500000t" region="region0" style="style0">He has never had offspring,<br/>nor was He born,</p>
+<p xml:id="subtitle906" begin="52533333333t" end="52561250000t" region="region0" style="style0">and there is none comparable to Him.</p>
+<p xml:id="subtitle907" begin="52562083333t" end="52591250000t" region="region0" style="style0">I seek refuge in Allah<br/>from the accursed Satan.</p>
+<p xml:id="subtitle908" begin="52592083333t" end="52625000000t" region="region0" style="style0">In the name of Allah,<br/>the Most Gracious, the Most Merciful.</p>
+<p xml:id="subtitle909" begin="52625833333t" end="52651666666t" region="region0" style="style0">Say, O Prophet, I seek refuge<br/>in the Lord of the daybreak</p>
+<p xml:id="subtitle910" begin="52652500000t" end="52671666666t" region="region0" style="style0">from the evil of whatever He has created,</p>
+<p xml:id="subtitle911" begin="52672500000t" end="52701250000t" region="region0" style="style0">and from the evil of the night<br/>when it grows dark,</p>
+<p xml:id="subtitle912" begin="52702083333t" end="52735833333t" region="region0" style="style0">and from the evil of those witches<br/>casting spells by blowing onto knots,</p>
+<p xml:id="subtitle913" begin="52736666666t" end="52768333333t" region="region0" style="style0">and from the evil of an envier<br/>when they envy.</p>
+<p xml:id="subtitle914" begin="52775833333t" end="52813750000t" region="region0" style="style0">I seek refuge in Allah<br/>from the accursed Satan.</p>
+<p xml:id="subtitle915" begin="52814583333t" end="52847916666t" region="region0" style="style0">In the name of Allah,<br/>the Most Gracious, the Most Merciful.</p>
+<p xml:id="subtitle916" begin="52848750000t" end="52877500000t" region="region0" style="style0">Say, O Prophet, I seek refuge<br/>in the Lord of humankind,</p>
+<p xml:id="subtitle917" begin="52878333333t" end="52919166666t" region="region0" style="style0">the Master of humankind,<br/>the God of humankind,</p>
+<p xml:id="subtitle918" begin="52920000000t" end="52988333333t" region="region0" style="style0">from the evil of the lurking whisperer,<br/>who whispers into the hearts of humankind,</p>
+<p xml:id="subtitle919" begin="52989166666t" end="53019166666t" region="region0" style="style0">from among jinn and humankind.</p>
+<p xml:id="subtitle920" begin="53082083333t" end="53109583333t" region="region0" style="style0">Enough, Tika! Enough.</p>
+<p xml:id="subtitle921" begin="53118750000t" end="53134166666t" region="region0" style="style0">-Get some water.<br/>-Enough!</p>
+<p xml:id="subtitle922" begin="53135000000t" end="53152500000t" region="region0" style="style0">Enough, Tika.</p>
+<p xml:id="subtitle923" begin="53199583333t" end="53213333333t" region="region0" style="style0">Tika.</p>
+<p xml:id="subtitle924" begin="53214166666t" end="53226666666t" region="region0" style="style0">Pray for your mom.</p>
+<p xml:id="subtitle925" begin="53276250000t" end="53287500000t" region="region0" style="style0">Let her go.</p>
+<p xml:id="subtitle926" begin="53345000000t" end="53395833333t" region="region0" style="style0">My Lord, forgive me and my parents,</p>
+<p xml:id="subtitle927" begin="53396666666t" end="53455416666t" region="region0" style="style0">and have mercy on them<br/>as they raised me when I was small.</p>
+<p xml:id="subtitle928" begin="53517500000t" end="53532500000t" region="region0" style="style0">Help!</p>
+<p xml:id="subtitle929" begin="53533333333t" end="53551250000t" region="region0" style="style0">I seek refuge in Allah<br/>from the accursed Satan.</p>
+<p xml:id="subtitle930" begin="53552083333t" end="53571666666t" region="region0" style="style0">In the name of Allah,<br/>the Most Gracious, the Most Merciful.</p>
+<p xml:id="subtitle931" begin="53572500000t" end="53617083333t" region="region0" style="style0">In Your Name,<br/>we repel enemies from all directions.</p>
+<p xml:id="subtitle932" begin="53617916666t" end="53648750000t" region="region0" style="style0">In the name of Allah,<br/>we pelt them from afar into disarray.</p>
+<p xml:id="subtitle933" begin="53649583333t" end="53675000000t" region="region0" style="style0">You are my hope, O God and my Master.</p>
+<p xml:id="subtitle934" begin="53675833333t" end="53698750000t" region="region0" style="style0">You are my hope, O God and my Master.</p>
+<p xml:id="subtitle935" begin="53699583333t" end="53747500000t" region="region0" style="style0">If they intend evil against me,<br/>then let them boil.</p>
+<p xml:id="subtitle936" begin="53748333333t" end="53788333333t" region="region0" style="style0">In the name of Allah,<br/>Allah is the Greatest!</p>
+<p xml:id="subtitle937" begin="54241666666t" end="54255000000t" region="region0" style="style0">O Allah…</p>
+<p xml:id="subtitle938" begin="54396666666t" end="54429583333t" region="region0" style="style0">May God forgive her sins.</p>
+<p xml:id="subtitle939" begin="54471250000t" end="54481250000t" region="region0" style="style0">Mom?</p>
+<p xml:id="subtitle940" begin="54493750000t" end="54503750000t" region="region0" style="style0">Mom…</p>
+<p xml:id="subtitle941" begin="54513750000t" end="54530416666t" region="region0" style="style0">Mom, it's me, Tika, Mom.</p>
+<p xml:id="subtitle942" begin="54547083333t" end="54564583333t" region="region0" style="style0">It's Tika.</p>
+<p xml:id="subtitle943" begin="54577916666t" end="54592500000t" region="region0" style="style0">Mrs. Laras?</p>
+<p xml:id="subtitle944" begin="54611666666t" end="54636250000t" region="region0" style="style0">-Seek forgiveness.<br/>-Mom!</p>
+<p xml:id="subtitle945" begin="54637083333t" end="54677500000t" region="region0" style="style0">I seek forgiveness from<br/>Allah the Almighty.</p>
+<p xml:id="subtitle946" begin="54678333333t" end="54724166666t" region="region0" style="style0">I seek forgiveness from<br/>Allah the Almighty.</p>
+<p xml:id="subtitle947" begin="54730416666t" end="54775416666t" region="region0" style="style0">I… I seek…</p>
+<p xml:id="subtitle948" begin="54776250000t" end="54831250000t" region="region0" style="style0">I seek forgiveness from<br/>Allah the Almighty.</p>
+<p xml:id="subtitle949" begin="54832083333t" end="54856666666t" region="region0" style="style0">I seek forgiveness from<br/>Allah the Almighty.</p>
+<p xml:id="subtitle950" begin="54857500000t" end="54884166666t" region="region0" style="style0">…forgiveness from Allah the Almighty.</p>
+<p xml:id="subtitle951" begin="54885000000t" end="54940000000t" region="region0" style="style0">I seek forgiveness from<br/>Allah the Almighty.</p>
+<p xml:id="subtitle952" begin="54955416666t" end="55005000000t" region="region0" style="style0">I seek forgiveness from<br/>Allah the Almighty.</p>
+<p xml:id="subtitle953" begin="55015416666t" end="55026250000t" region="region0" style="style0">Tika.</p>
+<p xml:id="subtitle954" begin="55027083333t" end="55044583333t" region="region0" style="style0">It's okay.</p>
+<p xml:id="subtitle955" begin="55045416666t" end="55082500000t" region="region0" style="style0">I seek forgiveness from<br/>Allah the Almighty.</p>
+<p xml:id="subtitle956" begin="55083333333t" end="55141250000t" region="region0" style="style0">I seek forgiveness from<br/>Allah the Almighty.</p>
+<p xml:id="subtitle957" begin="55142083333t" end="55192083333t" region="region0" style="style0">I seek forgiveness from<br/>Allah the Almighty.</p>
+<p xml:id="subtitle958" begin="55192916666t" end="55245416666t" region="region0" style="style0">There is no god but Allah,<br/>and Muhammad is the messenger of Allah.</p>
+<p xml:id="subtitle959" begin="55246250000t" end="55260000000t" region="region0" style="style0">Mom?</p>
+<p xml:id="subtitle960" begin="55260833333t" end="55294583333t" region="region0" style="style0">Indeed, we belong to Allah,<br/>and to Him we shall return.</p>
+<p xml:id="subtitle961" begin="55307916666t" end="55318750000t" region="region0" style="style0">Mom?</p>
+<p xml:id="subtitle962" begin="55337500000t" end="55351666666t" region="region0" style="style0">Mom!</p>
+<p xml:id="subtitle963" begin="55390000000t" end="55414166666t" region="region0" style="style0">Mom!</p>
+<p xml:id="subtitle964" begin="55464166666t" end="55496666666t" region="region0" style="style0">Mom, don't leave me!</p>
+<p xml:id="subtitle965" begin="55497500000t" end="55517083333t" region="region0" style="style0">Mom, wake up!</p>
+<p xml:id="subtitle966" begin="55597500000t" end="55618750000t" region="region0" style="style0">Mom, wake up!</p>
+<p xml:id="subtitle967" begin="55747500000t" end="55760833333t" region="region0" style="style0">-Tika?<br/>-Yes?</p>
+<p xml:id="subtitle968" begin="55761666666t" end="55788333333t" region="region0" style="style0">-I have to go.<br/>-Okay.</p>
+<p xml:id="subtitle969" begin="55793750000t" end="55807500000t" region="region0" style="style0">Thank you, Abuyya.</p>
+<p xml:id="subtitle970" begin="55816666666t" end="55837916666t" region="region0" style="style0">Stay strong, okay?</p>
+<p xml:id="subtitle971" begin="55845000000t" end="55856666666t" region="region0" style="style0">I will.</p>
+<p xml:id="subtitle972" begin="55877916666t" end="55892500000t" region="region0" style="style0">Peace be upon you.</p>
+<p xml:id="subtitle973" begin="55893333333t" end="55906250000t" region="region0" style="style0">And upon you too.</p>
+<p xml:id="subtitle974" begin="55926666666t" end="55945833333t" region="region0" style="style0">-Hang in there.<br/>-Thank you.</p>
+<p xml:id="subtitle975" begin="55946666666t" end="55961666666t" region="region0" style="style0">-See you.<br/>-Bye.</p>
+<p xml:id="subtitle976" begin="55975000000t" end="55992916666t" region="region0" style="style0">-Peace be upon you.<br/>-And upon you too.</p>
+<p xml:id="subtitle977" begin="56070416666t" end="56090833333t" region="region0" style="style0">LARAS DEWI<br/>DAUGHTER OF SATYA PURWOKO</p>
+<p xml:id="subtitle978" begin="56091666666t" end="56110000000t" region="region0" style="style0">BORN 10 AUGUST 1965<br/>DIED 22 MARCH 2000</p>
+<p xml:id="subtitle979" begin="56166250000t" end="56184583333t" region="region0" style="style0">RUDIANTO NUGROHO<br/>SON OF WIRAWAN</p>
+<p xml:id="subtitle980" begin="56185416666t" end="56201666666t" region="region0" style="style0">BORN 16 OCTOBER 1965<br/>DIED 20 MARCH 2000</p>
+<p xml:id="subtitle981" begin="56202500000t" end="56220000000t" region="region0" style="style0">AMBARWATI DAUGHTER OF SURYONO</p>
+<p xml:id="subtitle982" begin="56220833333t" end="56235833333t" region="region0" style="style0">BORN 20 FEBRUARY 1943<br/>DIED 15 MARCH 2000</p>
+<p xml:id="subtitle983" begin="56252500000t" end="56263750000t" region="region0" style="style0">YULIATI<br/>DAUGHTER OF SATYA PURWOKO</p>
+<p xml:id="subtitle984" begin="56264583333t" end="56278333333t" region="region0" style="style0">BORN 30 JULY 1965<br/>DIED 22 MARCH 2000</p>
+<p xml:id="subtitle985" begin="56310000000t" end="56344583333t" region="region0" style="style0">May Allah give me strength to do all this.</p>
+<p xml:id="subtitle986" begin="56375416666t" end="56392500000t" region="region0" style="style0">In the name of Allah,<br/>the Most Gracious, the Most Merciful.</p>
+</div>
+</body>
+</tt>
